@@ -24,7 +24,7 @@ body {
   
   /* OPTION TAB (NOT FULL WIDTH) */
   .option {
-    display: inline-block;        /* 🔑 prevents full width */
+    display: inline-block;
     width: fit-content;
     max-width: 98%;
     border: 2px solid #777;
@@ -43,37 +43,50 @@ body {
   }
   
   /* =========================
-     OPTION STATES (IMPORTANT)
+     OPTION STATES
   ========================= */
   
   /* 🟦 Selected (BEFORE SUBMIT) */
   .option.selected {
-    background: #d6e4ff;      /* blue */
+    background: #d6e4ff;
     border-color: #1f4ed8;
     color: #000;
   }
   
   /* 🟩 Correct Answer (AFTER SUBMIT) */
   .option.correct {
-    background: #b8f7b8;      /* green */
+    background: #b8f7b8;
     border-color: #0f7a0f;
     color: #000;
     font-weight: bold;
   }
   
   /* 🟥 Wrong Selected (AFTER SUBMIT) */
-  .option.wrong {
-    background: #f7b8b8;      /* red */
-    border-color: #a80000;
+  .option.wrong,
+  .option.wrong-selected {
+    background: #ffb3b3;
+    border-color: #b30000;
     color: #000;
     font-weight: bold;
   }
   
-  /* CORRECT ANSWER TEXT */
+  /* =========================
+     CORRECT ANSWER BOX
+  ========================= */
+  
   .correct-answer {
-    color: #0f7a0f;
-    margin-top: 10px;
-    font-size: 30px;
+    display: block;
+    margin-top: 18px;
+    padding: 16px 20px;
+    font-size: 34px;
+    font-weight: bold;
+  
+    color: #0f5132;
+    background: #d1e7dd;
+    border: 3px solid #0f5132;
+    border-radius: 14px;
+  
+    max-width: 98%;
   }
   
   /* =========================
@@ -118,19 +131,20 @@ body {
     }
   
     .question p {
-      font-size: 40px;       /* 🔥 HUGE QUESTION */
+      font-size: 40px;
       line-height: 1.8;
     }
   
     .option {
-      font-size: 38px;       /* 🔥 HUGE OPTIONS */
+      font-size: 38px;
       padding: 22px 30px;
       border-radius: 22px;
       border-width: 3px;
     }
   
     .correct-answer {
-      font-size: 34px;
+      font-size: 36px;
+      padding: 20px 24px;
     }
   
     .score-card {
@@ -142,11 +156,5 @@ body {
       font-size: 36px;
       padding: 24px 48px;
     }
-  }
-  .option.wrong-selected {
-    background: #ffb3b3;   /* darker red */
-    border-color: #b30000;
-    color: #000;
-    font-weight: bold;
   }
   
