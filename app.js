@@ -162,6 +162,17 @@ function handleButton() {
     loadCategory(currentCategory);
   }
 }
+document.querySelectorAll("#categoryBox button").forEach(btn => {
+  btn.addEventListener("click", function () {
+    document
+      .querySelectorAll("#categoryBox button")
+      .forEach(b => b.classList.remove("active"));
+
+    this.classList.add("active");
+
+    loadCategory(this.dataset.category);
+  });
+});
 
 /* 🔹 Start */
 loadCategory("award");

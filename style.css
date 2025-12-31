@@ -3,123 +3,116 @@
 ========================= */
 
 body {
-    font-family: Arial, sans-serif;
-    padding: 16px;
-    font-size: 22px;
-  }
-  
-  /* CATEGORY BUTTONS */
-  #categoryBox {
-    display: flex;
-    gap: 12px;
-    margin-bottom: 20px;
-    flex-wrap: wrap;
-  }
-  
-  #categoryBox button {
-    padding: 14px 28px;
-    font-size: 22px;
-    border-radius: 16px;
-    cursor: pointer;
-    background: #222;
-    color: #fff;
-    border: none;
-  }
-  
-  #categoryBox button:hover {
-    background: #444;
-  }
-  
-  /* QUESTION */
-  .question p {
-    font-size: 36px;
-    line-height: 1.7;
-  }
-  
-  /* OPTIONS */
-  .options {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-  }
-  
-  .option {
-    display: inline-block;
-    width: fit-content;
-    max-width: 98%;
-    border: 2px solid #777;
-    padding: 10px 20px;
-    cursor: pointer;
-    border-radius: 16px;
-    font-size: 36px;
-    background: #fff;
-  }
-  
-  .option:hover {
-    background: #eee;
-  }
-  
-  /* STATES */
-  .option.selected {
-    background: #d6e4ff;
-    border-color: #1f4ed8;
-  }
-  
-  .option.correct {
-    background: #b8f7b8;
-    border-color: #0f7a0f;
-    font-weight: bold;
-  }
-  
-  .option.wrong-selected {
-    background: #ffb3b3;
-    border-color: #b30000;
-    font-weight: bold;
-  }
-  
-  /* CORRECT ANSWER BOX */
-  .correct-answer {
-    margin-top: 18px;
-    padding: 16px;
-    font-size: 34px;
-    background: #d1e7dd;
-    border: 3px solid #0f5132;
-    border-radius: 14px;
-    display: none;
-  }
-  
-  /* SCORE CARD */
-  .score-card {
-    margin-top: 26px;
-    padding: 22px;
-    border-radius: 16px;
-    background: #f9f9f9;
-    border: 3px solid #ccc;
-    font-size: 30px;
-  }
-  
-  .score-item {
-    margin: 10px 0;
-  }
-  
-  .score-item.attempted { color: #0057b8; }
-  .score-item.correct { color: green; }
-  .score-item.wrong { color: red; }
-  .score-item.unattempted { color: gray; }
-  .score-item.total { font-weight: bold; }
-  
-  /* BUTTON */
-  button {
-    padding: 18px 40px;
-    font-size: 30px;
-    border-radius: 18px;
-    cursor: pointer;
-  }
-  
-  /* MOBILE */
-  @media (max-width: 600px) {
-    .question p { font-size: 40px; }
-    .option { font-size: 38px; padding: 22px 30px; }
-    button { font-size: 36px; }
-  }
-  
+  font-family: Arial, sans-serif;
+  padding: 16px;
+  font-size: 22px;
+}
+
+/* =========================
+   HORIZONTAL CATEGORY SCROLL (FIXED)
+========================= */
+
+#categoryBox {
+  display: flex;
+  flex-wrap: nowrap;          /* 🔥 MUST */
+  gap: 12px;
+  overflow-x: auto;           /* 🔥 MUST */
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 10px 4px;
+  margin-bottom: 20px;
+
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+#categoryBox::-webkit-scrollbar {
+  display: none;
+}
+
+#categoryBox button {
+  flex: 0 0 auto;
+  padding: 10px 18px;
+  font-size: 18px;
+  border-radius: 14px;
+  cursor: pointer;
+  background: #222;
+  color: #fff;
+  border: none;
+  white-space: nowrap;
+}
+
+#categoryBox button.active {
+  background: #0057b8;
+}
+
+/* =========================
+   QUESTIONS
+========================= */
+
+.question p {
+  font-size: 36px;
+  line-height: 1.5;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.option {
+  border: 2px solid #777;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 6px;
+  font-size: 36px;
+  background: #fff;
+}
+
+.option.selected {
+  background: #d6e4ff;
+}
+
+.option.correct {
+  background: #b8f7b8;
+  font-weight: bold;
+}
+
+.option.wrong-selected {
+  background: #ffb3b3;
+  font-weight: bold;
+}
+
+/* =========================
+   SCORE
+========================= */
+
+.score-card {
+  margin-top: 26px;
+  padding: 22px;
+  border-radius: 16px;
+  border: 3px solid #ccc;
+  font-size: 30px;
+}
+
+/* =========================
+   MAIN ACTION BUTTON ONLY
+========================= */
+
+#actionBtn {
+  padding: 18px 40px;
+  font-size: 30px;
+  border-radius: 18px;
+  cursor: pointer;
+}
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 600px) {
+  .question p { font-size: 28px; }
+  .option { font-size: 28px; padding: 8px 14px; }
+  #actionBtn { font-size: 32px; }
+}
