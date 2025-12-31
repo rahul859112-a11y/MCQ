@@ -1,91 +1,121 @@
+/* =========================
+   GLOBAL (DESKTOP DEFAULT)
+========================= */
+
 body {
     font-family: Arial, sans-serif;
-    padding: 15px;
-    font-size: 18px;
+    padding: 16px;
+    font-size: 20px;
   }
   
-  /* QUESTION TEXT */
+  /* QUESTION */
   .question p {
-    font-size: 19px;
-    line-height: 1.4;
+    font-size: 22px;
+    line-height: 1.6;
   }
   
-  /* OPTION CONTAINER */
+  /* OPTIONS CONTAINER */
   .options {
     display: flex;
     flex-direction: column;
-    gap: 4px;
+    gap: 10px;
   }
   
-  /* OPTION TAB – NOT FULL WIDTH */
+  /* OPTION TAB */
   .option {
-    display: inline-block;          /* 🔑 stops full width */
-    width: fit-content;             /* 🔑 auto width */
-    max-width: 90%;                 /* safety on long text */
-    border: 1px solid #ccc;
-    padding: 6px 10px;
-    margin: 2px 0;
+    display: inline-block;
+    width: fit-content;
+    max-width: 96%;
+    border: 2px solid #999;
+    padding: 10px 16px;
     cursor: pointer;
-    border-radius: 6px;
-    font-size: 18px;
-    line-height: 1.3;
-    background: #fff;
+    border-radius: 10px;
+    font-size: 21px;
+    line-height: 1.5;
+    background: #ffffff;
   }
   
-  /* Hover */
+  /* STATES */
   .option:hover {
-    background: #f2f2f2;
+    background: #eeeeee;
   }
   
-  /* Selected */
   .option.selected {
-    background: #d9e8ff;
-    border-color: #4285f4;
+    background: #d0e2ff;
+    border-color: #2a5bd7;
   }
   
-  /* Correct */
   .option.correct {
-    background: #c8f7c5;
-    border-color: green;
+    background: #bff0bf;
+    border-color: #1e7f1e;
     font-weight: bold;
   }
   
-  /* Wrong */
   .option.wrong {
-    background: #f7c5c5;
-    border-color: red;
+    background: #f4baba;
+    border-color: #b30000;
   }
   
-  /* Correct answer text */
+  /* CORRECT ANSWER TEXT */
   .correct-answer {
-    color: green;
-    margin-top: 4px;
-    font-size: 17px;
+    color: #1e7f1e;
+    margin-top: 8px;
+    font-size: 20px;
   }
   
   /* SCORE PANEL */
   .score-card {
-    margin-top: 20px;
-    padding: 12px;
-    border-radius: 6px;
+    margin-top: 24px;
+    padding: 18px;
+    border-radius: 10px;
     background: #f9f9f9;
-    border: 1px solid #ccc;
-    font-size: 17px;
+    border: 2px solid #ccc;
+    font-size: 20px;
   }
   
   .score-item {
-    margin: 4px 0;
+    margin: 8px 0;
   }
-  
-  .score-item.attempted { color: #0057b8; }
-  .score-item.correct { color: green; }
-  .score-item.wrong { color: red; }
-  .score-item.unattempted { color: gray; }
-  .score-item.total { font-weight: bold; }
   
   /* BUTTON */
   button {
-    padding: 8px 18px;
-    font-size: 17px;
+    padding: 14px 30px;
+    font-size: 21px;
+    border-radius: 10px;
+  }
+  
+  /* =========================
+     📱 MOBILE — ULTRA LARGE
+  ========================= */
+  @media (max-width: 600px) {
+  
+    body {
+      font-size: 26px;   /* 🔥 VERY BIG BASE */
+    }
+  
+    .question p {
+      font-size: 30px;   /* 🔥 HUGE QUESTION */
+      line-height: 1.7;
+    }
+  
+    .option {
+      font-size: 28px;   /* 🔥 HUGE OPTIONS */
+      padding: 18px 22px;
+      border-radius: 14px;
+    }
+  
+    .correct-answer {
+      font-size: 26px;
+    }
+  
+    .score-card {
+      font-size: 26px;
+      padding: 22px;
+    }
+  
+    button {
+      font-size: 28px;
+      padding: 18px 36px;
+    }
   }
   
