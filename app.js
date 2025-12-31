@@ -29,6 +29,10 @@ function fetchMCQData() {
     })
     .then(json => {
       data = json;
+
+      // 🔥 RANDOMIZE OPTIONS HERE
+      randomizeOptions();
+
       document.getElementById("subject").innerText = data.category;
       loadQuestions();
     })
@@ -36,6 +40,16 @@ function fetchMCQData() {
       alert(`Category "${currentCategory}" not loading.\nCheck file name & extension.`);
       console.error(err);
     });
+}
+
+/* 🔹 RANDOMIZE OPTIONS (IMPORTANT FUNCTION) */
+function randomizeOptions() {
+  data.questions.forEach(q => {
+    for (let i = q.options.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [q.options[i], q.options[j]] = [q.options[j], q.options[i]];
+    }
+  });
 }
 
 /* 🔹 Load Questions */
@@ -52,7 +66,7 @@ function loadQuestions() {
     `;
 
     q.options.forEach((opt, i) => {
-      const letter = String.fromCharCode(65 + i);
+      const letter = String.fromCharCode(65 + i); // A B C D
       html += `
         <div class="option" data-q="${qi}" data-val="${opt}">
           <b>${letter}.</b> ${opt}

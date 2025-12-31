@@ -1,0 +1,186 @@
+{
+  "category": "Government Schemes & Yojanas",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "'Shakti Shree Programme' has been launched by which state government?",
+      "options": ["Odisha", "Bihar", "Assam", "West Bengal"],
+      "answer": "Odisha"
+    },
+    {
+      "id": 2,
+      "question": "The objective of 'Shakti Shree Programme' is related to?",
+      "options": ["Safety of girl students", "Women employment", "Free health insurance", "Financial inclusion"],
+      "answer": "Safety of girl students"
+    },
+    {
+      "id": 3,
+      "question": "'One Road a Day' scheme is associated with which state/UT?",
+      "options": ["Delhi", "Punjab", "Haryana", "Rajasthan"],
+      "answer": "Delhi"
+    },
+    {
+      "id": 4,
+      "question": "Krishi Samriddhi Yojana has been launched by which state?",
+      "options": ["Maharashtra", "Madhya Pradesh", "Chhattisgarh", "Odisha"],
+      "answer": "Maharashtra"
+    },
+    {
+      "id": 5,
+      "question": "Bridge Scholar Scheme is implemented under which ministry?",
+      "options": ["Ministry of Education", "Ministry of Social Justice", "Ministry of Skill Development", "Ministry of Women & Child Development"],
+      "answer": "Ministry of Education"
+    },
+    {
+      "id": 6,
+      "question": "'Annadata Sukhibhav' scheme belongs to which state?",
+      "options": ["Andhra Pradesh", "Telangana", "Odisha", "Tamil Nadu"],
+      "answer": "Andhra Pradesh"
+    },
+    {
+      "id": 7,
+      "question": "'Nari Adalat' and 'Aama Empowerment' schemes were launched by which state?",
+      "options": ["Sikkim", "Assam", "Goa", "Kerala"],
+      "answer": "Sikkim"
+    },
+    {
+      "id": 8,
+      "question": "Chief Minister Thayamanavar Scheme is related to which state?",
+      "options": ["Tamil Nadu", "Kerala", "Andhra Pradesh", "Karnataka"],
+      "answer": "Tamil Nadu"
+    },
+    {
+      "id": 9,
+      "question": "'Disha Abhiyaan' scheme for intellectually disabled students was launched by which state?",
+      "options": ["Maharashtra", "Bihar", "Punjab", "Odisha"],
+      "answer": "Maharashtra"
+    },
+    {
+      "id": 10,
+      "question": "Prime Minister's Development India Employment Scheme was announced on which date?",
+      "options": ["15 August 2025", "26 January 2025", "1 July 2025", "2 October 2025"],
+      "answer": "15 August 2025"
+    },
+    {
+      "id": 11,
+      "question": "Shram Shree Scheme is associated with which state?",
+      "options": ["West Bengal", "Bihar", "Odisha", "Jharkhand"],
+      "answer": "West Bengal"
+    },
+    {
+      "id": 12,
+      "question": "Chief Minister Women Employment Scheme has been launched by which state?",
+      "options": ["Bihar", "Assam", "Odisha", "Haryana"],
+      "answer": "Bihar"
+    },
+    {
+      "id": 13,
+      "question": "Annapurna scheme for sanitation workers was launched in which city?",
+      "options": ["Bengaluru", "Chennai", "Hyderabad", "Pune"],
+      "answer": "Bengaluru"
+    },
+    {
+      "id": 14,
+      "question": "Lado Lakshmi Yojana is related to which state?",
+      "options": ["Haryana", "Punjab", "Rajasthan", "Uttar Pradesh"],
+      "answer": "Haryana"
+    },
+    {
+      "id": 15,
+      "question": "Matsya Shakti Project was launched in which location?",
+      "options": ["Thiruvananthapuram, Kerala", "Kochi, Kerala", "Alappuzha, Kerala", "Kollam, Kerala"],
+      "answer": "Thiruvananthapuram, Kerala"
+    },
+    {
+      "id": 16,
+      "question": "Which organization launched the 'Insurance Extension' scheme?",
+      "options": ["IRDAI", "RBI", "SEBI", "PFRDA"],
+      "answer": "IRDAI"
+    },
+    {
+      "id": 17,
+      "question": "'Angikaar 2025' campaign was launched by which Union Minister?",
+      "options": ["Manohar Lal Khattar", "Nitin Gadkari", "Amit Shah", "Piyush Goyal"],
+      "answer": "Manohar Lal Khattar"
+    },
+    {
+      "id": 18,
+      "question": "On which occasion was 'Swasth Nari Sashakt Parivar Abhiyan' launched?",
+      "options": ["PM Modi's birthday", "International Women's Day", "Independence Day", "National Nutrition Week"],
+      "answer": "PM Modi's birthday"
+    },
+    {
+      "id": 19,
+      "question": "'Mhaje Ghar' scheme is related to which state?",
+      "options": ["Goa", "Maharashtra", "Kerala", "Karnataka"],
+      "answer": "Goa"
+    },
+    {
+      "id": 20,
+      "question": "'Orunodoi 3.0' scheme belongs to which state?",
+      "options": ["Assam", "Tripura", "Meghalaya", "Nagaland"],
+      "answer": "Assam"
+    },
+    {
+      "id": 21,
+      "question": "Chief Minister Health Insurance Scheme providing ₹10 lakh cover per family is launched by which state?",
+      "options": ["Punjab", "Haryana", "Rajasthan", "Gujarat"],
+      "answer": "Punjab"
+    },
+    {
+      "id": 22,
+      "question": "Chief Minister Bharat Darshan Scheme is launched for which group?",
+      "options": ["Government school students (Class 9–12)", "College students", "Senior citizens", "Farmers"],
+      "answer": "Government school students (Class 9–12)"
+    },
+    {
+      "id": 23,
+      "question": "National Critical Minerals Mission has a duration of how many years?",
+      "options": ["7 years", "5 years", "10 years", "3 years"],
+      "answer": "7 years"
+    },
+    {
+      "id": 24,
+      "question": "PM Shram Yogi Maandhan scheme was launched in which year?",
+      "options": ["2019", "2018", "2020", "2017"],
+      "answer": "2019"
+    },
+    {
+      "id": 25,
+      "question": "Pradhan Mantri G-VAN Yojana aims to promote which sector?",
+      "options": ["2G Ethanol plants", "Solar power", "Wind energy", "Electric vehicles"],
+      "answer": "2G Ethanol plants"
+    },
+    {
+      "id": 26,
+      "question": "Soil Health Card Scheme was launched on which date?",
+      "options": ["19 February 2015", "1 January 2016", "2 October 2014", "26 January 2015"],
+      "answer": "19 February 2015"
+    },
+    {
+      "id": 27,
+      "question": "PM AASHA Yojana has been extended till which date?",
+      "options": ["31 March 2026", "31 March 2025", "31 December 2026", "30 June 2026"],
+      "answer": "31 March 2026"
+    },
+    {
+      "id": 28,
+      "question": "PM Surya Ghar: Free Electricity Scheme provides how many free units of electricity?",
+      "options": ["300 units", "200 units", "150 units", "500 units"],
+      "answer": "300 units"
+    },
+    {
+      "id": 29,
+      "question": "Digital India programme was launched on which date?",
+      "options": ["1 July 2015", "15 August 2014", "2 October 2015", "26 January 2016"],
+      "answer": "1 July 2015"
+    },
+    {
+      "id": 30,
+      "question": "MGNREGA has been renamed as which mission in West Bengal?",
+      "options": ["Mahatmashree", "Karmashree", "Vikasit Gramin", "Gramin Shakti"],
+      "answer": "Mahatmashree"
+    }
+  ]
+}
