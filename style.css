@@ -1,37 +1,36 @@
 /* =========================
-   GLOBAL (DESKTOP DEFAULT)
+   DESKTOP (NORMAL)
 ========================= */
-
 body {
     font-family: Arial, sans-serif;
     padding: 16px;
-    font-size: 20px;
+    font-size: 22px;
   }
   
   /* QUESTION */
   .question p {
-    font-size: 22px;
-    line-height: 1.6;
+    font-size: 36px;
+    line-height: 1.7;
   }
   
-  /* OPTIONS CONTAINER */
+  /* OPTIONS */
   .options {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 12px;
   }
   
   /* OPTION TAB */
   .option {
     display: inline-block;
     width: fit-content;
-    max-width: 96%;
-    border: 2px solid #999;
-    padding: 10px 16px;
+    max-width: 98%;
+    border: 1px solid #777;
+    padding: 1px 20px;
     cursor: pointer;
-    border-radius: 10px;
-    font-size: 21px;
-    line-height: 1.5;
+    border-radius: 16px;
+    font-size: 36px;
+    line-height: 1.6;
     background: #ffffff;
   }
   
@@ -41,81 +40,82 @@ body {
   }
   
   .option.selected {
-    background: #d0e2ff;
-    border-color: #2a5bd7;
+    background: #cfe0ff;
+    border-color: #1f4ed8;
   }
   
   .option.correct {
-    background: #bff0bf;
-    border-color: #1e7f1e;
+    background: #b2f2b2;
+    border-color: #0f7a0f;
     font-weight: bold;
   }
   
   .option.wrong {
-    background: #f4baba;
-    border-color: #b30000;
+    background: #f5b2b2;
+    border-color: #a80000;
   }
   
-  /* CORRECT ANSWER TEXT */
+  /* CORRECT ANSWER */
   .correct-answer {
-    color: #1e7f1e;
-    margin-top: 8px;
-    font-size: 20px;
+    color: #0f7a0f;
+    margin-top: 10px;
+    font-size: 23px;
   }
   
   /* SCORE PANEL */
   .score-card {
-    margin-top: 24px;
-    padding: 18px;
-    border-radius: 10px;
+    margin-top: 26px;
+    padding: 22px;
+    border-radius: 16px;
     background: #f9f9f9;
-    border: 2px solid #ccc;
-    font-size: 20px;
+    border: 3px solid #ccc;
+    font-size: 23px;
   }
   
   .score-item {
-    margin: 8px 0;
+    margin: 10px 0;
   }
   
   /* BUTTON */
   button {
-    padding: 14px 30px;
-    font-size: 21px;
-    border-radius: 10px;
+    padding: 18px 40px;
+    font-size: 24px;
+    border-radius: 18px;
   }
   
   /* =========================
-     📱 MOBILE — ULTRA LARGE
+     📱 MOBILE — MAX SIZE MODE
   ========================= */
   @media (max-width: 600px) {
   
     body {
-      font-size: 26px;   /* 🔥 VERY BIG BASE */
+      font-size: 30px;   /* 🔥 BASE HUGE */
     }
   
     .question p {
-      font-size: 30px;   /* 🔥 HUGE QUESTION */
-      line-height: 1.7;
+      font-size: 36px;   /* 🔥 VERY HUGE QUESTION */
+      line-height: 1.8;
     }
   
     .option {
-      font-size: 28px;   /* 🔥 HUGE OPTIONS */
-      padding: 18px 22px;
-      border-radius: 14px;
+      font-size: 34px;   /* 🔥 VERY HUGE OPTIONS */
+      padding: 26px 32px;
+      border-radius: 22px;
+      border-width: 4px;
     }
   
     .correct-answer {
-      font-size: 26px;
+      font-size: 30px;
     }
   
     .score-card {
-      font-size: 26px;
-      padding: 22px;
+      font-size: 30px;
+      padding: 28px;
     }
   
     button {
-      font-size: 28px;
-      padding: 18px 36px;
+      font-size: 34px;
+      padding: 24px 48px;
     }
   }
   
