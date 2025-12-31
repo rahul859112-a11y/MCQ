@@ -3,22 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <title>MCQ App</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <!-- CATEGORY SELECTION -->
 <div id="categoryBox">
-  <button onclick="loadCategory('award')">Awards</button>
-  <button onclick="loadCategory('appointment')">Appointments</button>
-  <button onclick="loadCategory('firstFemale')">First Female</button>
+  <button data-category="award">Awards</button>
+  <button data-category="appointment">Appointments</button>
+  <button data-category="firstFemale">First Female</button>
 </div>
 
 <h2 id="subject">Select Category</h2>
 
 <div id="quiz"></div>
 
-<button id="actionBtn" onclick="handleButton()">Submit Test</button>
+<button id="actionBtn">Submit Test</button>
 
 <div id="scoreBox"></div>
 

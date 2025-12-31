@@ -2,6 +2,16 @@ let data = null;
 let isSubmitted = false;
 let currentCategory = "award";
 
+/* 🔹 Category button binding (MOBILE SAFE) */
+document.querySelectorAll("#categoryBox button").forEach(btn => {
+  btn.addEventListener("click", () => {
+    loadCategory(btn.dataset.category);
+  });
+});
+
+/* 🔹 Action button */
+document.getElementById("actionBtn").addEventListener("click", handleButton);
+
 /* 🔹 Load Category */
 function loadCategory(category) {
   currentCategory = category;
@@ -13,13 +23,19 @@ function loadCategory(category) {
 /* 🔹 Fetch JSON */
 function fetchMCQData() {
   fetch(`questions/${currentCategory}.json`)
-    .then(res => res.json())
+    .then(res => {
+      if (!res.ok) throw new Error("File not found");
+      return res.json();
+    })
     .then(json => {
       data = json;
       document.getElementById("subject").innerText = data.category;
       loadQuestions();
     })
-    .catch(() => alert("Run app using a local server"));
+    .catch(err => {
+      alert(`Category "${currentCategory}" not loading.\nCheck file name & extension.`);
+      console.error(err);
+    });
 }
 
 /* 🔹 Load Questions */
@@ -60,70 +76,53 @@ function loadQuestions() {
 /* 🔹 Option Click */
 function enableOptionClick() {
   document.querySelectorAll(".option").forEach(opt => {
-    opt.onclick = function () {
+    opt.addEventListener("click", function () {
       if (isSubmitted) return;
 
       const q = this.dataset.q;
-
       document
         .querySelectorAll(`.option[data-q="${q}"]`)
         .forEach(o => o.classList.remove("selected"));
 
       this.classList.add("selected");
-    };
+    });
   });
 }
 
-/* 🔹 Submit Test (RECTIFIED COUNTING) */
+/* 🔹 Submit Test */
 function submitTest() {
-  let attempted = 0;
-  let correct = 0;
-  let wrong = 0;
+  let attempted = 0, correct = 0, wrong = 0;
 
   data.questions.forEach((q, i) => {
     const options = document.querySelectorAll(`.option[data-q="${i}"]`);
     const ansBox = document.getElementById(`ans-${i}`);
     let selected = null;
 
-    /* 🔹 Find selected option (ONCE) */
     options.forEach(o => {
-      if (o.classList.contains("selected")) {
-        selected = o;
-      }
+      if (o.classList.contains("selected")) selected = o;
     });
 
-    /* 🔹 Count attempted per QUESTION */
     if (selected) attempted++;
 
-    /* 🔹 Apply final colors */
     options.forEach(o => {
       o.classList.remove("selected");
-
-      if (o.dataset.val === q.answer) {
-        o.classList.add("correct");
-      }
+      if (o.dataset.val === q.answer) o.classList.add("correct");
     });
 
-    /* 🔹 Correct / Wrong */
     if (selected) {
-      if (selected.dataset.val === q.answer) {
-        correct++;
-      } else {
+      if (selected.dataset.val === q.answer) correct++;
+      else {
         selected.classList.add("wrong-selected");
         wrong++;
       }
     }
 
-    /* 🔹 Show correct answer */
     ansBox.innerHTML = `✔ Correct Answer: <b>${q.answer}</b>`;
     ansBox.style.display = "block";
   });
 
-  /* 🔹 SAFEST TOTAL COUNT */
   const total = data.questions.length;
-  const unattempted = total - attempted;
-
-  showScore(attempted, correct, wrong, unattempted, total);
+  showScore(attempted, correct, wrong, total - attempted, total);
 }
 
 /* 🔹 Score Display */
@@ -141,16 +140,14 @@ function showScore(a, c, w, u, t) {
 
 /* 🔹 Button Handler */
 function handleButton() {
-  const btn = document.getElementById("actionBtn");
-
   if (!isSubmitted) {
     submitTest();
-    btn.innerText = "Restart Test";
+    this.innerText = "Restart Test";
     isSubmitted = true;
   } else {
     loadCategory(currentCategory);
   }
 }
 
-/* 🔹 Start App */
+/* 🔹 Start */
 loadCategory("award");
