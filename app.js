@@ -39,8 +39,7 @@ function loadQuestions() {
 
     html += `
         </div>
-        <p class="correct-answer" id="answer-${qIndex}" style="display:none;">
-        </p>
+        <p class="correct-answer" id="answer-${qIndex}" style="display:none;"></p>
         <hr>
       </div>
     `;
@@ -51,7 +50,7 @@ function loadQuestions() {
   enableOptionClick();
 }
 
-/* 🔹 Option click */
+/* 🔹 Option click (BEFORE SUBMIT) */
 function enableOptionClick() {
   document.querySelectorAll(".option").forEach(option => {
     option.addEventListener("click", function () {
@@ -79,34 +78,39 @@ function submitTest() {
       `.option[data-question="${index}"]`
     );
     const answerDiv = document.getElementById(`answer-${index}`);
-    let selectedValue = null;
 
+    let selectedOption = null;
+
+    // find selected
     options.forEach(opt => {
       if (opt.classList.contains("selected")) {
-        selectedValue = opt.dataset.value;
+        selectedOption = opt;
         attempted++;
       }
     });
 
+    // apply final colors
     options.forEach(opt => {
+      opt.classList.remove("selected"); // 🔥 remove blue state
+
       const value = opt.dataset.value;
 
       if (value === q.answer) {
-        opt.classList.add("correct");
-      }
-
-      if (
-        selectedValue &&
-        selectedValue !== q.answer &&
-        value === selectedValue
-      ) {
-        opt.classList.add("wrong");
-        wrong++;
+        opt.classList.add("correct"); // green
       }
     });
 
-    if (selectedValue === q.answer) correct++;
+    // wrong selected
+    if (selectedOption) {
+      if (selectedOption.dataset.value === q.answer) {
+        correct++;
+      } else {
+        selectedOption.classList.add("wrong-selected"); // 🔴 different color
+        wrong++;
+      }
+    }
 
+    answerDiv.innerHTML = `✔ Correct Answer: <b>${q.answer}</b>`;
     answerDiv.style.display = "block";
   });
 
