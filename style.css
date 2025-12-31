@@ -1,5 +1,5 @@
 /* =========================
-   GLOBAL / DESKTOP
+   GLOBAL
 ========================= */
 
 body {
@@ -8,21 +8,41 @@ body {
     font-size: 22px;
   }
   
-  /* QUESTION TEXT */
+  /* CATEGORY BUTTONS */
+  #categoryBox {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  
+  #categoryBox button {
+    padding: 14px 28px;
+    font-size: 22px;
+    border-radius: 16px;
+    cursor: pointer;
+    background: #222;
+    color: #fff;
+    border: none;
+  }
+  
+  #categoryBox button:hover {
+    background: #444;
+  }
+  
+  /* QUESTION */
   .question p {
     font-size: 36px;
     line-height: 1.7;
-    margin-bottom: 12px;
   }
   
-  /* OPTIONS CONTAINER */
+  /* OPTIONS */
   .options {
     display: flex;
     flex-direction: column;
     gap: 12px;
   }
   
-  /* OPTION TAB (NOT FULL WIDTH) */
   .option {
     display: inline-block;
     width: fit-content;
@@ -32,67 +52,43 @@ body {
     cursor: pointer;
     border-radius: 16px;
     font-size: 36px;
-    line-height: 1.6;
-    background: #ffffff;
-    transition: background 0.2s, border 0.2s;
+    background: #fff;
   }
   
-  /* Hover */
   .option:hover {
-    background: #eeeeee;
+    background: #eee;
   }
   
-  /* =========================
-     OPTION STATES
-  ========================= */
-  
-  /* 🟦 Selected (BEFORE SUBMIT) */
+  /* STATES */
   .option.selected {
     background: #d6e4ff;
     border-color: #1f4ed8;
-    color: #000;
   }
   
-  /* 🟩 Correct Answer (AFTER SUBMIT) */
   .option.correct {
     background: #b8f7b8;
     border-color: #0f7a0f;
-    color: #000;
     font-weight: bold;
   }
   
-  /* 🟥 Wrong Selected (AFTER SUBMIT) */
-  .option.wrong,
   .option.wrong-selected {
     background: #ffb3b3;
     border-color: #b30000;
-    color: #000;
     font-weight: bold;
   }
   
-  /* =========================
-     CORRECT ANSWER BOX
-  ========================= */
-  
+  /* CORRECT ANSWER BOX */
   .correct-answer {
-    display: block;
     margin-top: 18px;
-    padding: 16px 20px;
+    padding: 16px;
     font-size: 34px;
-    font-weight: bold;
-  
-    color: #0f5132;
     background: #d1e7dd;
     border: 3px solid #0f5132;
     border-radius: 14px;
-  
-    max-width: 98%;
+    display: none;
   }
   
-  /* =========================
-     SCORE PANEL
-  ========================= */
-  
+  /* SCORE CARD */
   .score-card {
     margin-top: 26px;
     padding: 22px;
@@ -120,41 +116,10 @@ body {
     cursor: pointer;
   }
   
-  /* =========================
-     📱 MOBILE — EXTREME BIG MODE
-  ========================= */
-  
+  /* MOBILE */
   @media (max-width: 600px) {
-  
-    body {
-      font-size: 30px;
-    }
-  
-    .question p {
-      font-size: 40px;
-      line-height: 1.8;
-    }
-  
-    .option {
-      font-size: 38px;
-      padding: 22px 30px;
-      border-radius: 22px;
-      border-width: 3px;
-    }
-  
-    .correct-answer {
-      font-size: 36px;
-      padding: 20px 24px;
-    }
-  
-    .score-card {
-      font-size: 34px;
-      padding: 26px;
-    }
-  
-    button {
-      font-size: 36px;
-      padding: 24px 48px;
-    }
+    .question p { font-size: 40px; }
+    .option { font-size: 38px; padding: 22px 30px; }
+    button { font-size: 36px; }
   }
   

@@ -1,0 +1,127 @@
+{
+    "category": "First Women & Historic Appointments",
+    "total_questions": 20,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Who is the new Chairperson of the National Commission for Women?",
+        "options": ["Vijaya Kishor Rahatkar", "Anju Rathi Rana", "Sonali Mishra", "Priya Nair"],
+        "answer": "Vijaya Kishor Rahatkar"
+      },
+      {
+        "id": 2,
+        "question": "Who became the first Indian woman footballer to score 50 international goals?",
+        "options": ["Bala Devi", "Dalima Chhibber", "Ashalata Devi", "Rani Rampal"],
+        "answer": "Bala Devi"
+      },
+      {
+        "id": 3,
+        "question": "Who is the first woman pilot of the Jaguar Squadron of the Indian Air Force?",
+        "options": ["Tanushka Singh", "Aastha Poonia", "Divya Sharma", "Avani Chaturvedi"],
+        "answer": "Tanushka Singh"
+      },
+      {
+        "id": 4,
+        "question": "Who became the first female President of the International Olympic Committee (IOC)?",
+        "options": ["Christie Coventry", "Annalena Baerbock", "Michelle Doherty", "Ngozi Okonjo-Iweala"],
+        "answer": "Christie Coventry"
+      },
+      {
+        "id": 5,
+        "question": "Who is the first woman head of the World Trade Organization (WTO)?",
+        "options": ["Ngozi Okonjo-Iweala", "Sheikha Nasser Al Nowais", "Jennifer Simons", "Netumbo Nandi Ndaitwah"],
+        "answer": "Ngozi Okonjo-Iweala"
+      },
+      {
+        "id": 6,
+        "question": "Who is India's first woman Law Secretary?",
+        "options": ["Anju Rathi Rana", "Vijaya Kishor Rahatkar", "Sushila Karki", "Sonali Mishra"],
+        "answer": "Anju Rathi Rana"
+      },
+      {
+        "id": 7,
+        "question": "Who is the first woman Director General of CSIR?",
+        "options": ["Nallathbi Kalaiselvi", "Anju Rathi Rana", "Michelle Doherty", "Priya Nair"],
+        "answer": "Nallathbi Kalaiselvi"
+      },
+      {
+        "id": 8,
+        "question": "Who is Namibia's first female President?",
+        "options": ["Netumbo Nandi Ndaitwah", "Jennifer Simons", "Christie Coventry", "Sushila Karki"],
+        "answer": "Netumbo Nandi Ndaitwah"
+      },
+      {
+        "id": 9,
+        "question": "Who is the first African woman Secretary-General of the Commonwealth of Nations?",
+        "options": ["Sharsily Botchwey", "Ngozi Okonjo-Iweala", "Michelle Doherty", "Annalena Baerbock"],
+        "answer": "Sharsily Botchwey"
+      },
+      {
+        "id": 10,
+        "question": "Who is the President of the Badminton World Federation?",
+        "options": ["Khunying Patama", "Christie Coventry", "Jennifer Simons", "Sheikha Nasser Al Nowais"],
+        "answer": "Khunying Patama"
+      },
+      {
+        "id": 11,
+        "question": "Who is the Indian Navy's first woman flying instructor?",
+        "options": ["Divya Sharma", "Aastha Poonia", "Tanushka Singh", "Avani Chaturvedi"],
+        "answer": "Divya Sharma"
+      },
+      {
+        "id": 12,
+        "question": "Africa's first democratically elected female president was from which country?",
+        "options": ["Liberia", "Namibia", "Ghana", "Zimbabwe"],
+        "answer": "Liberia"
+      },
+      {
+        "id": 13,
+        "question": "Who was the first woman Prime Minister in the world?",
+        "options": ["Sirimavo Bandaranaike", "Indira Gandhi", "Margaret Thatcher", "Golda Meir"],
+        "answer": "Sirimavo Bandaranaike"
+      },
+      {
+        "id": 14,
+        "question": "Who is the President of the 80th UN General Assembly session?",
+        "options": ["Annalena Baerbock", "Philemon Yang", "Christie Coventry", "Sharsily Botchwey"],
+        "answer": "Annalena Baerbock"
+      },
+      {
+        "id": 15,
+        "question": "Who is the first woman Secretary-General of the World Tourism Organization?",
+        "options": ["Sheikha Nasser Al Nowais", "Ngozi Okonjo-Iweala", "Jennifer Simons", "Michelle Doherty"],
+        "answer": "Sheikha Nasser Al Nowais"
+      },
+      {
+        "id": 16,
+        "question": "Who is the first female head of the UK's overseas intelligence agency MI6?",
+        "options": ["Blaise Metreveli", "Michelle Doherty", "Annalena Baerbock", "Jennifer Simons"],
+        "answer": "Blaise Metreveli"
+      },
+      {
+        "id": 17,
+        "question": "Who is the Indian Navy's first woman fighter pilot?",
+        "options": ["Aastha Poonia", "Divya Sharma", "Tanushka Singh", "Avani Chaturvedi"],
+        "answer": "Aastha Poonia"
+      },
+      {
+        "id": 18,
+        "question": "Who is the first female President of Suriname?",
+        "options": ["Jennifer Geerlings Simons", "Netumbo Nandi Ndaitwah", "Christie Coventry", "Sushila Karki"],
+        "answer": "Jennifer Geerlings Simons"
+      },
+      {
+        "id": 19,
+        "question": "Who is the first woman MD and CEO of Hindustan Unilever Limited?",
+        "options": ["Priya Nair", "Sonali Mishra", "Anju Rathi Rana", "Vijaya Kishor Rahatkar"],
+        "answer": "Priya Nair"
+      },
+      {
+        "id": 20,
+        "question": "Who is the first woman Chief of the Railway Protection Force (RPF)?",
+        "options": ["Sonali Mishra", "Uma Kanjilal", "Divya Sharma", "Sushila Karki"],
+        "answer": "Sonali Mishra"
+      }
+    ]
+  }
+  

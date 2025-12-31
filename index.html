@@ -2,12 +2,19 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>MCQ Test App</title>
+  <title>MCQ App</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<h2 id="subject">Loading...</h2>
+<!-- CATEGORY SELECTION -->
+<div id="categoryBox">
+  <button onclick="loadCategory('award')">Awards</button>
+  <button onclick="loadCategory('appointment')">Appointments</button>
+  <button onclick="loadCategory('firstFemale')">First Female</button>
+</div>
+
+<h2 id="subject">Select Category</h2>
 
 <div id="quiz"></div>
 

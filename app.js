@@ -1,37 +1,44 @@
 let data = null;
 let isSubmitted = false;
+let currentCategory = "award";
 
-/* 🔹 Fetch MCQ data */
+/* 🔹 Load Category */
+function loadCategory(category) {
+  currentCategory = category;
+  isSubmitted = false;
+  document.getElementById("actionBtn").innerText = "Submit Test";
+  fetchMCQData();
+}
+
+/* 🔹 Fetch JSON */
 function fetchMCQData() {
-  fetch("questions/award.json")
+  fetch(`questions/${currentCategory}.json`)
     .then(res => res.json())
-    .then(jsonData => {
-      data = jsonData;
+    .then(json => {
+      data = json;
       document.getElementById("subject").innerText = data.category;
       loadQuestions();
     })
-    .catch(() => alert("Run app using a server"));
+    .catch(() => alert("Run app using a local server"));
 }
 
-/* 🔹 Load questions */
+/* 🔹 Load Questions */
 function loadQuestions() {
-  const quizDiv = document.getElementById("quiz");
-  quizDiv.innerHTML = "";
+  const quiz = document.getElementById("quiz");
+  quiz.innerHTML = "";
   document.getElementById("scoreBox").innerHTML = "";
 
-  data.questions.forEach((q, qIndex) => {
+  data.questions.forEach((q, qi) => {
     let html = `
       <div class="question">
-        <p><b>${qIndex + 1}. ${q.question}</b></p>
+        <p><b>${qi + 1}. ${q.question}</b></p>
         <div class="options">
     `;
 
     q.options.forEach((opt, i) => {
       const letter = String.fromCharCode(65 + i);
       html += `
-        <div class="option"
-             data-question="${qIndex}"
-             data-value="${opt}">
+        <div class="option" data-q="${qi}" data-val="${opt}">
           <b>${letter}.</b> ${opt}
         </div>
       `;
@@ -39,108 +46,100 @@ function loadQuestions() {
 
     html += `
         </div>
-        <p class="correct-answer" id="answer-${qIndex}" style="display:none;"></p>
+        <div class="correct-answer" id="ans-${qi}" style="display:none;"></div>
         <hr>
       </div>
     `;
 
-    quizDiv.innerHTML += html;
+    quiz.innerHTML += html;
   });
 
   enableOptionClick();
 }
 
-/* 🔹 Option click (BEFORE SUBMIT) */
+/* 🔹 Option Click */
 function enableOptionClick() {
-  document.querySelectorAll(".option").forEach(option => {
-    option.addEventListener("click", function () {
+  document.querySelectorAll(".option").forEach(opt => {
+    opt.onclick = function () {
       if (isSubmitted) return;
 
-      const qIndex = this.dataset.question;
+      const q = this.dataset.q;
 
       document
-        .querySelectorAll(`.option[data-question="${qIndex}"]`)
-        .forEach(opt => opt.classList.remove("selected"));
+        .querySelectorAll(`.option[data-q="${q}"]`)
+        .forEach(o => o.classList.remove("selected"));
 
       this.classList.add("selected");
-    });
+    };
   });
 }
 
-/* 🔹 Submit Test */
+/* 🔹 Submit Test (RECTIFIED COUNTING) */
 function submitTest() {
   let attempted = 0;
   let correct = 0;
   let wrong = 0;
 
-  data.questions.forEach((q, index) => {
-    const options = document.querySelectorAll(
-      `.option[data-question="${index}"]`
-    );
-    const answerDiv = document.getElementById(`answer-${index}`);
+  data.questions.forEach((q, i) => {
+    const options = document.querySelectorAll(`.option[data-q="${i}"]`);
+    const ansBox = document.getElementById(`ans-${i}`);
+    let selected = null;
 
-    let selectedOption = null;
-
-    // find selected
-    options.forEach(opt => {
-      if (opt.classList.contains("selected")) {
-        selectedOption = opt;
-        attempted++;
+    /* 🔹 Find selected option (ONCE) */
+    options.forEach(o => {
+      if (o.classList.contains("selected")) {
+        selected = o;
       }
     });
 
-    // apply final colors
-    options.forEach(opt => {
-      opt.classList.remove("selected"); // 🔥 remove blue state
+    /* 🔹 Count attempted per QUESTION */
+    if (selected) attempted++;
 
-      const value = opt.dataset.value;
+    /* 🔹 Apply final colors */
+    options.forEach(o => {
+      o.classList.remove("selected");
 
-      if (value === q.answer) {
-        opt.classList.add("correct"); // green
+      if (o.dataset.val === q.answer) {
+        o.classList.add("correct");
       }
     });
 
-    // wrong selected
-    if (selectedOption) {
-      if (selectedOption.dataset.value === q.answer) {
+    /* 🔹 Correct / Wrong */
+    if (selected) {
+      if (selected.dataset.val === q.answer) {
         correct++;
       } else {
-        selectedOption.classList.add("wrong-selected"); // 🔴 different color
+        selected.classList.add("wrong-selected");
         wrong++;
       }
     }
 
-    answerDiv.innerHTML = `✔ Correct Answer: <b>${q.answer}</b>`;
-    answerDiv.style.display = "block";
+    /* 🔹 Show correct answer */
+    ansBox.innerHTML = `✔ Correct Answer: <b>${q.answer}</b>`;
+    ansBox.style.display = "block";
   });
 
-  const total = data.total_questions;
+  /* 🔹 SAFEST TOTAL COUNT */
+  const total = data.questions.length;
   const unattempted = total - attempted;
 
   showScore(attempted, correct, wrong, unattempted, total);
 }
 
-/* 🔹 Show score */
-function showScore(attempted, correct, wrong, unattempted, total) {
+/* 🔹 Score Display */
+function showScore(a, c, w, u, t) {
   document.getElementById("scoreBox").innerHTML = `
     <div class="score-card">
-      <div class="score-item attempted">Attempted: <b>${attempted}</b></div>
-      <div class="score-item correct">Correct: <b>${correct}</b></div>
-      <div class="score-item wrong">Wrong: <b>${wrong}</b></div>
-      <div class="score-item unattempted">Unattempted: <b>${unattempted}</b></div>
-      <div class="score-item total">Total: <b>${total}</b></div>
+      <div class="score-item attempted">Attempted: <b>${a}</b></div>
+      <div class="score-item correct">Correct: <b>${c}</b></div>
+      <div class="score-item wrong">Wrong: <b>${w}</b></div>
+      <div class="score-item unattempted">Unattempted: <b>${u}</b></div>
+      <div class="score-item total">Total: <b>${t}</b></div>
     </div>
   `;
 }
 
-/* 🔹 Restart Test */
-function restartTest() {
-  isSubmitted = false;
-  document.getElementById("actionBtn").innerText = "Submit Test";
-  fetchMCQData();
-}
-
-/* 🔹 Button handler */
+/* 🔹 Button Handler */
 function handleButton() {
   const btn = document.getElementById("actionBtn");
 
@@ -149,9 +148,9 @@ function handleButton() {
     btn.innerText = "Restart Test";
     isSubmitted = true;
   } else {
-    restartTest();
+    loadCategory(currentCategory);
   }
 }
 
-/* ✅ Start */
-fetchMCQData();
+/* 🔹 Start App */
+loadCategory("award");
