@@ -1,0 +1,265 @@
+{
+    "category": "Awards & Honours 2025",
+    "total_questions": 45,
+    "questions": [
+      {
+        "id": 1,
+        "question": "Who became the first woman from India to receive the Keaton R. Miller Award by IUCN?",
+        "options": ["Sonali Ghosh", "Varsha Deshpande", "Jinli Modi", "Supriya Sahu"],
+        "answer": "Sonali Ghosh"
+      },
+      {
+        "id": 2,
+        "question": "SASTRA Ramanujan Prize 2025 was awarded to whom?",
+        "options": ["Alexander Smith", "Manjul Bhargava", "Peter Scholze", "Terence Tao"],
+        "answer": "Alexander Smith"
+      },
+      {
+        "id": 3,
+        "question": "Which organisation received the BusinessLine Changemaker Award 2025?",
+        "options": ["ISRO", "DRDO", "HAL", "BARC"],
+        "answer": "DRDO"
+      },
+      {
+        "id": 4,
+        "question": "UNEP Young Champions of the Earth Award 2025 was won by whom?",
+        "options": ["Jinli Modi", "Supriya Sahu", "Sonali Ghosh", "Varsha Deshpande"],
+        "answer": "Jinli Modi"
+      },
+      {
+        "id": 5,
+        "question": "PV Narasimha Rao Memorial Award was posthumously awarded to whom?",
+        "options": ["Dr Manmohan Singh", "Pranab Mukherjee", "Atal Bihari Vajpayee", "P V Narasimha Rao"],
+        "answer": "Dr Manmohan Singh"
+      },
+      {
+        "id": 6,
+        "question": "Camel International Award 2025 was given to whom?",
+        "options": ["Yunus Ahmed", "Rajesh Unni", "Bhuvan Ribhu", "Ravi DC"],
+        "answer": "Yunus Ahmed"
+      },
+      {
+        "id": 7,
+        "question": "Who received the 43rd Lokmanya Tilak National Award 2025?",
+        "options": ["Nitin Gadkari", "Narendra Modi", "Amit Shah", "Rajnath Singh"],
+        "answer": "Nitin Gadkari"
+      },
+      {
+        "id": 8,
+        "question": "Lalit Kala Akademi Award 2025 was awarded to whom?",
+        "options": ["Premchand Pukhrambam", "Payal Kapadia", "Nnena Kalu", "P Sivakami"],
+        "answer": "Premchand Pukhrambam"
+      },
+      {
+        "id": 9,
+        "question": "Which group jointly won the Equator Prize 2025?",
+        "options": [
+          "Bibi Fatima Women's Self Help Group",
+          "SEWA",
+          "Kudumbashree",
+          "Mahila Mandal"
+        ],
+        "answer": "Bibi Fatima Women's Self Help Group"
+      },
+      {
+        "id": 10,
+        "question": "GP Birla Memorial Award 2025 was awarded to whom?",
+        "options": ["Dr V Narayanan", "S Somanath", "A S Kiran Kumar", "Ritu Karidhal"],
+        "answer": "Dr V Narayanan"
+      },
+      {
+        "id": 11,
+        "question": "PEN Translation Award 2025 was won by Geetanjali Shree for which book?",
+        "options": [
+          "Once Elephants Lived Here",
+          "Tomb of Sand",
+          "Ret Samadhi",
+          "Fire Bird"
+        ],
+        "answer": "Once Elephants Lived Here"
+      },
+      {
+        "id": 12,
+        "question": "Who translated 'Once Elephants Lived Here' into English?",
+        "options": ["Daisy Rockwell", "Arundhati Roy", "Meena Kandasamy", "Anita Desai"],
+        "answer": "Daisy Rockwell"
+      },
+      {
+        "id": 13,
+        "question": "United Nations Population Prize 2025 was awarded to whom?",
+        "options": ["Varsha Deshpande", "Supriya Sahu", "Jinli Modi", "Sonali Ghosh"],
+        "answer": "Varsha Deshpande"
+      },
+      {
+        "id": 14,
+        "question": "Cyprus's highest civilian honour 'Grand Cross of the Order of Makarios III' was awarded to whom?",
+        "options": ["Narendra Modi", "Joe Biden", "Rishi Sunak", "Emmanuel Macron"],
+        "answer": "Narendra Modi"
+      },
+      {
+        "id": 15,
+        "question": "World Food Prize 2025 was awarded to whom?",
+        "options": ["Mariangela Hugri", "Norman Borlaug", "Rajesh Unni", "Yunus Ahmed"],
+        "answer": "Mariangela Hugri"
+      },
+      {
+        "id": 16,
+        "question": "UNESCO Press Freedom Prize 2025 was awarded to which newspaper?",
+        "options": ["La Presse", "The Guardian", "New York Times", "Le Monde"],
+        "answer": "La Presse"
+      },
+      {
+        "id": 17,
+        "question": "Which Indian lawyer will receive the World Law Congress Award?",
+        "options": ["Bhuvan Ribhu", "Kapil Sibal", "Harish Salve", "Abhishek Manu Singhvi"],
+        "answer": "Bhuvan Ribhu"
+      },
+      {
+        "id": 18,
+        "question": "Which Indian filmmaker received French Honour 2025?",
+        "options": ["Payal Kapadia", "Zoya Akhtar", "Gauri Shinde", "Mira Nair"],
+        "answer": "Payal Kapadia"
+      },
+      {
+        "id": 19,
+        "question": "Lata Deenanath Mangeshkar Award 2025 was awarded to whom?",
+        "options": ["Kumar Mangalam Birla", "Mukesh Ambani", "Ratan Tata", "Gautam Adani"],
+        "answer": "Kumar Mangalam Birla"
+      },
+      {
+        "id": 20,
+        "question": "Skoch Award (Police and Security System) was won by which police force?",
+        "options": ["UP Police", "Delhi Police", "Maharashtra Police", "Punjab Police"],
+        "answer": "UP Police"
+      },
+      {
+        "id": 21,
+        "question": "Who became the first Asian to receive the Global Humanitarian Award?",
+        "options": ["Anant Ambani", "Mukesh Ambani", "Ratan Tata", "Azim Premji"],
+        "answer": "Anant Ambani"
+      },
+      {
+        "id": 22,
+        "question": "PETA India's Person of the Year 2025 was awarded to whom?",
+        "options": ["Raveena Tandon", "Alia Bhatt", "Vidya Balan", "Kangana Ranaut"],
+        "answer": "Raveena Tandon"
+      },
+      {
+        "id": 23,
+        "question": "Who received the first FIFA Peace Prize?",
+        "options": ["Donald Trump", "Joe Biden", "Barack Obama", "Vladimir Putin"],
+        "answer": "Donald Trump"
+      },
+      {
+        "id": 24,
+        "question": "Paulos Mar Gregorios Award was awarded to whom?",
+        "options": ["Dr Telly Thomas", "Ritu Karidhal", "Tessy Thomas", "Kalpana Chawla"],
+        "answer": "Dr Telly Thomas"
+      },
+      {
+        "id": 25,
+        "question": "Loknayak Foundation Literary Award 2025 was awarded to which Telugu writer?",
+        "options": ["Vellamala Simanna", "P Sivakami", "Geetanjali Shree", "Perumal Murugan"],
+        "answer": "Vellamala Simanna"
+      },
+      {
+        "id": 26,
+        "question": "Maulana Abul Kalam Azad Award 2025 was awarded to whom?",
+        "options": ["Mohammad Latif Khan", "Zakir Naik", "Abul Kalam Azad", "Najma Heptulla"],
+        "answer": "Mohammad Latif Khan"
+      },
+      {
+        "id": 27,
+        "question": "Turner Prize 2025 was won by whom?",
+        "options": ["Nnena Kalu", "Banksy", "Anish Kapoor", "Damien Hirst"],
+        "answer": "Nnena Kalu"
+      },
+      {
+        "id": 28,
+        "question": "Which Indian publisher received the French honour 'Chevalier de l’Ordre des Arts et des Lettres'?",
+        "options": ["Ravi DC", "Ravi Subramanian", "Arundhati Roy", "Amitav Ghosh"],
+        "answer": "Ravi DC"
+      },
+      {
+        "id": 29,
+        "question": "67th Ramon Magsaysay Award 2025 was awarded to which Indian organisation?",
+        "options": ["Educate Girls", "Pratham", "Teach For India", "Akshaya Patra"],
+        "answer": "Educate Girls"
+      },
+      {
+        "id": 30,
+        "question": "Educate Girls organisation was founded in which year?",
+        "options": ["2007", "2005", "2010", "2012"],
+        "answer": "2007"
+      },
+      {
+        "id": 31,
+        "question": "Who founded the Educate Girls organisation?",
+        "options": ["Safeena Hussain", "Aruna Roy", "Ela Bhatt", "Medha Patkar"],
+        "answer": "Safeena Hussain"
+      },
+      {
+        "id": 32,
+        "question": "Living Bridge Award was awarded to which UK Prime Minister?",
+        "options": ["Keir Starmer", "Rishi Sunak", "Boris Johnson", "Theresa May"],
+        "answer": "Keir Starmer"
+      },
+      {
+        "id": 33,
+        "question": "Which book by Kiran Desai was shortlisted for Booker Prize 2025?",
+        "options": [
+          "The Loneliness of Sonia and Sunny",
+          "The Inheritance of Loss",
+          "Hullabaloo in the Guava Orchard",
+          "Clear Light of Day"
+        ],
+        "answer": "The Loneliness of Sonia and Sunny"
+      },
+      {
+        "id": 34,
+        "question": "48th Mrs Universe 2025 title was won by whom?",
+        "options": ["Sherry Singh", "Neha Dhupia", "Sushmita Sen", "Lara Dutta"],
+        "answer": "Sherry Singh"
+      },
+      {
+        "id": 35,
+        "question": "UNEP Champions of the Earth 2025 was awarded to whom?",
+        "options": ["Supriya Sahu", "Jinli Modi", "Varsha Deshpande", "Sonali Ghosh"],
+        "answer": "Supriya Sahu"
+      },
+      {
+        "id": 36,
+        "question": "Vigyan Ratna Award 2025 was awarded to whom?",
+        "options": ["Jayant Vishnu Narlikar", "C N R Rao", "A P J Abdul Kalam", "Venkatraman Ramakrishnan"],
+        "answer": "Jayant Vishnu Narlikar"
+      },
+      {
+        "id": 37,
+        "question": "Which team received the Vigyan Team Award 2025?",
+        "options": [
+          "CSIR Aroma Mission Team",
+          "ISRO Chandrayaan Team",
+          "DRDO Missile Team",
+          "BARC Nuclear Team"
+        ],
+        "answer": "CSIR Aroma Mission Team"
+      },
+      {
+        "id": 38,
+        "question": "PM Rashtriya Bal Puraskar 2025 was awarded to whom?",
+        "options": ["Vaibhav Suryavanshi", "Prithvi Shaw", "Shubman Gill", "Yashasvi Jaiswal"],
+        "answer": "Vaibhav Suryavanshi"
+      },
+      {
+        "id": 39,
+        "question": "Vaibhav Suryavanshi is known for which cricket achievement?",
+        "options": [
+          "Youngest fastest List A century",
+          "Fastest T20 century",
+          "Most IPL sixes",
+          "Highest IPL score"
+        ],
+        "answer": "Youngest fastest List A century"
+      }
+    ]
+  }

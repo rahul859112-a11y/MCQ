@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 15px;
+  }
+  
+  .option {
+    border: 1px solid #ccc;
+    padding: 8px;
+    margin: 6px 0;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .option:hover {
+    background: #f2f2f2;
+  }
+  
+  .option.selected {
+    background: #d9e8ff;
+    border-color: #4285f4;
+  }
+  
+  .option.correct {
+    background: #c8f7c5;
+    border-color: green;
+    font-weight: bold;
+  }
+  
+  .option.wrong {
+    background: #f7c5c5;
+    border-color: red;
+  }
+  
+  .correct-answer {
+    color: green;
+    margin-top: 5px;
+  }
+  
+  /* SCORE PANEL */
+  .score-card {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 6px;
+    background: #f9f9f9;
+    border: 1px solid #ccc;
+  }
+  
+  .score-item {
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
+  .score-item.attempted { color: #0057b8; }
+  .score-item.correct { color: green; }
+  .score-item.wrong { color: red; }
+  .score-item.unattempted { color: gray; }
+  .score-item.total { font-weight: bold; }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
