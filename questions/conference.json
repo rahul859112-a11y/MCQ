@@ -1,6 +1,6 @@
 {
-  "category": "Summits, Conferences & Dialogues (2025–26)",
-  "total_questions": 70,
+  "category": "Summits, Conferences & Meetings (Sequential)",
+  "total_questions": 113,
   "questions": [
     {
       "id": 1,
@@ -16,15 +16,15 @@
     },
     {
       "id": 3,
-      "question": "Which body organised the National Environment Conference 2025?",
-      "options": ["National Green Tribunal", "MoEFCC", "UNEP", "NITI Aayog"],
-      "answer": "National Green Tribunal"
+      "question": "Who was the Chief Guest at the closing session of National Environment Conference 2025?",
+      "options": ["Vice President Jagdeep Dhankhar", "Prime Minister Narendra Modi", "Amit Shah", "Raj Nath Singh"],
+      "answer": "Vice President Jagdeep Dhankhar"
     },
     {
       "id": 4,
-      "question": "Who was the Chief Guest at the closing session of National Environment Conference 2025?",
-      "options": ["Jagdeep Dhankhar", "Narendra Modi", "Amit Shah", "Raj Nath Singh"],
-      "answer": "Jagdeep Dhankhar"
+      "question": "Which organization organized the National Environment Conference 2025?",
+      "options": ["National Green Tribunal", "MoEFCC", "UNEP", "NITI Aayog"],
+      "answer": "National Green Tribunal"
     },
     {
       "id": 5,
@@ -34,392 +34,650 @@
     },
     {
       "id": 6,
-      "question": "The 6th BIMSTEC Summit 2025 was held in which city?",
-      "options": ["Bangkok", "Kathmandu", "Dhaka", "Colombo"],
-      "answer": "Bangkok"
-    },
-    {
-      "id": 7,
-      "question": "14th Asian Fisheries and Aquaculture Forum meeting was held in which country?",
-      "options": ["India", "Japan", "Thailand", "Vietnam"],
+      "question": "The 14th Asian Fisheries and Aquaculture Forum meeting was held in which country?",
+      "options": ["India", "Japan", "Vietnam", "Indonesia"],
       "answer": "India"
     },
     {
-      "id": 8,
-      "question": "How many times has India hosted the Asian Fisheries and Aquaculture Forum?",
-      "options": ["Two times", "One time", "Three times", "Four times"],
-      "answer": "Two times"
+      "id": 7,
+      "question": "India hosted the Asian Fisheries and Aquaculture Forum for the ______ time.",
+      "options": ["Second", "First", "Third", "Fourth"],
+      "answer": "Second"
     },
     {
-      "id": 9,
-      "question": "12th World Government Summit 2025 was held in which city?",
+      "id": 8,
+      "question": "Where was the 12th World Government Summit 2025 held?",
       "options": ["Dubai", "Abu Dhabi", "Doha", "Riyadh"],
       "answer": "Dubai"
     },
     {
-      "id": 10,
-      "question": "STREE Summit 2025 on Women Safety and Empowerment was held in?",
-      "options": ["Hyderabad", "Bengaluru", "Pune", "Chennai"],
+      "id": 9,
+      "question": "STREE Summit 2025 on Women's Safety and Empowerment was held in which city?",
+      "options": ["Hyderabad", "Pune", "Bengaluru", "Chennai"],
       "answer": "Hyderabad"
     },
     {
-      "id": 11,
-      "question": "The 9th Global Technology Summit 2025 was held in which city?",
-      "options": ["New Delhi", "Bengaluru", "Mumbai", "Hyderabad"],
+      "id": 10,
+      "question": "The 9th edition of Global Technology Summit 2025 was held in which city?",
+      "options": ["New Delhi", "Mumbai", "Bengaluru", "Hyderabad"],
       "answer": "New Delhi"
     },
     {
-      "id": 12,
-      "question": "What was the theme of the Global Technology Summit 2025?",
+      "id": 11,
+      "question": "What was the theme of Global Technology Summit 2025?",
       "options": ["Possibility", "Innovation for Growth", "Digital Future", "AI for Humanity"],
       "answer": "Possibility"
     },
     {
-      "id": 13,
-      "question": "3rd BIMSTEC Agriculture Ministerial Meeting 2025 was held in?",
+      "id": 12,
+      "question": "3rd BIMSTEC Agriculture Ministerial Meeting 2025 was held in which city?",
       "options": ["Kathmandu", "Bangkok", "Dhaka", "Colombo"],
       "answer": "Kathmandu"
     },
     {
-      "id": 14,
-      "question": "150th Inter-Parliamentary Union (IPU) Summit was held in which country?",
-      "options": ["Uzbekistan", "Belize", "India", "France"],
+      "id": 13,
+      "question": "The 150th Inter-Parliamentary Union Summit was held in which country?",
+      "options": ["Uzbekistan", "Belize", "France", "India"],
       "answer": "Uzbekistan"
     },
     {
-      "id": 15,
-      "question": "Where was the first international research conference on pensions (World Bank collaboration) held?",
+      "id": 14,
+      "question": "Where was the first international research conference on pensions (with World Bank collaboration) held?",
       "options": ["New Delhi", "Washington DC", "Geneva", "Paris"],
       "answer": "New Delhi"
     },
     {
-      "id": 16,
-      "question": "International conference on 'Buddha Dhamma and Culture of North-East India' was held in?",
+      "id": 15,
+      "question": "International conference on 'Buddha Dhamma and Culture of North-East India' was held in which state?",
       "options": ["Arunachal Pradesh", "Assam", "Sikkim", "Manipur"],
       "answer": "Arunachal Pradesh"
     },
     {
-      "id": 17,
+      "id": 16,
       "question": "6th India Steel Conference 2025 was held in which city?",
-      "options": ["Mumbai", "Kolkata", "Pune", "Delhi"],
+      "options": ["Mumbai", "Kolkata", "Delhi", "Pune"],
       "answer": "Mumbai"
     },
     {
-      "id": 18,
-      "question": "SUFALAM 2025 programme was organised in which city?",
-      "options": ["Sonipat", "Panipat", "Rohtak", "Gurugram"],
+      "id": 17,
+      "question": "The second edition of SUFALAM 2025 programme was organised in which city?",
+      "options": ["Sonipat", "Gurugram", "Rohtak", "Panipat"],
       "answer": "Sonipat"
     },
     {
-      "id": 19,
-      "question": "4th India–Central Asia Dialogue 2025 was held in?",
+      "id": 18,
+      "question": "4th India–Central Asia Dialogue 2025 was held in which city?",
       "options": ["New Delhi", "Tashkent", "Astana", "Almaty"],
       "answer": "New Delhi"
     },
     {
+      "id": 19,
+      "question": "11th Commonwealth Parliamentary Association India Region Conference was inaugurated in which city?",
+      "options": ["Bengaluru", "Mumbai", "Hyderabad", "Chennai"],
+      "answer": "Bengaluru"
+    },
+    {
       "id": 20,
-      "question": "28th National e-Governance Conference 2025 was held in?",
-      "options": ["Visakhapatnam", "Hyderabad", "Bhubaneswar", "Vijayawada"],
-      "answer": "Visakhapatnam"
+      "question": "4th Coast Guard Global Summit 2025 was held in which country?",
+      "options": ["Italy", "Japan", "India", "France"],
+      "answer": "Italy"
     },
     {
       "id": 21,
-      "question": "Mobile World Congress 2025 was held in which country?",
-      "options": ["Spain", "Germany", "France", "Italy"],
-      "answer": "Spain"
+      "question": "Which country co-chaired the 4th Coast Guard Global Summit?",
+      "options": ["Japan", "India", "USA", "France"],
+      "answer": "Japan"
     },
     {
       "id": 22,
-      "question": "10th Raisina Dialogue 2025 was held in?",
-      "options": ["New Delhi", "Mumbai", "Jaipur", "Bengaluru"],
+      "question": "First Green Hydrogen R&D Conference 2025 was held in which city?",
+      "options": ["New Delhi", "Mumbai", "Bengaluru", "Hyderabad"],
       "answer": "New Delhi"
     },
     {
       "id": 23,
-      "question": "8th Indian Ocean Conference 2025 was held in?",
+      "question": "28th National e-Governance Conference 2025 was held in which city?",
+      "options": ["Visakhapatnam", "Vijayawada", "Hyderabad", "Bhubaneswar"],
+      "answer": "Visakhapatnam"
+    },
+    {
+      "id": 24,
+      "question": "8th Indian Ocean Conference 2025 was held in which city?",
       "options": ["Muscat", "Doha", "Dubai", "Colombo"],
       "answer": "Muscat"
     },
     {
-      "id": 24,
-      "question": "World Hydrogen Summit 2025 was held in which country?",
-      "options": ["Netherlands", "Germany", "France", "Belgium"],
-      "answer": "Netherlands"
+      "id": 25,
+      "question": "Mobile World Congress 2025 was held in which city?",
+      "options": ["Barcelona", "Berlin", "Paris", "London"],
+      "answer": "Barcelona"
     },
     {
-      "id": 25,
-      "question": "78th World Health Assembly was held in?",
+      "id": 26,
+      "question": "24th World Sustainable Development Summit 2025 was held in which city?",
+      "options": ["New Delhi", "Mumbai", "Bengaluru", "Hyderabad"],
+      "answer": "New Delhi"
+    },
+    {
+      "id": 27,
+      "question": "10th Raisina Dialogue 2025 was held in which city?",
+      "options": ["New Delhi", "Jaipur", "Mumbai", "Bengaluru"],
+      "answer": "New Delhi"
+    },
+    {
+      "id": 28,
+      "question": "6th BIMSTEC Summit 2025 was held in which city?",
+      "options": ["Bangkok", "Kathmandu", "Dhaka", "Colombo"],
+      "answer": "Bangkok"
+    },
+    {
+      "id": 29,
+      "question": "The next BIMSTEC Summit after 2025 will be hosted by which country?",
+      "options": ["Bangladesh", "India", "Thailand", "Nepal"],
+      "answer": "Bangladesh"
+    },
+    {
+      "id": 30,
+      "question": "9th Global Technology Summit 2025 was held in which city?",
+      "options": ["New Delhi", "Mumbai", "Bengaluru", "Hyderabad"],
+      "answer": "New Delhi"
+    },
+    {
+      "id": 31,
+      "question": "3rd BIMSTEC Agriculture Ministerial Meeting 2025 was held in which country?",
+      "options": ["Nepal", "Thailand", "India", "Bangladesh"],
+      "answer": "Nepal"
+    },
+    {
+      "id": 32,
+      "question": "STREE Summit 2025 on Women Safety and Empowerment was held in which city?",
+      "options": ["Hyderabad", "Bengaluru", "Chennai", "Pune"],
+      "answer": "Hyderabad"
+    },
+    {
+      "id": 33,
+      "question": "First Sagarmatha Dialogue 2025 was held in which city?",
+      "options": ["Kathmandu", "Pokhara", "Lalitpur", "Biratnagar"],
+      "answer": "Kathmandu"
+    },
+    {
+      "id": 34,
+      "question": "World Hydrogen Summit 2025 was held in which city?",
+      "options": ["Rotterdam", "Amsterdam", "The Hague", "Berlin"],
+      "answer": "Rotterdam"
+    },
+    {
+      "id": 35,
+      "question": "78th World Health Assembly was held in which city?",
       "options": ["Geneva", "Paris", "Rome", "Vienna"],
       "answer": "Geneva"
     },
     {
-      "id": 26,
-      "question": "3rd United Nations Ocean Conference was held in?",
-      "options": ["Nice, France", "Lisbon", "Barcelona", "Rome"],
-      "answer": "Nice, France"
+      "id": 36,
+      "question": "46th ASEAN Summit 2025 was held in which city?",
+      "options": ["Kuala Lumpur", "Jakarta", "Bangkok", "Hanoi"],
+      "answer": "Kuala Lumpur"
     },
     {
-      "id": 27,
-      "question": "51st G7 Summit 2025 was held in which country?",
-      "options": ["Canada", "France", "Japan", "Italy"],
-      "answer": "Canada"
+      "id": 37,
+      "question": "3rd United Nations Ocean Conference was held in which city?",
+      "options": ["Nice", "Lisbon", "Paris", "Barcelona"],
+      "answer": "Nice"
     },
     {
-      "id": 28,
+      "id": 38,
+      "question": "The 51st G7 Summit 2025 was held in which location?",
+      "options": ["Kananaskis, Canada", "Toronto, Canada", "Ottawa, Canada", "Montreal, Canada"],
+      "answer": "Kananaskis, Canada"
+    },
+    {
+      "id": 39,
       "question": "G20 Summit 2025 will be hosted by which country?",
       "options": ["South Africa", "Brazil", "India", "USA"],
       "answer": "South Africa"
     },
     {
-      "id": 29,
-      "question": "17th BRICS Summit 2025 was held in?",
+      "id": 40,
+      "question": "G20 Summit 2026 will be hosted by which city?",
+      "options": ["Miami", "New York", "Washington DC", "Los Angeles"],
+      "answer": "Miami"
+    },
+    {
+      "id": 41,
+      "question": "17th BRICS Summit 2025 was hosted by which country?",
       "options": ["Brazil", "India", "China", "Russia"],
       "answer": "Brazil"
     },
     {
-      "id": 30,
-      "question": "Which of the following became new BRICS members in 2025?",
-      "options": ["Egypt, Ethiopia, Iran, UAE, Indonesia", "Turkey, Saudi Arabia, UAE", "Nigeria, Kenya, Ghana", "Mexico, Argentina"],
-      "answer": "Egypt, Ethiopia, Iran, UAE, Indonesia"
+      "id": 42,
+      "question": "Which country became the 10th member of BRICS?",
+      "options": ["Indonesia", "UAE", "Iran", "Egypt"],
+      "answer": "Indonesia"
     },
     {
-      "id": 31,
-      "question": "18th BRICS Summit (2026) will be hosted by?",
+      "id": 43,
+      "question": "18th BRICS Summit 2026 will be hosted by which country?",
       "options": ["India", "Brazil", "China", "Russia"],
       "answer": "India"
     },
     {
-      "id": 32,
-      "question": "QUAD Summit 2025 will be hosted by?",
+      "id": 44,
+      "question": "QUAD Summit 2025 will be hosted by which country?",
       "options": ["India", "USA", "Japan", "Australia"],
       "answer": "India"
     },
     {
-      "id": 33,
+      "id": 45,
       "question": "SCO Summit 2025 will be held in which city?",
       "options": ["Tianjin", "Beijing", "Shanghai", "Wuhan"],
       "answer": "Tianjin"
     },
     {
-      "id": 34,
-      "question": "NATO Summit 2025 will be held in?",
+      "id": 46,
+      "question": "Which country will host the 26th SCO Summit in 2026?",
+      "options": ["Kyrgyzstan", "Pakistan", "India", "China"],
+      "answer": "Kyrgyzstan"
+    },
+    {
+      "id": 47,
+      "question": "NATO Summit 2025 will be held in which city?",
       "options": ["The Hague", "Brussels", "Paris", "Berlin"],
       "answer": "The Hague"
     },
     {
-      "id": 35,
-      "question": "COP-30 (2025) will be held in?",
-      "options": ["Belém, Brazil", "Baku, Azerbaijan", "Antalya, Türkiye", "Berlin"],
-      "answer": "Belém, Brazil"
+      "id": 48,
+      "question": "COP 30 (2025) will be held in which city?",
+      "options": ["Belém", "Brasília", "Rio de Janeiro", "São Paulo"],
+      "answer": "Belém"
     },
     {
-      "id": 36,
-      "question": "COP-29 (2024) was held in?",
-      "options": ["Baku", "Dubai", "Glasgow", "Madrid"],
+      "id": 49,
+      "question": "COP 29 (2024) was held in which city?",
+      "options": ["Baku", "Tbilisi", "Yerevan", "Astana"],
       "answer": "Baku"
     },
     {
-      "id": 37,
-      "question": "COP-31 (2026) will be hosted by which country?",
+      "id": 50,
+      "question": "Which country will host COP 31 (Climate Change Summit)?",
       "options": ["Türkiye", "India", "Brazil", "Germany"],
       "answer": "Türkiye"
     },
     {
-      "id": 38,
-      "question": "20th CITES Conference of Parties was held in?",
-      "options": ["Samarkand", "Astana", "Tashkent", "Almaty"],
+      "id": 51,
+      "question": "20th meeting of CITES was held in which city?",
+      "options": ["Samarkand", "Tashkent", "Bukhara", "Astana"],
       "answer": "Samarkand"
     },
     {
-      "id": 39,
-      "question": "Global AI Show 2025 was held in?",
-      "options": ["Abu Dhabi", "Dubai", "Doha", "Riyadh"],
+      "id": 52,
+      "question": "Global AI Show 2025 was held in which city?",
+      "options": ["Abu Dhabi", "Dubai", "Riyadh", "Doha"],
       "answer": "Abu Dhabi"
     },
     {
-      "id": 40,
-      "question": "India hosted UNESCO Cultural Heritage Session for the first time at?",
-      "options": ["Red Fort, New Delhi", "Qutub Minar", "Taj Mahal", "Humayun's Tomb"],
+      "id": 53,
+      "question": "India Impact AI Summit 2026 will be held in which city?",
+      "options": ["New Delhi", "Bengaluru", "Hyderabad", "Mumbai"],
+      "answer": "New Delhi"
+    },
+    {
+      "id": 54,
+      "question": "11th meeting of UNAOC was held in which city?",
+      "options": ["Riyadh", "Jeddah", "Doha", "Abu Dhabi"],
+      "answer": "Riyadh"
+    },
+    {
+      "id": 55,
+      "question": "India hosted the UNESCO Cultural Heritage Session for the first time at which site?",
+      "options": ["Red Fort, New Delhi", "Qutub Minar", "Taj Mahal", "Humayun’s Tomb"],
       "answer": "Red Fort, New Delhi"
     },
     {
-      "id": 41,
-      "question": "WHO's 2nd Global Traditional Medicine Conference was held in?",
+      "id": 56,
+      "question": "WHO’s 2nd Global Traditional Medicine Conference was held in which city?",
       "options": ["New Delhi", "Geneva", "Bangkok", "Beijing"],
       "answer": "New Delhi"
     },
     {
-      "id": 42,
-      "question": "World Telecommunication Development Conference 2025 was held in?",
-      "options": ["Baku", "Geneva", "Paris", "Rome"],
+      "id": 57,
+      "question": "World Telecommunication Development Conference 2025 will be held in which city?",
+      "options": ["Baku", "Geneva", "Paris", "Vienna"],
       "answer": "Baku"
     },
     {
-      "id": 43,
-      "question": "26th International Conference of Chief Justices of the World was held in?",
-      "options": ["Lucknow", "Delhi", "Mumbai", "Jaipur"],
-      "answer": "Lucknow"
-    },
-    {
-      "id": 44,
-      "question": "South India Natural Farming Summit 2025 was held in?",
-      "options": ["Coimbatore", "Madurai", "Salem", "Erode"],
-      "answer": "Coimbatore"
-    },
-    {
-      "id": 45,
-      "question": "SEMICON India 2025 was inaugurated at?",
-      "options": ["Yashobhoomi, New Delhi", "Pragati Maidan", "BIEC Bengaluru", "HICC Hyderabad"],
-      "answer": "Yashobhoomi, New Delhi"
-    },
-    {
-      "id": 46,
-      "question": "3rd Northeast Aviation Summit 2025 was held in?",
-      "options": ["Itanagar", "Guwahati", "Shillong", "Imphal"],
-      "answer": "Itanagar"
-    },
-    {
-      "id": 47,
-      "question": "5th World Tea Conference 2025 was held in?",
-      "options": ["Kochi", "Darjeeling", "Guwahati", "Coonoor"],
-      "answer": "Kochi"
-    },
-    {
-      "id": 48,
-      "question": "First ASEAN-India Cruise Dialogue was held in?",
-      "options": ["Chennai", "Kochi", "Visakhapatnam", "Mumbai"],
-      "answer": "Chennai"
-    },
-    {
-      "id": 49,
-      "question": "2nd BIMSTEC Ports Conference 2025 was held in?",
-      "options": ["Visakhapatnam", "Chennai", "Kolkata", "Kochi"],
-      "answer": "Visakhapatnam"
-    },
-    {
-      "id": 50,
-      "question": "Global Plastic Treaty Negotiations (INC-5.2) were held in?",
-      "options": ["Geneva", "Paris", "Rome", "Vienna"],
-      "answer": "Geneva"
-    },
-    {
-      "id": 51,
-      "question": "COP-17 of the Convention on Biological Diversity was held in?",
-      "options": ["Yerevan, Armenia", "Montreal", "Cali", "Bahamas"],
-      "answer": "Yerevan, Armenia"
-    },
-    {
-      "id": 52,
-      "question": "The slogan of COP-17 (CBD) was?",
-      "options": ["Taking Action for Nature", "Act Now", "Nature First", "Green Earth"],
-      "answer": "Taking Action for Nature"
-    },
-    {
-      "id": 53,
-      "question": "The logo of COP-17 (CBD) was?",
-      "options": ["Yerevan Blue Butterfly", "Green Leaf", "Earth Symbol", "Olive Branch"],
-      "answer": "Yerevan Blue Butterfly"
-    },
-    {
-      "id": 54,
-      "question": "COP-1 of Convention on Biological Diversity was held in 1994 at?",
-      "options": ["Bahamas", "Berlin", "Rio de Janeiro", "Kyoto"],
-      "answer": "Bahamas"
-    },
-    {
-      "id": 55,
-      "question": "COP-11 (CBD) was held in India in which city?",
-      "options": ["Hyderabad", "New Delhi", "Mumbai", "Chennai"],
-      "answer": "Hyderabad"
-    },
-    {
-      "id": 56,
-      "question": "COP-15 (CBD) was held in 2023 at?",
-      "options": ["Montreal", "Paris", "Rome", "Geneva"],
-      "answer": "Montreal"
-    },
-    {
-      "id": 57,
-      "question": "COP-16 (CBD) 2024 was held in?",
-      "options": ["Cali, Colombia", "Lima", "Bogota", "Santiago"],
-      "answer": "Cali, Colombia"
-    },
-    {
       "id": 58,
-      "question": "5th National Conference of Chief Secretaries was held in?",
-      "options": ["New Delhi", "Bhopal", "Jaipur", "Chandigarh"],
-      "answer": "New Delhi"
+      "question": "60th Conference of Directors General of Police and IGs was held in which city?",
+      "options": ["Raipur", "Ranchi", "Bhopal", "Nagpur"],
+      "answer": "Raipur"
     },
     {
       "id": 59,
       "question": "26th National Conference of Chairmen of State Public Service Commissions was held at?",
-      "options": ["Ramoji Film City, Hyderabad", "New Delhi", "Bhopal", "Jaipur"],
+      "options": ["Ramoji Film City, Hyderabad", "Vigyan Bhawan, Delhi", "Raj Bhavan, Mumbai", "Gandhinagar"],
       "answer": "Ramoji Film City, Hyderabad"
     },
     {
       "id": 60,
-      "question": "68th Commonwealth Parliamentary Conference was held in?",
-      "options": ["Bridgetown, Barbados", "London", "Ottawa", "Sydney"],
-      "answer": "Bridgetown, Barbados"
+      "question": "26th International Conference of Chief Justices of the World was held in which city?",
+      "options": ["Lucknow", "New Delhi", "Mumbai", "Jaipur"],
+      "answer": "Lucknow"
     },
     {
       "id": 61,
-      "question": "5th ASEAN-India Youth Summit was held in?",
-      "options": ["Goa", "Kochi", "Chennai", "Jaipur"],
-      "answer": "Goa"
+      "question": "South India Natural Farming Summit 2025 was held in which city?",
+      "options": ["Coimbatore", "Madurai", "Salem", "Tiruchirappalli"],
+      "answer": "Coimbatore"
     },
     {
       "id": 62,
-      "question": "National Conference of SC/ST Parliamentary Committee held outside Delhi for first time was in?",
-      "options": ["Bhubaneswar", "Patna", "Ranchi", "Raipur"],
-      "answer": "Bhubaneswar"
+      "question": "Who inaugurated the South India Natural Farming Summit 2025?",
+      "options": ["Prime Minister Narendra Modi", "President Draupadi Murmu", "Union Agriculture Minister", "Chief Minister of Tamil Nadu"],
+      "answer": "Prime Minister Narendra Modi"
     },
     {
       "id": 63,
-      "question": "20th Global Sustainability Summit was organised by which body?",
-      "options": ["CII", "FICCI", "ASSOCHAM", "NITI Aayog"],
-      "answer": "CII"
+      "question": "11th meeting of the UN Convention Against Corruption (COSP-11) was held in which city?",
+      "options": ["Doha", "Geneva", "Vienna", "Paris"],
+      "answer": "Doha"
     },
     {
       "id": 64,
-      "question": "International Conference on Space 2025 was held in?",
-      "options": ["Bengaluru", "Hyderabad", "Pune", "Chennai"],
-      "answer": "Bengaluru"
+      "question": "Which country will host the 12th UN Convention Against Corruption (COSP-12) in 2027?",
+      "options": ["Uzbekistan", "Qatar", "India", "France"],
+      "answer": "Uzbekistan"
     },
     {
       "id": 65,
-      "question": "23rd OPCW Regional Meeting of Asian States was held in?",
-      "options": ["New Delhi", "Bangkok", "Jakarta", "Manila"],
+      "question": "5th National Conference of Chief Secretaries was held in which city?",
+      "options": ["New Delhi", "Jaipur", "Bhopal", "Chandigarh"],
       "answer": "New Delhi"
     },
     {
       "id": 66,
-      "question": "3rd UN Conference on Landlocked Developing Countries was held in?",
-      "options": ["Avaza, Turkmenistan", "Ashgabat", "Tashkent", "Baku"],
-      "answer": "Avaza, Turkmenistan"
+      "question": "Who chaired the 5th National Conference of Chief Secretaries?",
+      "options": ["Prime Minister Narendra Modi", "Home Minister Amit Shah", "Cabinet Secretary", "President of India"],
+      "answer": "Prime Minister Narendra Modi"
     },
     {
       "id": 67,
-      "question": "27th Eastern Zonal Council meeting was held in?",
+      "question": "All India Speakers Conference was held in which city?",
+      "options": ["New Delhi", "Mumbai", "Bengaluru", "Kolkata"],
+      "answer": "New Delhi"
+    },
+    {
+      "id": 68,
+      "question": "Who was the first Indian elected Speaker of the Central Legislative Assembly?",
+      "options": ["Vithalbhai Patel", "G.V. Mavalankar", "Rajendra Prasad", "Madan Mohan Malaviya"],
+      "answer": "Vithalbhai Patel"
+    },
+    {
+      "id": 69,
+      "question": "First Tri-Service Seminar 'Rann Samvad 2025' was held in which state?",
+      "options": ["Madhya Pradesh", "Rajasthan", "Gujarat", "Uttar Pradesh"],
+      "answer": "Madhya Pradesh"
+    },
+    {
+      "id": 70,
+      "question": "41st Annual Convention of the Indian Association of Tour Operators (IATO) in 2026 will be held in which city?",
+      "options": ["Visakhapatnam", "Puri", "Goa", "Kochi"],
+      "answer": "Visakhapatnam"
+    },
+    {
+      "id": 71,
+      "question": "41st IATO Convention in 2025 was held in which city?",
+      "options": ["Puri", "Goa", "Jaipur", "Udaipur"],
+      "answer": "Puri"
+    },
+    {
+      "id": 72,
+      "question": "68th Commonwealth Parliamentary Conference was held in which city?",
+      "options": ["Bridgetown", "London", "Ottawa", "Sydney"],
+      "answer": "Bridgetown"
+    },
+    {
+      "id": 73,
+      "question": "68th Commonwealth Parliamentary Conference was held in which country?",
+      "options": ["Barbados", "Canada", "Australia", "UK"],
+      "answer": "Barbados"
+    },
+    {
+      "id": 74,
+      "question": "5th ASEAN-India Youth Summit was held in which state?",
+      "options": ["Goa", "Kerala", "Tamil Nadu", "Karnataka"],
+      "answer": "Goa"
+    },
+    {
+      "id": 75,
+      "question": "National Conference of the SC/ST Parliamentary Committee was held outside Delhi for the first time in which city?",
+      "options": ["Bhubaneswar", "Patna", "Ranchi", "Raipur"],
+      "answer": "Bhubaneswar"
+    },
+    {
+      "id": 76,
+      "question": "20th Global Sustainability Summit was organised by which organisation?",
+      "options": ["CII", "FICCI", "ASSOCHAM", "NITI Aayog"],
+      "answer": "CII"
+    },
+    {
+      "id": 77,
+      "question": "20th Global Sustainability Summit was held in which city?",
+      "options": ["New Delhi", "Mumbai", "Bengaluru", "Hyderabad"],
+      "answer": "New Delhi"
+    },
+    {
+      "id": 78,
+      "question": "SEMICON India 2025 was inaugurated in which city?",
+      "options": ["New Delhi", "Bengaluru", "Hyderabad", "Pune"],
+      "answer": "New Delhi"
+    },
+    {
+      "id": 79,
+      "question": "SEMICON India 2025 was inaugurated at which venue?",
+      "options": ["Yashobhoomi", "Pragati Maidan", "Vigyan Bhawan", "India Expo Centre"],
+      "answer": "Yashobhoomi"
+    },
+    {
+      "id": 80,
+      "question": "Who inaugurated SEMICON India 2025?",
+      "options": ["Prime Minister Narendra Modi", "President of India", "IT Minister", "Commerce Minister"],
+      "answer": "Prime Minister Narendra Modi"
+    },
+    {
+      "id": 81,
+      "question": "3rd Northeast Aviation Summit 2025 was held in which city?",
+      "options": ["Itanagar", "Guwahati", "Imphal", "Shillong"],
+      "answer": "Itanagar"
+    },
+    {
+      "id": 82,
+      "question": "International Conference on Space 2025 was held in which city?",
+      "options": ["Bengaluru", "Hyderabad", "Pune", "Chennai"],
+      "answer": "Bengaluru"
+    },
+    {
+      "id": 83,
+      "question": "5th World Tea Conference 2025 was held in which city?",
+      "options": ["Kochi", "Guwahati", "Darjeeling", "Coonoor"],
+      "answer": "Kochi"
+    },
+    {
+      "id": 84,
+      "question": "5th World Tea Conference was held in India for the _____ time.",
+      "options": ["First", "Second", "Third", "Fourth"],
+      "answer": "First"
+    },
+    {
+      "id": 85,
+      "question": "5th Official Language Conference 2025 was held at which place?",
+      "options": ["Mahatma Mandir, Gandhinagar", "Vigyan Bhawan", "Pragati Maidan", "Raj Bhavan"],
+      "answer": "Mahatma Mandir, Gandhinagar"
+    },
+    {
+      "id": 86,
+      "question": "Who inaugurated the 5th Official Language Conference 2025?",
+      "options": ["Amit Shah", "Narendra Modi", "Rajnath Singh", "Dharmendra Pradhan"],
+      "answer": "Amit Shah"
+    },
+    {
+      "id": 87,
+      "question": "First ASEAN-India Cruise Dialogue was held in which city?",
+      "options": ["Chennai", "Kochi", "Mumbai", "Visakhapatnam"],
+      "answer": "Chennai"
+    },
+    {
+      "id": 88,
+      "question": "First National Conference of Urban Local Bodies was held in which city?",
+      "options": ["Manesar", "Lucknow", "Pune", "Indore"],
+      "answer": "Manesar"
+    },
+    {
+      "id": 89,
+      "question": "Which cities were selected as best performing Municipal Corporations during the Urban Local Bodies Conference?",
+      "options": ["Lucknow, Pune, Indore", "Delhi, Mumbai, Chennai", "Jaipur, Bhopal, Raipur", "Kochi, Trivandrum, Kozhikode"],
+      "answer": "Lucknow, Pune, Indore"
+    },
+    {
+      "id": 90,
+      "question": "23rd OPCW Regional Meeting of Asian States was held in which city?",
+      "options": ["New Delhi", "Bangkok", "Jakarta", "Manila"],
+      "answer": "New Delhi"
+    },
+    {
+      "id": 91,
+      "question": "27th meeting of the Eastern Zonal Council was held in which city?",
       "options": ["Ranchi", "Patna", "Kolkata", "Bhubaneswar"],
       "answer": "Ranchi"
     },
     {
-      "id": 68,
-      "question": "Anti-terror conference organised by NIA was held in?",
+      "id": 92,
+      "question": "2nd BIMSTEC Ports Conference 2025 was held in which city?",
+      "options": ["Visakhapatnam", "Chennai", "Kolkata", "Kochi"],
+      "answer": "Visakhapatnam"
+    },
+    {
+      "id": 93,
+      "question": "National Conference on Good Governance Practices was held in which city?",
+      "options": ["Bhubaneswar", "New Delhi", "Hyderabad", "Raipur"],
+      "answer": "Bhubaneswar"
+    },
+    {
+      "id": 94,
+      "question": "Ocean Finance Summit 2025 was held in which city?",
+      "options": ["New Delhi", "Mumbai", "Chennai", "Kochi"],
+      "answer": "New Delhi"
+    },
+    {
+      "id": 95,
+      "question": "3rd United Nations Conference on Landlocked Developing Countries was held in which place?",
+      "options": ["Avaza, Turkmenistan", "Ashgabat", "Tashkent", "Baku"],
+      "answer": "Avaza, Turkmenistan"
+    },
+    {
+      "id": 96,
+      "question": "Global Plastic Treaty Negotiations (INC-5.2) took place in which city?",
+      "options": ["Geneva", "Paris", "Rome", "Vienna"],
+      "answer": "Geneva"
+    },
+    {
+      "id": 97,
+      "question": "Anti-terror conference organised by the National Investigation Agency (NIA) was held in which city?",
       "options": ["New Delhi", "Mumbai", "Hyderabad", "Lucknow"],
       "answer": "New Delhi"
     },
     {
-      "id": 69,
-      "question": "NIA was established in which year?",
+      "id": 98,
+      "question": "Who inaugurated the Anti-terror conference organised by NIA?",
+      "options": ["Amit Shah", "Narendra Modi", "Rajnath Singh", "Ajit Doval"],
+      "answer": "Amit Shah"
+    },
+    {
+      "id": 99,
+      "question": "In which year was the National Investigation Agency (NIA) established?",
       "options": ["2009", "2008", "2010", "2011"],
       "answer": "2009"
     },
     {
-      "id": 70,
-      "question": "Headquarters of National Investigation Agency (NIA) is located at?",
+      "id": 100,
+      "question": "Headquarters of the National Investigation Agency (NIA) is located at?",
       "options": ["New Delhi", "Mumbai", "Hyderabad", "Chandigarh"],
+      "answer": "New Delhi"
+    },
+    {
+      "id": 101,
+      "question": "COP-17 of the UN Convention on Biological Diversity was held in which city?",
+      "options": ["Yerevan", "Montreal", "Cali", "Bahamas"],
+      "answer": "Yerevan"
+    },
+    {
+      "id": 102,
+      "question": "COP-17 (Biodiversity) was hosted by which country?",
+      "options": ["Armenia", "Canada", "Colombia", "Bahamas"],
+      "answer": "Armenia"
+    },
+    {
+      "id": 103,
+      "question": "What was the logo of COP-17 (Biodiversity)?",
+      "options": ["Yerevan Blue Butterfly", "Green Leaf", "Earth Globe", "Olive Branch"],
+      "answer": "Yerevan Blue Butterfly"
+    },
+    {
+      "id": 104,
+      "question": "What was the slogan of COP-17 (Biodiversity)?",
+      "options": ["Taking Action for Nature", "Act Now for Climate", "Nature First", "Protect Our Planet"],
+      "answer": "Taking Action for Nature"
+    },
+    {
+      "id": 105,
+      "question": "COP-1 of the Convention on Biological Diversity was held in which year and place?",
+      "options": ["1994, Bahamas", "1992, Rio de Janeiro", "1995, Berlin", "1997, Kyoto"],
+      "answer": "1994, Bahamas"
+    },
+    {
+      "id": 106,
+      "question": "COP-11 of the Convention on Biological Diversity was held in which Indian city?",
+      "options": ["Hyderabad", "New Delhi", "Mumbai", "Chennai"],
+      "answer": "Hyderabad"
+    },
+    {
+      "id": 107,
+      "question": "COP-15 (Biodiversity) held in 2023 took place in which city?",
+      "options": ["Montreal", "Paris", "Geneva", "Rome"],
+      "answer": "Montreal"
+    },
+    {
+      "id": 108,
+      "question": "COP-16 (Biodiversity) held in 2024 was organised in which city?",
+      "options": ["Cali", "Bogota", "Lima", "Santiago"],
+      "answer": "Cali"
+    },
+    {
+      "id": 109,
+      "question": "Which country hosted COP-30 (Climate Change) in 2025?",
+      "options": ["Brazil", "Azerbaijan", "Türkiye", "Germany"],
+      "answer": "Brazil"
+    },
+    {
+      "id": 110,
+      "question": "COP-30 (2025) was held in which city?",
+      "options": ["Belém", "Rio de Janeiro", "Brasília", "São Paulo"],
+      "answer": "Belém"
+    },
+    {
+      "id": 111,
+      "question": "Which country will host COP-31 (Climate Change Summit) in 2026?",
+      "options": ["Türkiye", "India", "Brazil", "Germany"],
+      "answer": "Türkiye"
+    },
+    {
+      "id": 112,
+      "question": "COP-33 will be hosted by which country in 2028?",
+      "options": ["India", "France", "Germany", "Japan"],
+      "answer": "India"
+    },
+    {
+      "id": 113,
+      "question": "India previously hosted COP-8 of the Climate Change Conference in which city?",
+      "options": ["New Delhi", "Hyderabad", "Mumbai", "Chennai"],
       "answer": "New Delhi"
     }
   ]
