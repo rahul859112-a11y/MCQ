@@ -1,0 +1,809 @@
+{
+  "category": "Five Year Plans of India",
+  "total_questions": 113,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The First Five Year Plan of India was implemented during which period?",
+      "options": ["1951–1956", "1956–1961", "1961–1966", "1969–1974"],
+      "answer": "1951–1956"
+    },
+    {
+      "id": 2,
+      "question": "Who introduced the First Five Year Plan in Parliament?",
+      "options": ["Jawaharlal Nehru", "Rajendra Prasad", "Indira Gandhi", "Lal Bahadur Shastri"],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "id": 3,
+      "question": "Who was the Prime Minister during the First Five Year Plan?",
+      "options": ["Jawaharlal Nehru", "Indira Gandhi", "Lal Bahadur Shastri", "Rajiv Gandhi"],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "id": 4,
+      "question": "Which model was used in the First Five Year Plan?",
+      "options": ["Harrod-Domar Model", "Mahalanobis Model", "Chakraborty Model", "Ashok Menon Model"],
+      "answer": "Harrod-Domar Model"
+    },
+    {
+      "id": 5,
+      "question": "Who drafted the First Five Year Plan of India?",
+      "options": ["K.N. Raj", "P.C. Mahalanobis", "D.P. Dhar", "Ashok Menon"],
+      "answer": "K.N. Raj"
+    },
+    {
+      "id": 6,
+      "question": "The main focus of the First Five Year Plan was on?",
+      "options": ["Agriculture and irrigation", "Heavy industries", "Services sector", "Defense"],
+      "answer": "Agriculture and irrigation"
+    },
+    {
+      "id": 7,
+      "question": "The First Five Year Plan is also known as which plan?",
+      "options": ["Agricultural Plan", "Industrial Plan", "Gadgil Plan", "Rolling Plan"],
+      "answer": "Agricultural Plan"
+    },
+    {
+      "id": 8,
+      "question": "What was the target growth rate of the First Five Year Plan?",
+      "options": ["2.1%", "3.6%", "4.5%", "5.6%"],
+      "answer": "2.1%"
+    },
+    {
+      "id": 9,
+      "question": "What was the actual growth rate achieved during the First Five Year Plan?",
+      "options": ["3.6%", "2.1%", "4.2%", "2.8%"],
+      "answer": "3.6%"
+    },
+    {
+      "id": 10,
+      "question": "The Second Five Year Plan was implemented during which period?",
+      "options": ["1956–1961", "1951–1956", "1961–1966", "1969–1974"],
+      "answer": "1956–1961"
+    },
+    {
+      "id": 11,
+      "question": "The Second Five Year Plan is also known as?",
+      "options": ["Industrial Plan", "Agricultural Plan", "Gadgil Plan", "Rolling Plan"],
+      "answer": "Industrial Plan"
+    },
+    {
+      "id": 12,
+      "question": "Which model was used in the Second Five Year Plan?",
+      "options": ["P.C. Mahalanobis–Feldman Model", "Harrod-Domar Model", "Chakraborty Model", "D.P. Dhar Model"],
+      "answer": "P.C. Mahalanobis–Feldman Model"
+    },
+    {
+      "id": 13,
+      "question": "Who is known as the Father of Indian Statistics?",
+      "options": ["P.C. Mahalanobis", "K.N. Raj", "D.P. Dhar", "Ashok Menon"],
+      "answer": "P.C. Mahalanobis"
+    },
+    {
+      "id": 14,
+      "question": "The main focus of the Second Five Year Plan was?",
+      "options": ["Heavy industrialization", "Agriculture", "Services sector", "Poverty eradication"],
+      "answer": "Heavy industrialization"
+    },
+    {
+      "id": 15,
+      "question": "The Second Five Year Plan was based on which country's development model?",
+      "options": ["Russia (USSR)", "USA", "UK", "Japan"],
+      "answer": "Russia (USSR)"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following steel plants was established with USSR assistance?",
+      "options": ["Bhilai", "Durgapur", "Rourkela", "Bokaro"],
+      "answer": "Bhilai"
+    },
+    {
+      "id": 17,
+      "question": "Rourkela Steel Plant was established with the help of which country?",
+      "options": ["Germany", "UK", "USSR", "USA"],
+      "answer": "Germany"
+    },
+    {
+      "id": 18,
+      "question": "Licensing system became mandatory from which Five Year Plan?",
+      "options": ["Second Five Year Plan", "First Five Year Plan", "Third Five Year Plan", "Fourth Five Year Plan"],
+      "answer": "Second Five Year Plan"
+    },
+    {
+      "id": 19,
+      "question": "The Third Five Year Plan was implemented during which period?",
+      "options": ["1961–1966", "1956–1961", "1969–1974", "1974–1979"],
+      "answer": "1961–1966"
+    },
+    {
+      "id": 20,
+      "question": "Which model was used in the Third Five Year Plan?",
+      "options": ["Chakraborty Model", "Mahalanobis Model", "Harrod-Domar Model", "D.P. Dhar Model"],
+      "answer": "Chakraborty Model"
+    },
+    {
+      "id": 21,
+      "question": "The Third Five Year Plan focused on?",
+      "options": ["Independent economy (Agriculture + Industry)", "Only agriculture", "Only industry", "Services sector"],
+      "answer": "Independent economy (Agriculture + Industry)"
+    },
+    {
+      "id": 22,
+      "question": "Green Revolution in India was introduced in which year?",
+      "options": ["1965", "1961", "1969", "1974"],
+      "answer": "1965"
+    },
+    {
+      "id": 23,
+      "question": "Why is the Third Five Year Plan considered the most unsuccessful?",
+      "options": ["Wars and droughts", "Lack of planning", "Low investment", "Political instability"],
+      "answer": "Wars and droughts"
+    },
+    {
+      "id": 24,
+      "question": "The Third Five Year Plan is also known as?",
+      "options": ["Gadgil Plan", "Industrial Plan", "Rolling Plan", "Agricultural Plan"],
+      "answer": "Gadgil Plan"
+    },
+    {
+      "id": 25,
+      "question": "The Plan Holiday period in India was during?",
+      "options": ["1966–1969", "1961–1966", "1969–1974", "1974–1979"],
+      "answer": "1966–1969"
+    },
+    {
+      "id": 26,
+      "question": "The main reason for the Plan Holiday was?",
+      "options": ["Failure of the Third Five Year Plan", "Change of government", "Lack of manpower", "Inflation"],
+      "answer": "Failure of the Third Five Year Plan"
+    },
+    {
+      "id": 27,
+      "question": "The Fourth Five Year Plan was implemented during which period?",
+      "options": ["1969–1974", "1974–1979", "1961–1966", "1980–1985"],
+      "answer": "1969–1974"
+    },
+    {
+      "id": 28,
+      "question": "Who was the Prime Minister during the Fourth Five Year Plan?",
+      "options": ["Indira Gandhi", "Jawaharlal Nehru", "Morarji Desai", "Rajiv Gandhi"],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "id": 29,
+      "question": "Which model was used in the Fourth Five Year Plan?",
+      "options": ["Ashok Menon Model", "D.P. Dhar Model", "Mahalanobis Model", "Harrod-Domar Model"],
+      "answer": "Ashok Menon Model"
+    },
+    {
+      "id": 30,
+      "question": "In which Five Year Plan were banks nationalised in 1969?",
+      "options": ["Fourth Five Year Plan", "Third Five Year Plan", "Fifth Five Year Plan", "Second Five Year Plan"],
+      "answer": "Fourth Five Year Plan"
+    },
+    {
+      "id": 31,
+      "question": "The Fifth Five Year Plan of India was implemented during which period?",
+      "options": ["1974–1979", "1969–1974", "1978–1983", "1980–1985"],
+      "answer": "1974–1979"
+    },
+    {
+      "id": 32,
+      "question": "Who were the Prime Ministers during the Fifth Five Year Plan?",
+      "options": ["Indira Gandhi and Morarji Desai", "Jawaharlal Nehru and Indira Gandhi", "Rajiv Gandhi and V.P. Singh", "Indira Gandhi only"],
+      "answer": "Indira Gandhi and Morarji Desai"
+    },
+    {
+      "id": 33,
+      "question": "Which model was used in the Fifth Five Year Plan?",
+      "options": ["D.P. Dhar Model", "Ashok Menon Model", "Mahalanobis Model", "Harrod-Domar Model"],
+      "answer": "D.P. Dhar Model"
+    },
+    {
+      "id": 34,
+      "question": "The main focus of the Fifth Five Year Plan was?",
+      "options": ["Poverty eradication and self-reliance", "Heavy industrialization", "Agricultural growth only", "Export-led growth"],
+      "answer": "Poverty eradication and self-reliance"
+    },
+    {
+      "id": 35,
+      "question": "Which slogan is associated with the Fifth Five Year Plan?",
+      "options": ["Garibi Hatao", "Jai Jawan Jai Kisan", "Food, Work and Productivity", "Inclusive Growth"],
+      "answer": "Garibi Hatao"
+    },
+    {
+      "id": 36,
+      "question": "Minimum Needs Programme was introduced in which Five Year Plan?",
+      "options": ["Fifth Five Year Plan", "Fourth Five Year Plan", "Sixth Five Year Plan", "Seventh Five Year Plan"],
+      "answer": "Fifth Five Year Plan"
+    },
+    {
+      "id": 37,
+      "question": "Twenty Point Programme was launched during which Five Year Plan?",
+      "options": ["Fifth Five Year Plan", "Third Five Year Plan", "Sixth Five Year Plan", "Seventh Five Year Plan"],
+      "answer": "Fifth Five Year Plan"
+    },
+    {
+      "id": 38,
+      "question": "What was the target growth rate of the Fifth Five Year Plan?",
+      "options": ["4.4%", "5.6%", "5.2%", "6.0%"],
+      "answer": "4.4%"
+    },
+    {
+      "id": 39,
+      "question": "What was the actual growth rate achieved during the Fifth Five Year Plan?",
+      "options": ["4.8%", "4.4%", "3.3%", "5.7%"],
+      "answer": "4.8%"
+    },
+    {
+      "id": 40,
+      "question": "The Fifth Five Year Plan was completed in which year?",
+      "options": ["1978", "1979", "1977", "1980"],
+      "answer": "1978"
+    },
+    {
+      "id": 41,
+      "question": "The duration of the Fifth Five Year Plan was reduced to?",
+      "options": ["Four years", "Five years", "Three years", "Six years"],
+      "answer": "Four years"
+    },
+    {
+      "id": 42,
+      "question": "The Rolling Plan was implemented during which period?",
+      "options": ["1978–1980", "1974–1979", "1980–1985", "1969–1974"],
+      "answer": "1978–1980"
+    },
+    {
+      "id": 43,
+      "question": "Which government introduced the Rolling Plan in India?",
+      "options": ["Janata Party Government", "Congress Government", "NDA Government", "United Front Government"],
+      "answer": "Janata Party Government"
+    },
+    {
+      "id": 44,
+      "question": "The concept of the Rolling Plan was given by?",
+      "options": ["Gunnar Myrdal", "P.C. Mahalanobis", "K.N. Raj", "D.P. Dhar"],
+      "answer": "Gunnar Myrdal"
+    },
+    {
+      "id": 45,
+      "question": "What is a Rolling Plan?",
+      "options": [
+        "A plan whose targets and allocations change every year",
+        "A fixed five-year plan",
+        "A short-term emergency plan",
+        "A regional development plan"
+      ],
+      "answer": "A plan whose targets and allocations change every year"
+    },
+    {
+      "id": 46,
+      "question": "Rolling Plan was initially considered as which Five Year Plan?",
+      "options": ["Sixth Five Year Plan", "Fifth Five Year Plan", "Seventh Five Year Plan", "Fourth Five Year Plan"],
+      "answer": "Sixth Five Year Plan"
+    },
+    {
+      "id": 47,
+      "question": "Why does India have two Sixth Five Year Plans?",
+      "options": [
+        "Change of government at the Centre",
+        "Economic crisis",
+        "Natural disasters",
+        "Foreign pressure"
+      ],
+      "answer": "Change of government at the Centre"
+    },
+    {
+      "id": 48,
+      "question": "The Sixth Five Year Plan was implemented during which period?",
+      "options": ["1980–1985", "1978–1983", "1985–1990", "1974–1979"],
+      "answer": "1980–1985"
+    },
+    {
+      "id": 49,
+      "question": "Who were the Prime Ministers during the Sixth Five Year Plan?",
+      "options": ["Indira Gandhi and Rajiv Gandhi", "Morarji Desai and Charan Singh", "Rajiv Gandhi only", "V.P. Singh and Rajiv Gandhi"],
+      "answer": "Indira Gandhi and Rajiv Gandhi"
+    },
+    {
+      "id": 50,
+      "question": "The main focus of the Sixth Five Year Plan was?",
+      "options": [
+        "Inclusive growth, social equity and rural development",
+        "Heavy industrialization",
+        "Export promotion",
+        "Service sector growth"
+      ],
+      "answer": "Inclusive growth, social equity and rural development"
+    },
+    {
+      "id": 51,
+      "question": "Which two Five Year Plans mainly focused on poverty reduction?",
+      "options": [
+        "Fifth and Sixth",
+        "Fourth and Fifth",
+        "Sixth and Seventh",
+        "Seventh and Eighth"
+      ],
+      "answer": "Fifth and Sixth"
+    },
+    {
+      "id": 52,
+      "question": "What was the target growth rate of the Sixth Five Year Plan?",
+      "options": ["5.2%", "4.4%", "5.6%", "6.0%"],
+      "answer": "5.2%"
+    },
+    {
+      "id": 53,
+      "question": "What was the actual growth rate achieved in the Sixth Five Year Plan?",
+      "options": ["5.7%", "5.2%", "6.0%", "4.8%"],
+      "answer": "5.7%"
+    },
+    {
+      "id": 54,
+      "question": "NABARD was established during which Five Year Plan?",
+      "options": ["Sixth Five Year Plan", "Fifth Five Year Plan", "Seventh Five Year Plan", "Fourth Five Year Plan"],
+      "answer": "Sixth Five Year Plan"
+    },
+    {
+      "id": 55,
+      "question": "NABARD was established on which date?",
+      "options": ["12 July 1982", "15 August 1980", "26 January 1982", "2 October 1981"],
+      "answer": "12 July 1982"
+    },
+    {
+      "id": 56,
+      "question": "What is the full form of NABARD?",
+      "options": [
+        "National Bank for Agriculture and Rural Development",
+        "National Agricultural Bank for Rural Development",
+        "National Authority for Banking and Rural Development",
+        "National Bank for Agricultural Development"
+      ],
+      "answer": "National Bank for Agriculture and Rural Development"
+    },
+    {
+      "id": 57,
+      "question": "The Seventh Five Year Plan of India was implemented during which period?",
+      "options": ["1985–1990", "1980–1985", "1992–1997", "1990–1995"],
+      "answer": "1985–1990"
+    },
+    {
+      "id": 58,
+      "question": "Who were the Prime Ministers during the Seventh Five Year Plan?",
+      "options": ["Rajiv Gandhi and V.P. Singh", "Indira Gandhi and Rajiv Gandhi", "Rajiv Gandhi only", "V.P. Singh only"],
+      "answer": "Rajiv Gandhi and V.P. Singh"
+    },
+    {
+      "id": 59,
+      "question": "The main focus of the Seventh Five Year Plan was?",
+      "options": [
+        "Food, work and productivity",
+        "Heavy industrialization",
+        "Poverty eradication",
+        "Agriculture only"
+      ],
+      "answer": "Food, work and productivity"
+    },
+    {
+      "id": 60,
+      "question": "Which slogan is associated with the Seventh Five Year Plan?",
+      "options": [
+        "Food, Work and Productivity",
+        "Garibi Hatao",
+        "Inclusive Growth",
+        "Growth with Stability"
+      ],
+      "answer": "Food, Work and Productivity"
+    },
+    {
+      "id": 61,
+      "question": "Which Five Year Plan is known as the turning point of Indian economic growth?",
+      "options": [
+        "Seventh Five Year Plan",
+        "Sixth Five Year Plan",
+        "Eighth Five Year Plan",
+        "Fifth Five Year Plan"
+      ],
+      "answer": "Seventh Five Year Plan"
+    },
+    {
+      "id": 62,
+      "question": "For the first time, priority was given to the private sector in which Five Year Plan?",
+      "options": [
+        "Seventh Five Year Plan",
+        "Sixth Five Year Plan",
+        "Eighth Five Year Plan",
+        "Ninth Five Year Plan"
+      ],
+      "answer": "Seventh Five Year Plan"
+    },
+    {
+      "id": 63,
+      "question": "What was the target growth rate of the Seventh Five Year Plan?",
+      "options": ["5%", "6%", "5.6%", "4.4%"],
+      "answer": "5%"
+    },
+    {
+      "id": 64,
+      "question": "What was the actual growth rate achieved during the Seventh Five Year Plan?",
+      "options": ["6%", "5%", "5.7%", "4.8%"],
+      "answer": "6%"
+    },
+    {
+      "id": 65,
+      "question": "SEBI was formed as a non-statutory body in which year?",
+      "options": ["1988", "1992", "1985", "1990"],
+      "answer": "1988"
+    },
+    {
+      "id": 66,
+      "question": "SEBI became a statutory body in which year?",
+      "options": ["1992", "1988", "1995", "2000"],
+      "answer": "1992"
+    },
+    {
+      "id": 67,
+      "question": "SEBI became a statutory body on the recommendation of which committee?",
+      "options": [
+        "Narasimham Committee",
+        "Gadgil Committee",
+        "Dutt Committee",
+        "Kelkar Committee"
+      ],
+      "answer": "Narasimham Committee"
+    },
+    {
+      "id": 68,
+      "question": "The Eighth Five Year Plan of India was implemented during which period?",
+      "options": ["1992–1997", "1990–1995", "1997–2002", "1985–1990"],
+      "answer": "1992–1997"
+    },
+    {
+      "id": 69,
+      "question": "Which Prime Ministers were in office during the Eighth Five Year Plan?",
+      "options": [
+        "P.V. Narasimha Rao, Atal Bihari Vajpayee and H.D. Deve Gowda",
+        "Rajiv Gandhi and V.P. Singh",
+        "Manmohan Singh and Atal Bihari Vajpayee",
+        "Indira Gandhi and Rajiv Gandhi"
+      ],
+      "answer": "P.V. Narasimha Rao, Atal Bihari Vajpayee and H.D. Deve Gowda"
+    },
+    {
+      "id": 70,
+      "question": "The Eighth Five Year Plan is also known as?",
+      "options": [
+        "Rao–Manmohan Plan",
+        "Gadgil Plan",
+        "Industrial Plan",
+        "Rolling Plan"
+      ],
+      "answer": "Rao–Manmohan Plan"
+    },
+    {
+      "id": 71,
+      "question": "Why was the Eighth Five Year Plan delayed?",
+      "options": [
+        "Political instability at the Centre",
+        "Lack of resources",
+        "Foreign pressure",
+        "Natural disasters"
+      ],
+      "answer": "Political instability at the Centre"
+    },
+    {
+      "id": 72,
+      "question": "Which major economic crisis occurred in 1991 before the Eighth Five Year Plan?",
+      "options": [
+        "Balance of Payments crisis",
+        "Food shortage",
+        "Oil crisis",
+        "Banking crisis"
+      ],
+      "answer": "Balance of Payments crisis"
+    },
+    {
+      "id": 73,
+      "question": "Which economic process began during the Eighth Five Year Plan?",
+      "options": [
+        "Liberalization, Privatization and Globalization",
+        "Nationalization",
+        "Import substitution",
+        "Socialism"
+      ],
+      "answer": "Liberalization, Privatization and Globalization"
+    },
+    {
+      "id": 74,
+      "question": "The Eighth Five Year Plan is also known as the?",
+      "options": [
+        "Liberation of Indian Economy",
+        "Agricultural Plan",
+        "Industrial Plan",
+        "Gadgil Plan"
+      ],
+      "answer": "Liberation of Indian Economy"
+    },
+    {
+      "id": 75,
+      "question": "Which type of planning was introduced during the Eighth Five Year Plan?",
+      "options": [
+        "Indicative planning",
+        "Centralized planning",
+        "Rolling planning",
+        "Perspective planning"
+      ],
+      "answer": "Indicative planning"
+    },
+    {
+      "id": 76,
+      "question": "What was the target growth rate of the Eighth Five Year Plan?",
+      "options": ["5.6%", "6.5%", "8%", "7%"],
+      "answer": "5.6%"
+    },
+    {
+      "id": 77,
+      "question": "What was the actual growth rate achieved during the Eighth Five Year Plan?",
+      "options": ["6.8%", "5.6%", "6%", "7.6%"],
+      "answer": "6.8%"
+    },
+    {
+      "id": 78,
+      "question": "Mid-Day Meal Scheme in dry ration form was introduced in which year?",
+      "options": ["1995", "2001", "1956", "2005"],
+      "answer": "1995"
+    },
+    {
+      "id": 79,
+      "question": "Cooked Mid-Day Meals started in which year?",
+      "options": ["2001", "1995", "1956", "2009"],
+      "answer": "2001"
+    },
+    {
+      "id": 80,
+      "question": "Mid-Day Meal Scheme was first started in which state?",
+      "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"],
+      "answer": "Tamil Nadu"
+    },
+    {
+      "id": 81,
+      "question": "Mid-Day Meal Scheme was first started in which year in Tamil Nadu?",
+      "options": ["1956", "1965", "1972", "1980"],
+      "answer": "1956"
+    },
+    {
+      "id": 82,
+      "question": "Mid-Day Meal Scheme is available up to which class?",
+      "options": ["Class 8", "Class 5", "Class 10", "Class 12"],
+      "answer": "Class 8"
+    },
+    {
+      "id": 83,
+      "question": "The Mid-Day Meal Scheme comes under which ministry?",
+      "options": [
+        "Ministry of Education",
+        "Ministry of Health",
+        "Ministry of Women & Child Development",
+        "Ministry of Social Justice"
+      ],
+      "answer": "Ministry of Education"
+    },
+    {
+      "id": 84,
+      "question": "The Ninth Five Year Plan of India was implemented during which period?",
+      "options": ["1997–2002", "1992–1997", "2002–2007", "2007–2012"],
+      "answer": "1997–2002"
+    },
+    {
+      "id": 85,
+      "question": "Who were the Prime Ministers during the Ninth Five Year Plan?",
+      "options": [
+        "H.D. Deve Gowda, I.K. Gujral and Atal Bihari Vajpayee",
+        "P.V. Narasimha Rao and Atal Bihari Vajpayee",
+        "Manmohan Singh and Atal Bihari Vajpayee",
+        "Rajiv Gandhi and V.P. Singh"
+      ],
+      "answer": "H.D. Deve Gowda, I.K. Gujral and Atal Bihari Vajpayee"
+    },
+    {
+      "id": 86,
+      "question": "The Ninth Five Year Plan was launched in which year of Indian independence?",
+      "options": ["50th year", "40th year", "60th year", "25th year"],
+      "answer": "50th year"
+    },
+    {
+      "id": 87,
+      "question": "The main focus of the Ninth Five Year Plan was?",
+      "options": [
+        "Growth with social justice and equality",
+        "Rapid industrialisation",
+        "Export-led growth",
+        "Inclusive growth"
+      ],
+      "answer": "Growth with social justice and equality"
+    },
+    {
+      "id": 88,
+      "question": "What was the target growth rate of the Ninth Five Year Plan?",
+      "options": ["6.5%", "5.6%", "8%", "7%"],
+      "answer": "6.5%"
+    },
+    {
+      "id": 89,
+      "question": "What was the actual growth rate achieved during the Ninth Five Year Plan?",
+      "options": ["5.4%", "6.5%", "6.8%", "7.6%"],
+      "answer": "5.4%"
+    },
+    {
+      "id": 90,
+      "question": "Sarva Shiksha Abhiyan (SSA) was launched in which year?",
+      "options": ["2001", "2005", "1997", "2009"],
+      "answer": "2001"
+    },
+    {
+      "id": 91,
+      "question": "Sarva Shiksha Abhiyan aims to provide elementary education to children of which age group?",
+      "options": ["6–14 years", "3–6 years", "14–18 years", "0–6 years"],
+      "answer": "6–14 years"
+    },
+    {
+      "id": 92,
+      "question": "The Tenth Five Year Plan of India was implemented during which period?",
+      "options": ["2002–2007", "1997–2002", "2007–2012", "2012–2017"],
+      "answer": "2002–2007"
+    },
+    {
+      "id": 93,
+      "question": "Who were the Prime Ministers during the Tenth Five Year Plan?",
+      "options": [
+        "Atal Bihari Vajpayee and Manmohan Singh",
+        "Manmohan Singh only",
+        "Atal Bihari Vajpayee only",
+        "H.D. Deve Gowda and I.K. Gujral"
+      ],
+      "answer": "Atal Bihari Vajpayee and Manmohan Singh"
+    },
+    {
+      "id": 94,
+      "question": "The main focus of the Tenth Five Year Plan was?",
+      "options": [
+        "Equitable development and increase in per capita income",
+        "Heavy industrialisation",
+        "Poverty eradication",
+        "Agricultural development"
+      ],
+      "answer": "Equitable development and increase in per capita income"
+    },
+    {
+      "id": 95,
+      "question": "What was the target growth rate of the Tenth Five Year Plan?",
+      "options": ["8%", "7%", "6.5%", "9%"],
+      "answer": "8%"
+    },
+    {
+      "id": 96,
+      "question": "What was the actual growth rate achieved during the Tenth Five Year Plan?",
+      "options": ["7.6%", "8%", "6.8%", "7.9%"],
+      "answer": "7.6%"
+    },
+    {
+      "id": 97,
+      "question": "Which major rural infrastructure programme was launched during the Tenth Five Year Plan?",
+      "options": ["Bharat Nirman", "PMGSY", "NRLM", "MGNREGA"],
+      "answer": "Bharat Nirman"
+    },
+    {
+      "id": 98,
+      "question": "NREGA was passed in which year?",
+      "options": ["2005", "2006", "2009", "2001"],
+      "answer": "2005"
+    },
+    {
+      "id": 99,
+      "question": "NREGA was implemented from which date?",
+      "options": ["2 February 2006", "1 April 2005", "2 October 2005", "15 August 2006"],
+      "answer": "2 February 2006"
+    },
+    {
+      "id": 100,
+      "question": "On which date was NREGA renamed as MNREGA?",
+      "options": ["2 October 2009", "15 August 2009", "1 April 2010", "26 January 2009"],
+      "answer": "2 October 2009"
+    },
+    {
+      "id": 101,
+      "question": "Under MNREGA, generation of employment is the responsibility of?",
+      "options": [
+        "Village Panchayat",
+        "State Government",
+        "Central Government",
+        "District Collector"
+      ],
+      "answer": "Village Panchayat"
+    },
+    {
+      "id": 102,
+      "question": "The Eleventh Five Year Plan was implemented during which period?",
+      "options": ["2007–2012", "2002–2007", "2012–2017", "1997–2002"],
+      "answer": "2007–2012"
+    },
+    {
+      "id": 103,
+      "question": "Who was the Prime Minister during the Eleventh Five Year Plan?",
+      "options": ["Manmohan Singh", "Atal Bihari Vajpayee", "Narendra Modi", "Rajiv Gandhi"],
+      "answer": "Manmohan Singh"
+    },
+    {
+      "id": 104,
+      "question": "The main focus of the Eleventh Five Year Plan was?",
+      "options": [
+        "Faster and more inclusive growth",
+        "Poverty eradication",
+        "Industrialisation",
+        "Agricultural growth"
+      ],
+      "answer": "Faster and more inclusive growth"
+    },
+    {
+      "id": 105,
+      "question": "Inclusive growth strategy was first articulated in which Five Year Plan?",
+      "options": ["Eleventh Five Year Plan", "Tenth Five Year Plan", "Ninth Five Year Plan", "Twelfth Five Year Plan"],
+      "answer": "Eleventh Five Year Plan"
+    },
+    {
+      "id": 106,
+      "question": "What was the target growth rate of the Eleventh Five Year Plan?",
+      "options": ["9%", "8%", "7%", "10%"],
+      "answer": "9%"
+    },
+    {
+      "id": 107,
+      "question": "What was the actual growth rate achieved during the Eleventh Five Year Plan?",
+      "options": ["7.9%", "9%", "8.5%", "7.6%"],
+      "answer": "7.9%"
+    },
+    {
+      "id": 108,
+      "question": "Right to Education Act became effective from which date?",
+      "options": ["1 April 2010", "2 October 2009", "15 August 2009", "1 January 2011"],
+      "answer": "1 April 2010"
+    },
+    {
+      "id": 109,
+      "question": "The Twelfth Five Year Plan was implemented during which period?",
+      "options": ["2012–2017", "2007–2012", "2017–2022", "2002–2007"],
+      "answer": "2012–2017"
+    },
+    {
+      "id": 110,
+      "question": "The main focus of the Twelfth Five Year Plan was?",
+      "options": [
+        "Faster, sustainable and more inclusive growth",
+        "Inclusive growth only",
+        "Industrial growth",
+        "Agricultural development"
+      ],
+      "answer": "Faster, sustainable and more inclusive growth"
+    },
+    {
+      "id": 111,
+      "question": "What was the target growth rate of the Twelfth Five Year Plan?",
+      "options": ["8%", "9%", "7%", "6.5%"],
+      "answer": "8%"
+    },
+    {
+      "id": 112,
+      "question": "What was the actual growth rate achieved during the Twelfth Five Year Plan?",
+      "options": ["6.5%", "8%", "7.9%", "7%"],
+      "answer": "6.5%"
+    },
+    {
+      "id": 113,
+      "question": "The Food Security Act was enacted in which year?",
+      "options": ["2013", "2012", "2014", "2010"],
+      "answer": "2013"
+    }
+  ]
+}
