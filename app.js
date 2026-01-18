@@ -1,49 +1,39 @@
 let data = null;
 let isSubmitted = false;
 let currentCategory = "award";
+let wrongQuestions = [];
 
-/* 🔹 Category button binding (MOBILE SAFE) */
+/* CATEGORY BUTTONS */
 document.querySelectorAll("#categoryBox button").forEach(btn => {
-  btn.addEventListener("click", () => {
+  btn.onclick = () => {
+    document.querySelectorAll("#categoryBox button")
+      .forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
     loadCategory(btn.dataset.category);
-  });
+  };
 });
 
-/* 🔹 Action button */
-document.getElementById("actionBtn").addEventListener("click", handleButton);
+document.getElementById("actionBtn").onclick = handleButton;
 
-/* 🔹 Load Category */
+/* LOAD CATEGORY */
 function loadCategory(category) {
   currentCategory = category;
   isSubmitted = false;
+  wrongQuestions = [];
   document.getElementById("actionBtn").innerText = "Submit Test";
-  fetchMCQData();
-}
-
-/* 🔹 Fetch JSON */
-function fetchMCQData() {
-  fetch(`questions/${currentCategory}.json`)
-    .then(res => {
-      if (!res.ok) throw new Error("File not found");
-      return res.json();
-    })
+  document.getElementById("reportBtn").style.display = "none";
+  fetch(`questions/${category}.json`)
+    .then(res => res.json())
     .then(json => {
       data = json;
-
-      // 🔥 RANDOMIZE OPTIONS HERE
-      randomizeOptions();
-
+      shuffleOptions();
       document.getElementById("subject").innerText = data.category;
       loadQuestions();
-    })
-    .catch(err => {
-      alert(`Category "${currentCategory}" not loading.\nCheck file name & extension.`);
-      console.error(err);
     });
 }
 
-/* 🔹 RANDOMIZE OPTIONS (IMPORTANT FUNCTION) */
-function randomizeOptions() {
+/* SHUFFLE OPTIONS */
+function shuffleOptions() {
   data.questions.forEach(q => {
     for (let i = q.options.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
@@ -52,127 +42,148 @@ function randomizeOptions() {
   });
 }
 
-/* 🔹 Load Questions */
+/* LOAD QUESTIONS */
 function loadQuestions() {
   const quiz = document.getElementById("quiz");
   quiz.innerHTML = "";
-  document.getElementById("scoreBox").innerHTML = "";
 
-  data.questions.forEach((q, qi) => {
-    let html = `
-      <div class="question">
-        <p><b>${qi + 1}. ${q.question}</b></p>
+  data.questions.forEach((q, i) => {
+    quiz.innerHTML += `
+      <div class="question" id="q-${i}">
+        <p><b>${i + 1}. ${q.question}</b></p>
+
         <div class="options">
-    `;
-
-    q.options.forEach((opt, i) => {
-      const letter = String.fromCharCode(65 + i); // A B C D
-      html += `
-        <div class="option" data-q="${qi}" data-val="${opt}">
-          <b>${letter}.</b> ${opt}
+          ${q.options.map(opt =>
+            `<div class="option" data-q="${i}" data-val="${opt}">${opt}</div>`
+          ).join("")}
         </div>
-      `;
-    });
 
-    html += `
+        <button class="show-answer-btn" data-q="${i}">Show Answer</button>
+        <div class="correct-answer" id="ans-${i}" style="display:none;">
+          ✔ ${q.answer}
         </div>
-        <div class="correct-answer" id="ans-${qi}" style="display:none;"></div>
         <hr>
       </div>
     `;
-
-    quiz.innerHTML += html;
   });
 
   enableOptionClick();
+  enableShowAnswerToggle();
 }
 
-/* 🔹 Option Click */
+/* OPTION CLICK */
 function enableOptionClick() {
   document.querySelectorAll(".option").forEach(opt => {
-    opt.addEventListener("click", function () {
+    opt.onclick = function () {
       if (isSubmitted) return;
-
-      const q = this.dataset.q;
-      document
-        .querySelectorAll(`.option[data-q="${q}"]`)
+      document.querySelectorAll(`.option[data-q="${this.dataset.q}"]`)
         .forEach(o => o.classList.remove("selected"));
-
       this.classList.add("selected");
-    });
+    };
   });
 }
 
-/* 🔹 Submit Test */
+/* SHOW / HIDE ANSWER TOGGLE */
+function enableShowAnswerToggle() {
+  document.querySelectorAll(".show-answer-btn").forEach(btn => {
+    btn.onclick = function () {
+      const ans = document.getElementById(`ans-${this.dataset.q}`);
+      if (ans.style.display === "none") {
+        ans.style.display = "block";
+        this.innerText = "Hide Answer";
+        this.classList.add("active");
+      } else {
+        ans.style.display = "none";
+        this.innerText = "Show Answer";
+        this.classList.remove("active");
+      }
+    };
+  });
+}
+
+/* SUBMIT TEST */
 function submitTest() {
   let attempted = 0, correct = 0, wrong = 0;
+  wrongQuestions = [];
 
   data.questions.forEach((q, i) => {
     const options = document.querySelectorAll(`.option[data-q="${i}"]`);
-    const ansBox = document.getElementById(`ans-${i}`);
     let selected = null;
 
     options.forEach(o => {
       if (o.classList.contains("selected")) selected = o;
-    });
-
-    if (selected) attempted++;
-
-    options.forEach(o => {
-      o.classList.remove("selected");
       if (o.dataset.val === q.answer) o.classList.add("correct");
     });
 
     if (selected) {
+      attempted++;
       if (selected.dataset.val === q.answer) correct++;
       else {
-        selected.classList.add("wrong-selected");
         wrong++;
+        selected.classList.add("wrong-selected");
+        wrongQuestions.push(i + 1);
       }
     }
 
-    ansBox.innerHTML = `✔ Correct Answer: <b>${q.answer}</b>`;
-    ansBox.style.display = "block";
+    document.getElementById(`ans-${i}`).style.display = "block";
   });
 
-  const total = data.questions.length;
-  showScore(attempted, correct, wrong, total - attempted, total);
+  showReport(attempted, correct, wrong,
+    data.questions.length - attempted,
+    data.questions.length);
 }
 
-/* 🔹 Score Display */
-function showScore(a, c, w, u, t) {
-  document.getElementById("scoreBox").innerHTML = `
-    <div class="score-card">
-      <div class="score-item attempted">Attempted: <b>${a}</b></div>
-      <div class="score-item correct">Correct: <b>${c}</b></div>
-      <div class="score-item wrong">Wrong: <b>${w}</b></div>
-      <div class="score-item unattempted">Unattempted: <b>${u}</b></div>
-      <div class="score-item total">Total: <b>${t}</b></div>
-    </div>
+/* REPORT */
+function showReport(a, c, w, u, t) {
+  document.getElementById("reportContent").innerHTML = `
+    <p>Total: <b>${t}</b></p>
+    <p>Attempted: <b>${a}</b></p>
+    <p>Correct: <b>${c}</b></p>
+    <p>Wrong: <b>${w}</b></p>
+    <p>Score: <b>${Math.round((c/t)*100)}%</b></p>
+    ${
+      w
+        ? wrongQuestions.map(q =>
+            `<button class="jump-btn"
+              onclick="jumpToQuestion(${q}); switchToReportBtn();">
+              Q${q}
+            </button>`
+          ).join("")
+        : "<p>🎉 Perfect Score!</p>"
+    }
   `;
+  document.getElementById("reportModal").style.display = "block";
 }
 
-/* 🔹 Button Handler */
+/* REPORT BUTTON LOGIC */
+function closeReport() {
+  document.getElementById("reportModal").style.display = "none";
+  document.getElementById("reportBtn").style.display = "block";
+}
+function openReport() {
+  document.getElementById("reportModal").style.display = "block";
+  document.getElementById("reportBtn").style.display = "none";
+}
+function switchToReportBtn() {
+  closeReport();
+}
+
+/* JUMP */
+function jumpToQuestion(q) {
+  document.getElementById(`q-${q - 1}`)
+    .scrollIntoView({ behavior: "smooth" });
+}
+
+/* MAIN BUTTON */
 function handleButton() {
   if (!isSubmitted) {
     submitTest();
-    this.innerText = "Restart Test";
     isSubmitted = true;
+    actionBtn.innerText = "Restart Test";
   } else {
     loadCategory(currentCategory);
   }
 }
-document.querySelectorAll("#categoryBox button").forEach(btn => {
-  btn.addEventListener("click", function () {
-    document
-      .querySelectorAll("#categoryBox button")
-      .forEach(b => b.classList.remove("active"));
 
-    this.classList.add("active");
-
-    loadCategory(this.dataset.category);
-  });
-});
-
-/* 🔹 Start */
+/* START */
 loadCategory("award");

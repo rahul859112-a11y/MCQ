@@ -8,25 +8,34 @@
 </head>
 <body>
 
-<!-- CATEGORY SELECTION -->
 <div id="categoryBox">
   <button data-category="award">Awards</button>
   <button data-category="appointment">Appointments</button>
   <button data-category="firstFemale">First Female</button>
   <button data-category="govtScheme">Government Scheme</button>
   <button data-category="conference">Conference</button>
-  <button data-category="fiveYearPlan">Five year plan</button>
+  <button data-category="fiveYearPlan">Five Year Plan</button>
   <button data-category="tribe">Tribe</button>
-
 </div>
 
 <h2 id="subject">Select Category</h2>
 
 <div id="quiz"></div>
 
+<!-- Sticky Submit -->
 <button id="actionBtn">Submit Test</button>
 
-<div id="scoreBox"></div>
+<!-- Floating Report Button -->
+<button id="reportBtn" onclick="openReport()">📊 Report Card</button>
+
+<!-- Report Modal -->
+<div id="reportModal" class="modal">
+  <div class="modal-content">
+    <h2>📊 Test Report</h2>
+    <div id="reportContent"></div>
+    <button onclick="closeReport()">Close</button>
+  </div>
+</div>
 
 <script src="app.js"></script>
 </body>

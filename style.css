@@ -1,57 +1,39 @@
-/* =========================
-   GLOBAL
-========================= */
+* {
+  box-sizing: border-box;
+}
 
 body {
   font-family: Arial, sans-serif;
   padding: 16px;
-  font-size: 22px;
+  padding-bottom: 140px;
+  background: #f9fafb;
 }
 
-/* =========================
-   HORIZONTAL CATEGORY SCROLL (FIXED)
-========================= */
-
+/* CATEGORY BAR */
 #categoryBox {
   display: flex;
-  flex-wrap: nowrap;          /* 🔥 MUST */
   gap: 12px;
-  overflow-x: auto;           /* 🔥 MUST */
-  overflow-y: hidden;
-  white-space: nowrap;
-  padding: 10px 4px;
+  overflow-x: auto;
   margin-bottom: 20px;
-
-  -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
 }
-
-#categoryBox::-webkit-scrollbar {
-  display: none;
-}
+#categoryBox::-webkit-scrollbar { display: none; }
 
 #categoryBox button {
-  flex: 0 0 auto;
   padding: 10px 18px;
-  font-size: 18px;
   border-radius: 14px;
+  border: none;
   cursor: pointer;
   background: #222;
-  color: #fff;
-  border: none;
-  white-space: nowrap;
+  color: white;
 }
+#categoryBox button.active { background: #0057b8; }
 
-#categoryBox button.active {
-  background: #0057b8;
-}
-
-/* =========================
-   QUESTIONS
-========================= */
+/* QUESTIONS */
+.question { margin-bottom: 24px; }
 
 .question p {
-  font-size: 36px;
+  font-size: 26px;
   line-height: 1.5;
 }
 
@@ -63,56 +45,105 @@ body {
 
 .option {
   border: 2px solid #777;
-  padding: 10px 20px;
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-size: 24px;
   cursor: pointer;
-  border-radius: 6px;
-  font-size: 36px;
-  background: #fff;
+  background: white;
 }
 
-.option.selected {
-  background: #d6e4ff;
+.option.selected { background: #dbeafe; }
+.option.correct { background: #bbf7d0; font-weight: bold; }
+.option.wrong-selected { background: #fecaca; font-weight: bold; }
+
+/* SHOW / HIDE ANSWER */
+.show-answer-btn {
+  margin-top: 8px;
+  padding: 6px 14px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  background: #e5e7eb;
+}
+.show-answer-btn.active {
+  background: #fecaca;
+}
+.correct-answer {
+  margin-top: 6px;
+  color: green;
 }
 
-.option.correct {
-  background: #b8f7b8;
-  font-weight: bold;
-}
-
-.option.wrong-selected {
-  background: #ffb3b3;
-  font-weight: bold;
-}
-
-/* =========================
-   SCORE
-========================= */
-
-.score-card {
-  margin-top: 26px;
-  padding: 22px;
-  border-radius: 16px;
-  border: 3px solid #ccc;
-  font-size: 30px;
-}
-
-/* =========================
-   MAIN ACTION BUTTON ONLY
-========================= */
-
+/* SUBMIT BUTTON */
 #actionBtn {
-  padding: 18px 40px;
-  font-size: 30px;
+  position: fixed;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 16px 36px;
+  font-size: 26px;
   border-radius: 18px;
+  border: none;
   cursor: pointer;
+  background: #16a34a;
+  color: white;
+  z-index: 1000;
 }
 
-/* =========================
-   MOBILE
-========================= */
+/* REPORT CARD FLOAT BUTTON */
+#reportBtn {
+  position: fixed;
+  bottom: 90px;
+  right: 16px;
+  padding: 12px 18px;
+  font-size: 18px;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+  background: #2563eb;
+  color: white;
+  display: none;
+  z-index: 1000;
+}
 
+/* MODAL */
+.modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.6);
+  z-index: 2000;
+}
+
+.modal-content {
+  background: white;
+  max-width: 420px;
+  margin: 12vh auto;
+  padding: 24px;
+  border-radius: 18px;
+  text-align: center;
+}
+
+.modal-content button {
+  margin-top: 16px;
+  padding: 10px 26px;
+  border-radius: 14px;
+  border: none;
+  cursor: pointer;
+  background: #2563eb;
+  color: white;
+}
+
+.jump-btn {
+  margin: 6px 4px;
+  padding: 6px 12px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  background: #fde68a;
+}
+
+/* MOBILE */
 @media (max-width: 600px) {
-  .question p { font-size: 28px; }
-  .option { font-size: 28px; padding: 8px 14px; }
-  #actionBtn { font-size: 32px; }
+  .question p { font-size: 22px; }
+  .option { font-size: 22px; }
 }
