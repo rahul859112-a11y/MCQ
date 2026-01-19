@@ -1,42 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>MCQ App</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-<div id="categoryBox">
-  <button data-category="award">Awards</button>
-  <button data-category="appointment">Appointments</button>
-  <button data-category="firstFemale">First Female</button>
-  <button data-category="govtScheme">Government Scheme</button>
-  <button data-category="conference">Conference</button>
-  <button data-category="fiveYearPlan">Five Year Plan</button>
-  <button data-category="tribe">Tribe</button>
-</div>
+  <div id="categoryBox">
+    <button data-category="award">Awards</button>
+    <button data-category="appointment">Appointments</button>
+    <button data-category="firstFemale">First Female</button>
+    <button data-category="govtScheme">Government Scheme</button>
+    <button data-category="conference">Conference</button>
+    <button data-category="fiveYearPlan">Five Year Plan</button>
+    <button data-category="tribe">Tribe</button>
+    <button data-category="exercise">Exercise</button>
 
-<h2 id="subject">Select Category</h2>
-
-<div id="quiz"></div>
-
-<!-- Sticky Submit -->
-<button id="actionBtn">Submit Test</button>
-
-<!-- Floating Report Button -->
-<button id="reportBtn" onclick="openReport()">📊 Report Card</button>
-
-<!-- Report Modal -->
-<div id="reportModal" class="modal">
-  <div class="modal-content">
-    <h2>📊 Test Report</h2>
-    <div id="reportContent"></div>
-    <button onclick="closeReport()">Close</button>
   </div>
-</div>
 
-<script src="app.js"></script>
+  <h2 id="subject">Select Category</h2>
+
+  <div id="quiz"></div>
+
+  <!-- Sticky Submit -->
+  <button id="actionBtn">Submit Test</button>
+
+  <!-- Floating Report Button -->
+  <button id="reportBtn" onclick="openReport()">📊 Report Card</button>
+
+  <!-- Report Modal -->
+  <div id="reportModal" class="modal">
+    <div class="modal-content">
+      <h2>📊 Test Report</h2>
+      <div id="reportContent"></div>
+      <button onclick="closeReport()">Close</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
 </body>
+
 </html>
