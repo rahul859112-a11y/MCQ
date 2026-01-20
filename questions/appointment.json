@@ -5,1135 +5,2356 @@
     {
       "id": 1,
       "question": "Who is the Chancellor of NIIT University?",
-      "options": [
-        "Amitabh Kant",
-        "Ajay Seth",
-        "Anil Baijal",
-        "Nitin Gupta"
-      ],
-      "answer": "Amitabh Kant"
+      "options": {
+        "A": "Amitabh Kant",
+        "B": "Shaktikanta Das",
+        "C": "Ajay Seth",
+        "D": "PK Mishra"
+      },
+      "answer": "A"
     },
     {
       "id": 2,
-      "question": "Who is the President of GSMA (Global System for Mobile Communication)?",
-      "options": [
-        "Gopal Vittal",
-        "Sanjay Gupta",
-        "Mukesh Ambani",
-        "Sunil Mittal"
-      ],
-      "answer": "Gopal Vittal"
+      "question": "Who is the President of GSMA (Global System for Mobile Communications)?",
+      "options": {
+        "A": "Gopal Vittal",
+        "B": "Sunil Kadam",
+        "C": "Rajiv Memani",
+        "D": "Dilip Asbe"
+      },
+      "answer": "A"
     },
     {
       "id": 3,
-      "question": "Who is the CEO of the Indian Banks' Association (IBA)?",
-      "options": [
-        "Atul Kumar Goel",
-        "C. S. Setty",
-        "Ravi Agarwal",
-        "Ajay Seth"
-      ],
-      "answer": "Atul Kumar Goel"
+      "question": "Who is the CEO of the Indian Banks’ Association?",
+      "options": {
+        "A": "Atul Kumar Goel",
+        "B": "CS Setty",
+        "C": "Ajay Seth",
+        "D": "Ravi Agarwal"
+      },
+      "answer": "A"
     },
     {
       "id": 4,
-      "question": "Who is the Chairman of the Indian Banks' Association (IBA)?",
-      "options": [
-        "C. S. Setty",
-        "Atul Kumar Goel",
-        "R. Doraiswami",
-        "Nitin Gupta"
-      ],
-      "answer": "C. S. Setty"
+      "question": "Who is the Chairman of the Indian Banks’ Association?",
+      "options": {
+        "A": "CS Setty",
+        "B": "Atul Kumar Goel",
+        "C": "Shiva Subramaniam Raman",
+        "D": "Ajay Bhadoo"
+      },
+      "answer": "A"
     },
     {
       "id": 5,
       "question": "Who is the President of ATMA (Automotive Tyre Manufacturers Association)?",
-      "options": [
-        "Arun Ammen",
-        "Rajiv Memani",
-        "Nirmal Midha",
-        "Anant Goenka"
-      ],
-      "answer": "Arun Ammen"
+      "options": {
+        "A": "Arun Ammen",
+        "B": "Anant Goenka",
+        "C": "Sudhanshu Mittal",
+        "D": "Nirmal Kumar Midha"
+      },
+      "answer": "A"
     },
     {
       "id": 6,
-      "question": "Who is the CEO of the Institutional National Research Foundation (INRF)?",
-      "options": [
-        "Dr. Shivkumar Kalyanraman",
-        "Dr. Ajay Kumar",
-        "Dr. Jay Bhattacharya",
-        "Dr. Mangilal Jat"
-      ],
-      "answer": "Dr. Shivkumar Kalyanraman"
+      "question": "Who is the CEO of the Institutional National Research Foundation?",
+      "options": {
+        "A": "Dr. Shivkumar Kalyanaraman",
+        "B": "Dr. Ajay Kumar",
+        "C": "Dr. Jay Bhattacharya",
+        "D": "Dr. Vikram Nath"
+      },
+      "answer": "A"
     },
     {
       "id": 7,
-      "question": "Who is the Director of the USA's National Institutes of Health (NIH)?",
-      "options": [
-        "Dr. Jay Bhattacharya",
-        "Dr. Francis Collins",
-        "Dr. Vivek Murthy",
-        "Dr. Sanjay Gupta"
-      ],
-      "answer": "Dr. Jay Bhattacharya"
+      "question": "Who is the Director of the National Institutes of Health (USA)?",
+      "options": {
+        "A": "Dr. Jay Bhattacharya",
+        "B": "Jared Isaacman",
+        "C": "Barham Salih",
+        "D": "Urjit Patel"
+      },
+      "answer": "A"
     },
     {
       "id": 8,
       "question": "Who is the Personal Secretary to the Prime Minister of India?",
-      "options": [
-        "Nidhi Tiwari",
-        "P. K. Mishra",
-        "Shaktikanta Das",
-        "Ajit Doval"
-      ],
-      "answer": "Nidhi Tiwari"
+      "options": {
+        "A": "Nidhi Tiwari",
+        "B": "PK Mishra",
+        "C": "Shaktikanta Das",
+        "D": "Anish Dayal Singh"
+      },
+      "answer": "A"
     },
     {
       "id": 9,
-      "question": "Who is the first Principal Secretary to the Prime Minister of India?",
-      "options": [
-        "P. K. Mishra",
-        "Shaktikanta Das",
-        "Ajit Doval",
-        "Ajay Seth"
-      ],
-      "answer": "P. K. Mishra"
+      "question": "Who is the senior-most Principal Secretary to the Prime Minister?",
+      "options": {
+        "A": "PK Mishra",
+        "B": "Shaktikanta Das",
+        "C": "Ajay Seth",
+        "D": "Nidhi Tiwari"
+      },
+      "answer": "A"
     },
     {
       "id": 10,
-      "question": "Who is the second Principal Secretary to the Prime Minister of India?",
-      "options": [
-        "Shaktikanta Das",
-        "P. K. Mishra",
-        "Ajay Seth",
-        "Anish Dayal Singh"
-      ],
-      "answer": "Shaktikanta Das"
+      "question": "Who is the second Principal Secretary to the Prime Minister?",
+      "options": {
+        "A": "Shaktikanta Das",
+        "B": "PK Mishra",
+        "C": "Ajay Bhadoo",
+        "D": "Ravi Agarwal"
+      },
+      "answer": "A"
     },
     {
       "id": 11,
-      "question": "Who is the Head of the Commonwealth of Nations?",
-      "options": [
-        "Shirley Ayorkor Botchwey",
-        "Ngozi Okonjo-Iweala",
-        "Annalena Baerbock",
-        "Samia Suluhu Hassan"
-      ],
-      "answer": "Shirley Ayorkor Botchwey"
+      "question": "Who is the Commonwealth Secretary-General (National Head) from Ghana?",
+      "options": {
+        "A": "Shirley Ayorkor Botchwey",
+        "B": "Cristie Coventry",
+        "C": "Annalena Baerbock",
+        "D": "Zou Jiayi"
+      },
+      "answer": "A"
     },
     {
       "id": 12,
       "question": "Who is the President of the Asian Cricket Council (ACC)?",
-      "options": [
-        "Mohsin Naqvi",
-        "Jay Shah",
-        "Sourav Ganguly",
-        "Roger Binny"
-      ],
-      "answer": "Mohsin Naqvi"
+      "options": {
+        "A": "Mohsin Naqvi",
+        "B": "Sanjog Gupta",
+        "C": "Ajay Singh",
+        "D": "Sudhanshu Mittal"
+      },
+      "answer": "A"
     },
     {
       "id": 13,
-      "question": "Who is the Chairman of the Pension Fund Regulatory and Development Authority (PFRDA)?",
-      "options": [
-        "Shiva Subramaniam Raman",
-        "Ajay Seth",
-        "Nitin Gupta",
-        "Arvind Srivastava"
-      ],
-      "answer": "Shiva Subramaniam Raman"
+      "question": "Who is the Chairman of PFRDA?",
+      "options": {
+        "A": "Shiva Subramaniam Raman",
+        "B": "Ajay Seth",
+        "C": "Ravi Agarwal",
+        "D": "CS Setty"
+      },
+      "answer": "A"
     },
     {
       "id": 14,
-      "question": "In which year was the Pension Fund Regulatory and Development Authority (PFRDA) established?",
-      "options": [
-        "2003",
-        "2005",
-        "2010",
-        "2014"
-      ],
-      "answer": "2003"
+      "question": "In which year was PFRDA established?",
+      "options": {
+        "A": "2003",
+        "B": "2005",
+        "C": "2010",
+        "D": "2014"
+      },
+      "answer": "A"
     },
     {
       "id": 15,
-      "question": "On which date did PFRDA become a statutory body?",
-      "options": [
-        "1 February 2014",
-        "1 April 2015",
-        "26 January 2014",
-        "15 August 2014"
-      ],
-      "answer": "1 February 2014"
+      "question": "On which date did PFRDA become a constitutional body?",
+      "options": {
+        "A": "1 February 2014",
+        "B": "1 April 2003",
+        "C": "26 January 2015",
+        "D": "15 August 2014"
+      },
+      "answer": "A"
     },
     {
       "id": 16,
-      "question": "What is the primary function of PFRDA?",
-      "options": [
-        "Regulating pension funds in India",
-        "Regulating insurance sector",
-        "Regulating banking sector",
-        "Managing public debt"
-      ],
-      "answer": "Regulating pension funds in India"
+      "question": "What does PFRDA regulate?",
+      "options": {
+        "A": "Pension funds in India",
+        "B": "Insurance sector",
+        "C": "Stock market",
+        "D": "Banking sector"
+      },
+      "answer": "A"
     },
     {
       "id": 17,
-      "question": "Unified Pension System (UPS) was launched on which date?",
-      "options": [
-        "1 April 2025",
-        "1 February 2014",
-        "1 July 2024",
-        "15 August 2025"
-      ],
-      "answer": "1 April 2025"
+      "question": "When will the Unified Pension System (UPS) be implemented?",
+      "options": {
+        "A": "1 April 2025",
+        "B": "1 April 2024",
+        "C": "1 February 2025",
+        "D": "1 January 2026"
+      },
+      "answer": "A"
     },
     {
       "id": 18,
-      "question": "What is the headquarters of the Unified Pension System (UPS)?",
-      "options": [
-        "New Delhi",
-        "Mumbai",
-        "Hyderabad",
-        "Chennai"
-      ],
-      "answer": "New Delhi"
+      "question": "Where is the headquarters of the Unified Pension System (UPS)?",
+      "options": {
+        "A": "New Delhi",
+        "B": "Mumbai",
+        "C": "Chennai",
+        "D": "Kolkata"
+      },
+      "answer": "A"
     },
     {
       "id": 19,
-      "question": "Who is the Director General of Fire and Rescue Services?",
-      "options": [
-        "Seema Agarwal",
-        "Sonali Mishra",
-        "S. Radha Chauhan",
-        "Yashasvi Solanki"
-      ],
-      "answer": "Seema Agarwal"
+      "question": "Who is the DGP of Fire and Rescue Services?",
+      "options": {
+        "A": "Seema Agarwal",
+        "B": "Sonali Mishra",
+        "C": "Praveer Ranjan",
+        "D": "Anurag Garg"
+      },
+      "answer": "A"
     },
     {
       "id": 20,
       "question": "Who is the Executive Director of NPCI?",
-      "options": [
-        "Sohini Rajola",
-        "Dilip Asbe",
-        "Ajay Bhadoo",
-        "Keshav Ramachandran"
-      ],
-      "answer": "Sohini Rajola"
+      "options": {
+        "A": "Sohini Rajola",
+        "B": "Dilip Asbe",
+        "C": "Ajay Seth",
+        "D": "Rajit Punhani"
+      },
+      "answer": "A"
     },
     {
       "id": 21,
-      "question": "In which year was the National Payments Corporation of India (NPCI) established?",
-      "options": [
-        "2008",
-        "2010",
-        "2005",
-        "2012"
-      ],
-      "answer": "2008"
+      "question": "In which year was NPCI established?",
+      "options": {
+        "A": "2008",
+        "B": "2005",
+        "C": "2010",
+        "D": "2012"
+      },
+      "answer": "A"
     },
     {
       "id": 22,
       "question": "Where is the headquarters of NPCI located?",
-      "options": [
-        "Mumbai",
-        "New Delhi",
-        "Bengaluru",
-        "Hyderabad"
-      ],
-      "answer": "Mumbai"
+      "options": {
+        "A": "Mumbai",
+        "B": "New Delhi",
+        "C": "Bengaluru",
+        "D": "Hyderabad"
+      },
+      "answer": "A"
     },
     {
       "id": 23,
       "question": "Who is the MD and CEO of NPCI?",
-      "options": [
-        "Dilip Asbe",
-        "Sohini Rajola",
-        "Ajay Bhadoo",
-        "Sunil Kadam"
-      ],
-      "answer": "Dilip Asbe"
+      "options": {
+        "A": "Dilip Asbe",
+        "B": "Sohini Rajola",
+        "C": "Ajay Bhadoo",
+        "D": "R Doraiswami"
+      },
+      "answer": "A"
     },
     {
       "id": 24,
-      "question": "Who is the 52nd Chief Justice of India (CJI)?",
-      "options": [
-        "Justice Bhushan Ramkrishna Gavai",
-        "Justice Sanjeev Khanna",
-        "Justice Surya Kant",
-        "Justice D. Y. Chandrachud"
-      ],
-      "answer": "Justice Bhushan Ramkrishna Gavai"
+      "question": "Who is the 52nd Chief Justice of India?",
+      "options": {
+        "A": "B. R. Gavai",
+        "B": "Justice Surya Kant",
+        "C": "Sanjiv Khanna",
+        "D": "Vikram Nath"
+      },
+      "answer": "A"
     },
     {
       "id": 25,
-      "question": "Who is the 53rd Chief Justice of India (CJI)?",
-      "options": [
-        "Justice Surya Kant",
-        "Justice Bhushan R. Gavai",
-        "Justice U. U. Lalit",
-        "Justice Sanjay Kishan Kaul"
-      ],
-      "answer": "Justice Surya Kant"
+      "question": "Who is the 53rd Chief Justice of India?",
+      "options": {
+        "A": "Justice Surya Kant",
+        "B": "B. R. Gavai",
+        "C": "Sanjiv Khanna",
+        "D": "Dinesh Maheshwari"
+      },
+      "answer": "A"
     },
     {
       "id": 26,
-      "question": "Who is the first woman Director General of the Railway Protection Force (RPF)?",
-      "options": [
-        "Sonali Mishra",
-        "Seema Agarwal",
-        "Yashasvi Solanki",
-        "S. Radha Chauhan"
-      ],
-      "answer": "Sonali Mishra"
+      "question": "Who is the first woman Chief of the Railway Protection Force (RPF)?",
+      "options": {
+        "A": "Sonali Mishra",
+        "B": "Seema Agarwal",
+        "C": "Anju Rathi Rana",
+        "D": "Priya Nair"
+      },
+      "answer": "A"
     },
     {
       "id": 27,
       "question": "Who is the MD and CEO of Life Insurance Corporation of India (LIC)?",
-      "options": [
-        "R. Doraiswami",
-        "Atul Kumar Goel",
-        "Ajay Seth",
-        "Nitin Gupta"
-      ],
-      "answer": "R. Doraiswami"
+      "options": {
+        "A": "R Doraiswami",
+        "B": "Ajay Seth",
+        "C": "Dilip Asbe",
+        "D": "Atul Kumar Goel"
+      },
+      "answer": "A"
     },
     {
       "id": 28,
       "question": "Who is the Chairman of the National Financial Reporting Authority (NFRA)?",
-      "options": [
-        "Nitin Gupta",
-        "Ajay Seth",
-        "Arvind Srivastava",
-        "Ravi Agarwal"
-      ],
-      "answer": "Nitin Gupta"
+      "options": {
+        "A": "Nitin Gupta",
+        "B": "Ravi Agarwal",
+        "C": "Shiva Subramaniam Raman",
+        "D": "Ajay Bhadoo"
+      },
+      "answer": "A"
     },
     {
       "id": 29,
-      "question": "Who is the new Chairman of the Insurance Regulatory and Development Authority of India (IRDAI)?",
-      "options": [
-        "Ajay Seth",
-        "Shiva S. Raman",
-        "Nitin Gupta",
-        "R. Doraiswami"
-      ],
-      "answer": "Ajay Seth"
+      "question": "Who is the new Chairman of IRDAI?",
+      "options": {
+        "A": "Ajay Seth",
+        "B": "R Doraiswami",
+        "C": "Sunil Kadam",
+        "D": "CS Setty"
+      },
+      "answer": "A"
     },
     {
       "id": 30,
       "question": "Who is the CEO of Sansad TV?",
-      "options": [
-        "Utpal Kumar",
-        "Rajit Punhani",
-        "Ajay Bhadoo",
-        "Prakash Magdum"
-      ],
-      "answer": "Utpal Kumar"
+      "options": {
+        "A": "Utpal Kumar",
+        "B": "Gaurav Banerjee",
+        "C": "Rajiv Ranjan",
+        "D": "Anant Goenka"
+      },
+      "answer": "A"
     },
     {
       "id": 31,
-      "question": "Who is the Director General of Sashastra Seema Bal (SSB)?",
-      "options": [
-        "Sanjay Singhal",
-        "Praveer Ranjan",
-        "Praveen Kumar",
-        "Gyanendra Pratap Singh"
-      ],
-      "answer": "Sanjay Singhal"
+      "question": "Who has been appointed as the Director General of SSB?",
+      "options": {
+        "A": "Sanjay Singhal",
+        "B": "Praveer Ranjan",
+        "C": "Shatrughan Kapoor",
+        "D": "Anurag Garg"
+      },
+      "answer": "A"
     },
     {
       "id": 32,
-      "question": "Who is the Director of Vikram Sarabhai Space Centre (VSSC)?",
-      "options": [
-        "Dr. A. Rajarajan",
-        "Dr. S. Somanath",
-        "Dr. Ajay Kumar",
-        "Dr. Mangilal Jat"
-      ],
-      "answer": "Dr. A. Rajarajan"
+      "question": "Who is the new Director of Vikram Sarabhai Space Centre?",
+      "options": {
+        "A": "Dr. A Rajarajan",
+        "B": "Tejpal Bhatia",
+        "C": "Amitesh Kumar Sinha",
+        "D": "Ajay Kumar"
+      },
+      "answer": "A"
     },
     {
       "id": 33,
-      "question": "Who is the CEO of the International Cricket Council (ICC)?",
-      "options": [
-        "Sanjog Gupta",
-        "Jay Shah",
-        "Geoff Allardice",
-        "Mohsin Naqvi"
-      ],
-      "answer": "Sanjog Gupta"
+      "question": "Who is the CEO of ICC and the second Indian to hold the post?",
+      "options": {
+        "A": "Sanjog Gupta",
+        "B": "Mohsin Naqvi",
+        "C": "Ajay Singh",
+        "D": "Sudhanshu Mittal"
+      },
+      "answer": "A"
     },
     {
       "id": 34,
-      "question": "Who is the first woman MD and CEO of Hindustan Unilever Limited (HUL)?",
-      "options": [
-        "Priya Nair",
-        "Leena Nair",
-        "Roshni Nadar",
-        "Nita Ambani"
-      ],
-      "answer": "Priya Nair"
+      "question": "Who is the first woman MD and CEO of Hindustan Unilever Limited?",
+      "options": {
+        "A": "Priya Nair",
+        "B": "Leena Nair",
+        "C": "Sohini Rajola",
+        "D": "Uma Kanjilal"
+      },
+      "answer": "A"
     },
     {
       "id": 35,
       "question": "Who is the Lieutenant Governor of Ladakh?",
-      "options": [
-        "Kavinder Gupta",
-        "R. K. Mathur",
-        "Anil Baijal",
-        "Manoj Sinha"
-      ],
-      "answer": "Kavinder Gupta"
+      "options": {
+        "A": "Kavinder Gupta",
+        "B": "CP Radhakrishnan",
+        "C": "Ashok Gajapathi Raju",
+        "D": "Rekha Gupta"
+      },
+      "answer": "A"
     },
     {
       "id": 36,
       "question": "Who is the Governor of Goa?",
-      "options": [
-        "Ashok Gajapathi Raju",
-        "P. S. Sreedharan Pillai",
-        "Bhagat Singh Koshyari",
-        "Arif Mohammed Khan"
-      ],
-      "answer": "Ashok Gajapathi Raju"
+      "options": {
+        "A": "Ashok Gajapathi Raju",
+        "B": "Kavinder Gupta",
+        "C": "Prof. Ashim Kumar Ghosh",
+        "D": "CP Radhakrishnan"
+      },
+      "answer": "A"
     },
     {
       "id": 37,
       "question": "Who is the Governor of Haryana?",
-      "options": [
-        "Prof. Ashim Kumar Ghosh",
-        "Bandaru Dattatreya",
-        "Arif Mohammed Khan",
-        "Ramesh Bais"
-      ],
-      "answer": "Prof. Ashim Kumar Ghosh"
+      "options": {
+        "A": "Prof. Ashim Kumar Ghosh",
+        "B": "Ashok Gajapathi Raju",
+        "C": "Rekha Gupta",
+        "D": "Kavinder Gupta"
+      },
+      "answer": "A"
     },
     {
       "id": 38,
-      "question": "Who is the Chairman of the National Medical Commission (NMC)?",
-      "options": [
-        "Abhijeet Seth",
-        "Nitin Gupta",
-        "Ajay Seth",
-        "Vivek Chaturvedi"
-      ],
-      "answer": "Abhijeet Seth"
+      "question": "Who is the Chairman of the National Medical Commission?",
+      "options": {
+        "A": "Abhijit Sheth",
+        "B": "Abhijeet Seth",
+        "C": "Ajay Seth",
+        "D": "Deepak Bagla"
+      },
+      "answer": "A"
     },
     {
       "id": 39,
       "question": "Who is the Chairperson of the Capacity Building Commission?",
-      "options": [
-        "S. Radha Chauhan",
-        "Seema Agarwal",
-        "Anju Rathi Rana",
-        "Uma Kanjilal"
-      ],
-      "answer": "S. Radha Chauhan"
+      "options": {
+        "A": "S Radha Chauhan",
+        "B": "Anju Rathi Rana",
+        "C": "Uma Kanjilal",
+        "D": "Divya Sharma"
+      },
+      "answer": "A"
     },
     {
-      "id": 21,
-      "question": "In which year was the National Payments Corporation of India (NPCI) established?",
-      "options": [
-        "2008",
-        "2010",
-        "2005",
-        "2012"
-      ],
-      "answer": "2008"
+      "id": 40,
+      "question": "Who received the Commander of the British Empire honour?",
+      "options": {
+        "A": "Leena Nair",
+        "B": "Priya Nair",
+        "C": "Cristie Coventry",
+        "D": "Annalena Baerbock"
+      },
+      "answer": "A"
     },
     {
-      "id": 22,
-      "question": "Where is the headquarters of NPCI located?",
-      "options": [
-        "Mumbai",
-        "New Delhi",
-        "Bengaluru",
-        "Hyderabad"
-      ],
-      "answer": "Mumbai"
+      "id": 41,
+      "question": "Who is the first Indian-origin Provost of MIT?",
+      "options": {
+        "A": "Anantha Chandrakasan",
+        "B": "Ajay Kumar",
+        "C": "Urjit Patel",
+        "D": "Rajiv Ranjan"
+      },
+      "answer": "A"
     },
     {
-      "id": 23,
-      "question": "Who is the MD and CEO of NPCI?",
-      "options": [
-        "Dilip Asbe",
-        "Sohini Rajola",
-        "Ajay Bhadoo",
-        "Sunil Kadam"
-      ],
-      "answer": "Dilip Asbe"
+      "id": 42,
+      "question": "Who has been appointed as the Chairman of the Estimates Committee?",
+      "options": {
+        "A": "Sanjay Jaiswal",
+        "B": "Ajay Seth",
+        "C": "Anant Goenka",
+        "D": "Rajiv Memani"
+      },
+      "answer": "A"
     },
     {
-      "id": 24,
-      "question": "Who is the 52nd Chief Justice of India (CJI)?",
-      "options": [
-        "Justice Bhushan Ramkrishna Gavai",
-        "Justice Sanjeev Khanna",
-        "Justice Surya Kant",
-        "Justice D. Y. Chandrachud"
-      ],
-      "answer": "Justice Bhushan Ramkrishna Gavai"
+      "id": 43,
+      "question": "Who will become the new President of AIIB from January 2026?",
+      "options": {
+        "A": "Zou Jiayi",
+        "B": "Ajay Bhushan Pandey",
+        "C": "Masato Kanda",
+        "D": "Rajiv Ranjan"
+      },
+      "answer": "A"
     },
     {
-      "id": 25,
-      "question": "Who is the 53rd Chief Justice of India (CJI)?",
-      "options": [
-        "Justice Surya Kant",
-        "Justice Bhushan R. Gavai",
-        "Justice U. U. Lalit",
-        "Justice Sanjay Kishan Kaul"
-      ],
-      "answer": "Justice Surya Kant"
+      "id": 44,
+      "question": "Who is the new President of the Asian Development Bank (ADB)?",
+      "options": {
+        "A": "Masato Kanda",
+        "B": "Zou Jiayi",
+        "C": "Urjit Patel",
+        "D": "Gennady Golovkin"
+      },
+      "answer": "A"
     },
     {
-      "id": 26,
-      "question": "Who is the first woman Director General of the Railway Protection Force (RPF)?",
-      "options": [
-        "Sonali Mishra",
-        "Seema Agarwal",
-        "Yashasvi Solanki",
-        "S. Radha Chauhan"
-      ],
-      "answer": "Sonali Mishra"
+      "id": 45,
+      "question": "Who is the Chief of the Research and Analysis Wing (RAW)?",
+      "options": {
+        "A": "Parag Jain",
+        "B": "Alok Joshi",
+        "C": "Tapan Kumar Deka",
+        "D": "Praveen Mudd"
+      },
+      "answer": "A"
     },
     {
-      "id": 27,
-      "question": "Who is the MD and CEO of Life Insurance Corporation of India (LIC)?",
-      "options": [
-        "R. Doraiswami",
-        "Atul Kumar Goel",
-        "Ajay Seth",
-        "Nitin Gupta"
-      ],
-      "answer": "R. Doraiswami"
+      "id": 46,
+      "question": "Who is the Chairman of the Central Board of Direct Taxes (CBDT)?",
+      "options": {
+        "A": "Ravi Agarwal",
+        "B": "Vivek Chaturvedi",
+        "C": "Rahul Naveen",
+        "D": "Anurag Garg"
+      },
+      "answer": "A"
     },
     {
-      "id": 28,
-      "question": "Who is the Chairman of the National Financial Reporting Authority (NFRA)?",
-      "options": [
-        "Nitin Gupta",
-        "Ajay Seth",
-        "Arvind Srivastava",
-        "Ravi Agarwal"
-      ],
-      "answer": "Nitin Gupta"
+      "id": 47,
+      "question": "Who is the President of the Indian Kho Kho Federation?",
+      "options": {
+        "A": "Sudhanshu Mittal",
+        "B": "Ajay Singh",
+        "C": "Mohsin Naqvi",
+        "D": "Sanjog Gupta"
+      },
+      "answer": "A"
     },
     {
-      "id": 29,
-      "question": "Who is the new Chairman of the Insurance Regulatory and Development Authority of India (IRDAI)?",
-      "options": [
-        "Ajay Seth",
-        "Shiva S. Raman",
-        "Nitin Gupta",
-        "R. Doraiswami"
-      ],
-      "answer": "Ajay Seth"
+      "id": 48,
+      "question": "Who is the new Executive Director of the Reserve Bank of India?",
+      "options": {
+        "A": "Keshav Ramachandran",
+        "B": "Sunil Kadam",
+        "C": "Dilip Asbe",
+        "D": "Ajay Bhadoo"
+      },
+      "answer": "A"
     },
     {
-      "id": 30,
-      "question": "Who is the CEO of Sansad TV?",
-      "options": [
-        "Utpal Kumar",
-        "Rajit Punhani",
-        "Ajay Bhadoo",
-        "Prakash Magdum"
-      ],
-      "answer": "Utpal Kumar"
+      "id": 49,
+      "question": "Who is an Executive Director at SEBI?",
+      "options": {
+        "A": "Sunil Kadam",
+        "B": "Ravi Agarwal",
+        "C": "Rajit Punhani",
+        "D": "Utpal Kumar"
+      },
+      "answer": "A"
     },
     {
-      "id": 31,
-      "question": "Who is the Director General of Sashastra Seema Bal (SSB)?",
-      "options": [
-        "Sanjay Singhal",
-        "Praveer Ranjan",
-        "Praveen Kumar",
-        "Gyanendra Pratap Singh"
-      ],
-      "answer": "Sanjay Singhal"
+      "id": 50,
+      "question": "Who is the Chairman of the 23rd Law Commission of India?",
+      "options": {
+        "A": "Dinesh Maheshwari",
+        "B": "MC Setalvad",
+        "C": "Sanjiv Khanna",
+        "D": "Vikram Nath"
+      },
+      "answer": "A"
     },
     {
-      "id": 32,
-      "question": "Who is the Director of Vikram Sarabhai Space Centre (VSSC)?",
-      "options": [
-        "Dr. A. Rajarajan",
-        "Dr. S. Somanath",
-        "Dr. Ajay Kumar",
-        "Dr. Mangilal Jat"
-      ],
-      "answer": "Dr. A. Rajarajan"
+      "id": 51,
+      "question": "Who was the first Attorney General of India?",
+      "options": {
+        "A": "MC Setalvad",
+        "B": "Dinesh Maheshwari",
+        "C": "B R Gavai",
+        "D": "Sanjiv Khanna"
+      },
+      "answer": "A"
     },
     {
-      "id": 33,
-      "question": "Who is the CEO of the International Cricket Council (ICC)?",
-      "options": [
-        "Sanjog Gupta",
-        "Jay Shah",
-        "Geoff Allardice",
-        "Mohsin Naqvi"
-      ],
-      "answer": "Sanjog Gupta"
+      "id": 52,
+      "question": "Who is the Director General of the Indian Council of Agricultural Research (ICAR)?",
+      "options": {
+        "A": "Mangilal Jat",
+        "B": "Arvind Srivastava",
+        "C": "Ajay Seth",
+        "D": "Ajay Bhadoo"
+      },
+      "answer": "A"
     },
     {
-      "id": 34,
-      "question": "Who is the first woman MD and CEO of Hindustan Unilever Limited (HUL)?",
-      "options": [
-        "Priya Nair",
-        "Leena Nair",
-        "Roshni Nadar",
-        "Nita Ambani"
-      ],
-      "answer": "Priya Nair"
+      "id": 53,
+      "question": "Who has been appointed as the Revenue Secretary of India?",
+      "options": {
+        "A": "Arvind Srivastava",
+        "B": "Ajay Seth",
+        "C": "Ravi Agarwal",
+        "D": "Vivek Chaturvedi"
+      },
+      "answer": "A"
     },
     {
-      "id": 35,
-      "question": "Who is the Lieutenant Governor of Ladakh?",
-      "options": [
-        "Kavinder Gupta",
-        "R. K. Mathur",
-        "Anil Baijal",
-        "Manoj Sinha"
-      ],
-      "answer": "Kavinder Gupta"
+      "id": 54,
+      "question": "Who is the Vice President of the Asian Infrastructure Investment Bank (AIIB)?",
+      "options": {
+        "A": "Ajay Bhushan Prasad Pandey",
+        "B": "Zou Jiayi",
+        "C": "Masato Kanda",
+        "D": "Rajiv Ranjan"
+      },
+      "answer": "A"
     },
     {
-      "id": 36,
-      "question": "Who is the Governor of Goa?",
-      "options": [
-        "Ashok Gajapathi Raju",
-        "P. S. Sreedharan Pillai",
-        "Bhagat Singh Koshyari",
-        "Arif Mohammed Khan"
-      ],
-      "answer": "Ashok Gajapathi Raju"
-    },
-    {
-      "id": 37,
-      "question": "Who is the Governor of Haryana?",
-      "options": [
-        "Prof. Ashim Kumar Ghosh",
-        "Bandaru Dattatreya",
-        "Arif Mohammed Khan",
-        "Ramesh Bais"
-      ],
-      "answer": "Prof. Ashim Kumar Ghosh"
-    },
-    {
-      "id": 38,
-      "question": "Who is the Chairman of the National Medical Commission (NMC)?",
-      "options": [
-        "Abhijeet Seth",
-        "Nitin Gupta",
-        "Ajay Seth",
-        "Vivek Chaturvedi"
-      ],
-      "answer": "Abhijeet Seth"
-    },
-    {
-      "id": 39,
-      "question": "Who is the Chairperson of the Capacity Building Commission?",
-      "options": [
-        "S. Radha Chauhan",
-        "Seema Agarwal",
-        "Anju Rathi Rana",
-        "Uma Kanjilal"
-      ],
-      "answer": "S. Radha Chauhan"
+      "id": 55,
+      "question": "Who is the CEO of Government e-Marketplace (GeM)?",
+      "options": {
+        "A": "Ajay Bhadoo",
+        "B": "Ajay Seth",
+        "C": "Amitesh Kumar Sinha",
+        "D": "Utpal Kumar"
+      },
+      "answer": "A"
     },
     {
       "id": 56,
-      "question": "Who is the Central Vigilance Commissioner (19th) of India?",
-      "options": [
-        "Praveen Kumar Srivastava",
-        "Nitin Gupta",
-        "Raj Kumar Goel",
-        "Justice Vikram Nath"
-      ],
-      "answer": "Praveen Kumar Srivastava"
+      "question": "Who is the new Finance Secretary of India?",
+      "options": {
+        "A": "Ajay Seth",
+        "B": "Arvind Srivastava",
+        "C": "Ravi Agarwal",
+        "D": "CS Setty"
+      },
+      "answer": "A"
     },
     {
       "id": 57,
-      "question": "Who are the Vigilance Commissioners of India?",
-      "options": [
-        "Arvind Kumar and A. M. Gajeev",
-        "Nitin Gupta and Ajay Seth",
-        "Raj Kumar Goel and Arvind Srivastava",
-        "Ravi Agarwal and Sunil Kadam"
-      ],
-      "answer": "Arvind Kumar and A. M. Gajeev"
+      "question": "Who is the new Chairman of the Union Public Service Commission (UPSC)?",
+      "options": {
+        "A": "Dr Ajay Kumar",
+        "B": "Dinesh Maheshwari",
+        "C": "Vikram Nath",
+        "D": "Abhijit Sheth"
+      },
+      "answer": "A"
     },
     {
       "id": 58,
-      "question": "Who is the Director of the Central Bureau of Investigation (CBI)?",
-      "options": [
-        "Praveen Mudd",
-        "Tapan Kumar Deka",
-        "Parag Jain",
-        "Sadanand Daate"
-      ],
-      "answer": "Praveen Mudd"
+      "question": "Who is the new Chairman of Air India Express?",
+      "options": {
+        "A": "Nipun Agarwal",
+        "B": "Ajay Seth",
+        "C": "Rajiv Memani",
+        "D": "Utpal Kumar"
+      },
+      "answer": "A"
     },
     {
       "id": 59,
-      "question": "Who is the Director of the Intelligence Bureau (IB)?",
-      "options": [
-        "Tapan Kumar Deka",
-        "Parag Jain",
-        "Ajit Doval",
-        "Anish Dayal Singh"
-      ],
-      "answer": "Tapan Kumar Deka"
+      "question": "Who is the President of the Badminton World Federation from Thailand?",
+      "options": {
+        "A": "Khunying Patama",
+        "B": "Cristie Coventry",
+        "C": "Annalena Baerbock",
+        "D": "Leena Nair"
+      },
+      "answer": "A"
     },
     {
       "id": 60,
-      "question": "Who is the Chief of the Research and Analysis Wing (RAW)?",
-      "options": [
-        "Parag Jain",
-        "Ajit Doval",
-        "Alok Joshi",
-        "Praveen Kumar"
-      ],
-      "answer": "Parag Jain"
+      "question": "Who is the head of the National Security Advisory Board of India?",
+      "options": {
+        "A": "Alok Joshi",
+        "B": "Ajit Doval",
+        "C": "Anish Dayal Singh",
+        "D": "Parag Jain"
+      },
+      "answer": "A"
     },
     {
       "id": 61,
-      "question": "Who is the Director General of the National Investigation Agency (NIA)?",
-      "options": [
-        "Sadanand Vasant Daate",
-        "Rakesh Agarwal",
-        "Praveer Ranjan",
-        "Gyanendra Pratap Singh"
-      ],
-      "answer": "Sadanand Vasant Daate"
+      "question": "Who is the new Vice Chief of the Indian Air Force?",
+      "options": {
+        "A": "Narmdeshwar Tiwari",
+        "B": "Amar Preet Singh",
+        "C": "Upendra Dwivedi",
+        "D": "Dinesh Kumar Tripathi"
+      },
+      "answer": "A"
     },
     {
       "id": 62,
-      "question": "Who is the Director-in-Charge of the Enforcement Directorate (ED)?",
-      "options": [
-        "Rahul Naveen",
-        "Ravi Agarwal",
-        "Sunil Kadam",
-        "Urjit Patel"
-      ],
-      "answer": "Rahul Naveen"
+      "question": "Who is the CEO of AXIOM Space?",
+      "options": {
+        "A": "Tejpal Bhatia",
+        "B": "Jared Isaacman",
+        "C": "A Rajarajan",
+        "D": "Amitesh Kumar Sinha"
+      },
+      "answer": "A"
     },
     {
       "id": 63,
-      "question": "Who is the Director General of the Narcotics Control Bureau (NCB)?",
-      "options": [
-        "Anurag Garg",
-        "Parmesh Sivamani",
-        "Piyush Anand",
-        "SBK Singh"
-      ],
-      "answer": "Anurag Garg"
+      "question": "Who is the first woman flying instructor of the Indian Navy?",
+      "options": {
+        "A": "Divya Sharma",
+        "B": "Aastha Poonia",
+        "C": "Tanushka Singh",
+        "D": "Yashasvi Solanki"
+      },
+      "answer": "A"
     },
     {
       "id": 64,
-      "question": "Who is the Chairman of BARC India?",
-      "options": [
-        "Gaurav Banerjee",
-        "Anant Goenka",
-        "Utpal Kumar",
-        "Srinivasan Swamy"
-      ],
-      "answer": "Gaurav Banerjee"
+      "question": "Who is the CEO of the India Semiconductor Mission?",
+      "options": {
+        "A": "Amitesh Kumar Sinha",
+        "B": "Ajay Seth",
+        "C": "Rajiv Ranjan",
+        "D": "Deepak Bagla"
+      },
+      "answer": "A"
     },
     {
       "id": 65,
-      "question": "Who is the Commissioner of Delhi Police?",
-      "options": [
-        "Satish Golcha",
-        "Seema Agarwal",
-        "Praveen Kumar",
-        "Gyanendra Pratap Singh"
-      ],
-      "answer": "Satish Golcha"
+      "question": "Who is the Managing Director of the National Film Development Corporation (NFDC)?",
+      "options": {
+        "A": "Prakash Magdum",
+        "B": "Gaurav Banerjee",
+        "C": "Utpal Kumar",
+        "D": "Anant Goenka"
+      },
+      "answer": "A"
     },
     {
       "id": 66,
-      "question": "Who is the President of the Boxing Federation of India (third consecutive term)?",
-      "options": [
-        "Ajay Singh",
-        "Sudhanshu Mittal",
-        "Mohsin Naqvi",
-        "Kalikesh Singh Deo"
-      ],
-      "answer": "Ajay Singh"
+      "question": "Who is India's first woman Law Secretary?",
+      "options": {
+        "A": "Anju Rathi Rana",
+        "B": "S Radha Chauhan",
+        "C": "Uma Kanjilal",
+        "D": "Sonali Mishra"
+      },
+      "answer": "A"
     },
     {
       "id": 67,
-      "question": "Who is the US Ambassador to India?",
-      "options": [
-        "Sergio Gor",
-        "Kenneth Juster",
-        "Eric Garcetti",
-        "Nicholas Burns"
-      ],
-      "answer": "Sergio Gor"
+      "question": "Who is the first woman pilot of the Indian Air Force Jaguar squadron?",
+      "options": {
+        "A": "Tanushka Singh",
+        "B": "Aastha Poonia",
+        "C": "Divya Sharma",
+        "D": "Yashasvi Solanki"
+      },
+      "answer": "A"
     },
     {
       "id": 68,
-      "question": "Who is the Deputy National Security Advisor to the Prime Minister of India?",
-      "options": [
-        "Anish Dayal Singh",
-        "Ajit Doval",
-        "Alok Joshi",
-        "P. K. Mishra"
-      ],
-      "answer": "Anish Dayal Singh"
+      "question": "Who is the Chairman of Tata Communications?",
+      "options": {
+        "A": "N Ganapathy Subramaniam",
+        "B": "Ratan Tata",
+        "C": "Rajiv Memani",
+        "D": "Anant Goenka"
+      },
+      "answer": "A"
     },
     {
       "id": 69,
-      "question": "Who is the CEO of the Food Safety and Standards Authority of India (FSSAI)?",
-      "options": [
-        "Rajit Punhani",
-        "Ajay Seth",
-        "Nitin Gupta",
-        "Utpal Kumar"
-      ],
-      "answer": "Rajit Punhani"
+      "question": "Who is the first woman President of the International Olympic Committee (IOC)?",
+      "options": {
+        "A": "Cristie Coventry",
+        "B": "Leena Nair",
+        "C": "Annalena Baerbock",
+        "D": "Khunying Patama"
+      },
+      "answer": "A"
     },
     {
       "id": 70,
-      "question": "Who is the Vice President of the New Development Bank (NDB)?",
-      "options": [
-        "Rajiv Ranjan",
-        "Urjit Patel",
-        "Masato Kanda",
-        "Zou Jiayi"
-      ],
-      "answer": "Rajiv Ranjan"
+      "question": "Who is the Chief Minister of Delhi?",
+      "options": {
+        "A": "Rekha Gupta",
+        "B": "Atishi",
+        "C": "Sheila Dikshit",
+        "D": "Sunita Kejriwal"
+      },
+      "answer": "A"
     },
     {
       "id": 71,
-      "question": "Who is the President of the Association of Indian Advertising Agencies?",
-      "options": [
-        "Srinivasan Swamy",
-        "Anant Goenka",
-        "Nirmal Midha",
-        "Rajiv Memani"
-      ],
-      "answer": "Srinivasan Swamy"
+      "question": "Who is the Central Vigilance Commissioner (CVC)?",
+      "options": {
+        "A": "Praveen Kumar Srivastava",
+        "B": "Arvind Kumar",
+        "C": "AM Gajeev",
+        "D": "Rahul Naveen"
+      },
+      "answer": "A"
     },
     {
       "id": 72,
-      "question": "Who is the President of the World Anti-Doping Agency (WADA)?",
-      "options": [
-        "Witold Bańka",
-        "Kirsty Coventry",
-        "Gennady Golovkin",
-        "Lucas Philippe"
-      ],
-      "answer": "Witold Bańka"
+      "question": "Who is the Director of the Intelligence Bureau (IB)?",
+      "options": {
+        "A": "Tapan Kumar Deka",
+        "B": "Parag Jain",
+        "C": "Praveen Mudd",
+        "D": "Sadanand Daate"
+      },
+      "answer": "A"
     },
     {
       "id": 73,
-      "question": "Who is the President of the 80th United Nations General Assembly?",
-      "options": [
-        "Annalena Baerbock",
-        "Philemon Yang",
-        "António Guterres",
-        "Shirley Botchwey"
-      ],
-      "answer": "Annalena Baerbock"
+      "question": "Who is the Director General of the National Investigation Agency (NIA)?",
+      "options": {
+        "A": "Sadanand Vasant Daate",
+        "B": "Rakesh Agarwal",
+        "C": "Praveer Ranjan",
+        "D": "Harpal Singh"
+      },
+      "answer": "A"
     },
     {
       "id": 74,
-      "question": "Who is the Executive Director of the International Monetary Fund (IMF) from India?",
-      "options": [
-        "Urjit Patel",
-        "Ajay Seth",
-        "Masato Kanda",
-        "Zou Jiayi"
-      ],
-      "answer": "Urjit Patel"
+      "question": "Who is the Director-in-Charge of the Enforcement Directorate (ED)?",
+      "options": {
+        "A": "Rahul Naveen",
+        "B": "Vivek Chaturvedi",
+        "C": "Ravi Agarwal",
+        "D": "Anurag Garg"
+      },
+      "answer": "A"
     },
     {
       "id": 75,
-      "question": "Who is the 29th Controller General of Accounts (CGA) of India?",
-      "options": [
-        "T. C. A. Kalyani",
-        "Sanjay Murti",
-        "Narahari Rao",
-        "C. S. Swaminathan"
-      ],
-      "answer": "T. C. A. Kalyani"
+      "question": "Who is the Director General of the Narcotics Control Bureau (NCB)?",
+      "options": {
+        "A": "Anurag Garg",
+        "B": "Sanjay Singhal",
+        "C": "Praveer Ranjan",
+        "D": "Shatrughan Kapoor"
+      },
+      "answer": "A"
     },
     {
       "id": 76,
-      "question": "Who is the present Comptroller and Auditor General (CAG) of India?",
-      "options": [
-        "Sanjay Murti",
-        "T. C. A. Kalyani",
-        "Narahari Rao",
-        "Ravi Agarwal"
-      ],
-      "answer": "Sanjay Murti"
+      "question": "Who is the Chairman of BARC India (Broadcast Audience Research Council)?",
+      "options": {
+        "A": "Gaurav Banerjee",
+        "B": "Anant Goenka",
+        "C": "Rajiv Memani",
+        "D": "Utpal Kumar"
+      },
+      "answer": "A"
     },
     {
       "id": 77,
-      "question": "Who is the Director General of the Bureau of Indian Standards (BIS)?",
-      "options": [
-        "Sanjay Garg",
-        "Nitin Gupta",
-        "Ajay Seth",
-        "Rajit Punhani"
-      ],
-      "answer": "Sanjay Garg"
+      "question": "Who is the Commissioner of Delhi Police?",
+      "options": {
+        "A": "Satish Golcha",
+        "B": "Praveer Ranjan",
+        "C": "Anurag Garg",
+        "D": "Tapan Kumar Deka"
+      },
+      "answer": "A"
     },
     {
       "id": 78,
-      "question": "Where is the headquarters of the Bureau of Indian Standards (BIS)?",
-      "options": [
-        "New Delhi",
-        "Mumbai",
-        "Kolkata",
-        "Chennai"
-      ],
-      "answer": "New Delhi"
+      "question": "Who is the President of the Boxing Federation of India?",
+      "options": {
+        "A": "Ajay Singh",
+        "B": "Sanjog Gupta",
+        "C": "Mohsin Naqvi",
+        "D": "Sudhanshu Mittal"
+      },
+      "answer": "A"
     },
     {
       "id": 79,
-      "question": "Who is the President of ASSOCHAM?",
-      "options": [
-        "Nirmal Kumar Midha",
-        "Rajiv Memani",
-        "Anant Goenka",
-        "Arun Ammen"
-      ],
-      "answer": "Nirmal Kumar Midha"
+      "question": "Who is the United States Ambassador to India?",
+      "options": {
+        "A": "Sergio Gor",
+        "B": "Eric Garcetti",
+        "C": "Lucas Philippe",
+        "D": "Barham Salih"
+      },
+      "answer": "A"
     },
     {
       "id": 80,
-      "question": "Who is the Chairman of FICCI?",
-      "options": [
-        "Anant Goenka",
-        "Nirmal Midha",
-        "Rajiv Memani",
-        "Srinivasan Swamy"
-      ],
-      "answer": "Anant Goenka"
+      "question": "Who is the Deputy National Security Advisor to the Prime Minister of India?",
+      "options": {
+        "A": "Anish Dayal Singh",
+        "B": "Ajit Doval",
+        "C": "Alok Joshi",
+        "D": "Parag Jain"
+      },
+      "answer": "A"
     },
     {
       "id": 81,
-      "question": "Who is the President of the Confederation of Indian Industry (CII)?",
-      "options": [
-        "Rajiv Memani",
-        "Anant Goenka",
-        "Arun Ammen",
-        "Nirmal Midha"
-      ],
-      "answer": "Rajiv Memani"
+      "question": "Who is the CEO of the Food Safety and Standards Authority of India (FSSAI)?",
+      "options": {
+        "A": "Rajit Punhani",
+        "B": "Sunil Kadam",
+        "C": "Ajay Seth",
+        "D": "Dilip Asbe"
+      },
+      "answer": "A"
     },
     {
       "id": 82,
-      "question": "Who is the Chief Information Commissioner (CIC) of India?",
-      "options": [
-        "Raj Kumar Goel",
-        "Praveen Kumar Srivastava",
-        "Justice Vikram Nath",
-        "Nitin Gupta"
-      ],
-      "answer": "Raj Kumar Goel"
+      "question": "Who is the Vice President of the New Development Bank (NDB)?",
+      "options": {
+        "A": "Rajiv Ranjan",
+        "B": "Urjit Patel",
+        "C": "Ajay Bhushan Pandey",
+        "D": "Masato Kanda"
+      },
+      "answer": "A"
     },
     {
       "id": 83,
-      "question": "Who is the Executive Chairman of the National Legal Services Authority (NALSA)?",
-      "options": [
-        "Justice Vikram Nath",
-        "Justice Dinesh Maheshwari",
-        "Justice Surya Kant",
-        "Justice B. R. Gavai"
-      ],
-      "answer": "Justice Vikram Nath"
+      "question": "Who is the President of the Association of Indian Advertising Agencies?",
+      "options": {
+        "A": "Srinivasan Swamy",
+        "B": "Anant Goenka",
+        "C": "Gaurav Banerjee",
+        "D": "Rajiv Memani"
+      },
+      "answer": "A"
     },
     {
       "id": 84,
-      "question": "Who is the CMD of KAL India?",
-      "options": [
-        "B. Sai Ram",
-        "Bhupendra Gupta",
-        "Arun Kumar Singh",
-        "Ravindra Agarwal"
-      ],
-      "answer": "B. Sai Ram"
+      "question": "Who is the President of the World Anti-Doping Agency?",
+      "options": {
+        "A": "Witold Banka",
+        "B": "Lucas Philippe",
+        "C": "Gennady Golovkin",
+        "D": "Cristie Coventry"
+      },
+      "answer": "A"
     },
     {
       "id": 85,
-      "question": "Who is the first woman President of the Press Club of India?",
-      "options": [
-        "Sangeeta Barua Pisharoty",
-        "Leena Nair",
-        "Priya Nair",
-        "Uma Kanjilal"
-      ],
-      "answer": "Sangeeta Barua Pisharoty"
+      "question": "Where is the headquarters of the World Anti-Doping Agency located?",
+      "options": {
+        "A": "Montreal, Canada",
+        "B": "Geneva, Switzerland",
+        "C": "Paris, France",
+        "D": "New York, USA"
+      },
+      "answer": "A"
     },
     {
       "id": 86,
-      "question": "Who is the President of the National Rifle Association of India?",
-      "options": [
-        "Kalikesh Singh Deo",
-        "Ajay Singh",
-        "Sudhanshu Mittal",
-        "Mohsin Naqvi"
-      ],
-      "answer": "Kalikesh Singh Deo"
+      "question": "Who is the President of the 80th United Nations General Assembly session?",
+      "options": {
+        "A": "Annalena Baerbock",
+        "B": "Philemon Yang",
+        "C": "Barham Salih",
+        "D": "Zou Jiayi"
+      },
+      "answer": "A"
     },
     {
       "id": 87,
-      "question": "Who is the Chairman of ONGC (tenure extended by one year)?",
-      "options": [
-        "Arun Kumar Singh",
-        "Bhupendra Gupta",
-        "Ravindra Agarwal",
-        "Ajay Seth"
-      ],
-      "answer": "Arun Kumar Singh"
+      "question": "Who is the Executive Director of the International Monetary Fund (IMF) from India?",
+      "options": {
+        "A": "Urjit Patel",
+        "B": "Raghuram Rajan",
+        "C": "Ajay Seth",
+        "D": "Rajiv Ranjan"
+      },
+      "answer": "A"
     },
     {
       "id": 88,
-      "question": "Who is the new Chairman of the Central Board of Indirect Taxes and Customs (CBIC)?",
-      "options": [
-        "Vivek Chaturvedi",
-        "Ravi Agarwal",
-        "Nitin Gupta",
-        "Ajay Seth"
-      ],
-      "answer": "Vivek Chaturvedi"
+      "question": "Who is the 29th Controller General of Accounts (CGA)?",
+      "options": {
+        "A": "TCA Kalyani",
+        "B": "CS Swaminathan",
+        "C": "Sanjay Murti",
+        "D": "Narahari Rao"
+      },
+      "answer": "A"
     },
     {
       "id": 89,
-      "question": "Who is the President of Interpol?",
-      "options": [
-        "Lucas Philippe",
-        "Witold Bańka",
-        "Gennady Golovkin",
-        "Masato Kanda"
-      ],
-      "answer": "Lucas Philippe"
+      "question": "Who was the first Comptroller and Auditor General (CAG) of India?",
+      "options": {
+        "A": "Narahari Rao",
+        "B": "Sanjay Murti",
+        "C": "CS Swaminathan",
+        "D": "TCA Kalyani"
+      },
+      "answer": "A"
     },
     {
       "id": 90,
-      "question": "Who is the new coach of the Indian Women's Boxing Team?",
-      "options": [
-        "Santiago Nieva",
-        "Ajay Singh",
-        "Gennady Golovkin",
-        "Sanjog Gupta"
-      ],
-      "answer": "Santiago Nieva"
+      "question": "Who is the present Comptroller and Auditor General (CAG) of India?",
+      "options": {
+        "A": "Sanjay Murti",
+        "B": "Narahari Rao",
+        "C": "TCA Kalyani",
+        "D": "CS Swaminathan"
+      },
+      "answer": "A"
     },
     {
       "id": 91,
-      "question": "Who is the President of International IDEA for the year 2026?",
-      "options": [
-        "Gyanesh Kumar",
-        "Ajay Seth",
-        "Urjit Patel",
-        "Rajiv Ranjan"
-      ],
-      "answer": "Gyanesh Kumar"
+      "question": "Who was the first Controller General of Accounts (CGA) of India?",
+      "options": {
+        "A": "CS Swaminathan",
+        "B": "Narahari Rao",
+        "C": "Sanjay Murti",
+        "D": "TCA Kalyani"
+      },
+      "answer": "A"
     },
     {
       "id": 92,
-      "question": "Who is the 15th Administrator (Chief) of NASA from December 2025?",
-      "options": [
-        "Jared Isaacman",
-        "Tejpaul Bhatia",
-        "Elon Musk",
-        "Jeff Bezos"
-      ],
-      "answer": "Jared Isaacman"
+      "question": "Who is the new CMD of National Hydroelectric Power Corporation (NHPC)?",
+      "options": {
+        "A": "Bhupendra Gupta",
+        "B": "Ravindra Kumar Agarwal",
+        "C": "Arun Kumar Singh",
+        "D": "Vivek Chaturvedi"
+      },
+      "answer": "A"
     },
     {
       "id": 93,
-      "question": "Who is the President of the UN High Commissioner for Refugees (UNHCR)?",
-      "options": [
-        "Barham Salih",
-        "António Guterres",
-        "Annalena Baerbock",
-        "Shirley Botchwey"
-      ],
-      "answer": "Barham Salih"
+      "question": "Who is the Secretary of the Ministry of Mines?",
+      "options": {
+        "A": "Piyush Goyal",
+        "B": "Ajay Seth",
+        "C": "Arvind Srivastava",
+        "D": "Ajay Bhadoo"
+      },
+      "answer": "A"
     },
     {
       "id": 94,
-      "question": "Who is the first President of India’s first AI Industry Association?",
-      "options": [
-        "Vijay Kalantri",
-        "Amitesh Kumar Sinha",
-        "Ajay Seth",
-        "Nitin Gupta"
-      ],
-      "answer": "Vijay Kalantri"
+      "question": "Who is the 15th Vice President of India from Tamil Nadu?",
+      "options": {
+        "A": "CP Radhakrishnan",
+        "B": "Ashok Gajapathi Raju",
+        "C": "Kavinder Gupta",
+        "D": "Prof. Ashim Kumar Ghosh"
+      },
+      "answer": "A"
     },
     {
       "id": 95,
-      "question": "Where is the headquarters of the National Turmeric Board?",
-      "options": [
-        "Nizamabad, Telangana",
-        "Hyderabad",
-        "Warangal",
-        "Karimnagar"
-      ],
-      "answer": "Nizamabad, Telangana"
+      "question": "Who is the Director General of the Bureau of Indian Standards (BIS)?",
+      "options": {
+        "A": "Sanjay Garg",
+        "B": "Vivek Chaturvedi",
+        "C": "Rahul Naveen",
+        "D": "Anurag Garg"
+      },
+      "answer": "A"
     },
     {
       "id": 96,
-      "question": "Who is the first Chairman of the National Turmeric Board?",
-      "options": [
-        "Palle Ganga Reddy",
-        "Arun Ammen",
-        "Rajiv Memani",
-        "Anant Goenka"
-      ],
-      "answer": "Palle Ganga Reddy"
+      "question": "Where is the headquarters of the Bureau of Indian Standards (BIS)?",
+      "options": {
+        "A": "New Delhi",
+        "B": "Mumbai",
+        "C": "Kolkata",
+        "D": "Chennai"
+      },
+      "answer": "A"
     },
     {
       "id": 97,
-      "question": "Who is the Director General of the Border Roads Organisation (BRO)?",
-      "options": [
-        "Lt. Gen. Harpal Singh",
-        "Upendra Dwivedi",
-        "Amar Preet Singh",
-        "Dinesh Tripathi"
-      ],
-      "answer": "Lt. Gen. Harpal Singh"
+      "question": "Who is the President of ASSOCHAM?",
+      "options": {
+        "A": "Nirmal Kumar Midha",
+        "B": "Rajiv Memani",
+        "C": "Anant Goenka",
+        "D": "Srinivasan Swamy"
+      },
+      "answer": "A"
     },
     {
       "id": 98,
-      "question": "When was the Border Roads Organisation (BRO) established?",
-      "options": [
-        "7 May 1960",
-        "15 August 1947",
-        "26 January 1950",
-        "1 April 1956"
-      ],
-      "answer": "7 May 1960"
+      "question": "Who is the Chairman of FICCI?",
+      "options": {
+        "A": "Anant Goenka",
+        "B": "Nirmal Kumar Midha",
+        "C": "Rajiv Memani",
+        "D": "Gaurav Banerjee"
+      },
+      "answer": "A"
     },
     {
       "id": 99,
-      "question": "What is the motto of the Border Roads Organisation (BRO)?",
-      "options": [
-        "Shraman Sarvam Sadhyam",
-        "Satyameva Jayate",
-        "Service Before Self",
-        "Jai Jawan Jai Kisan"
-      ],
-      "answer": "Shraman Sarvam Sadhyam"
+      "question": "Who is the Director General of the Central Industrial Security Force (CISF)?",
+      "options": {
+        "A": "Praveer Ranjan",
+        "B": "Sanjay Singhal",
+        "C": "Shatrughan Kapoor",
+        "D": "Praveen Kumar"
+      },
+      "answer": "A"
     },
     {
       "id": 100,
+      "question": "Who is the first woman Vice Chancellor of IGNOU?",
+      "options": {
+        "A": "Uma Kanjilal",
+        "B": "S Radha Chauhan",
+        "C": "Priya Nair",
+        "D": "Sonali Mishra"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 101,
+      "question": "Who is the Chief of IRDAI?",
+      "options": {
+        "A": "Ajay Seth",
+        "B": "R Doraiswami",
+        "C": "Sunil Kadam",
+        "D": "CS Setty"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 102,
+      "question": "Who is the Director of the Atal Innovation Mission?",
+      "options": {
+        "A": "Deepak Bagla",
+        "B": "Amitesh Kumar Sinha",
+        "C": "Ajay Bhadoo",
+        "D": "Utpal Kumar"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 103,
+      "question": "Who is the first woman Director General of the Railway Protection Force (RPF)?",
+      "options": {
+        "A": "Sonali Mishra",
+        "B": "Seema Agarwal",
+        "C": "Uma Kanjilal",
+        "D": "Anju Rathi Rana"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 104,
+      "question": "Who is the first woman MD and CEO of Hindustan Unilever Limited?",
+      "options": {
+        "A": "Priya Nair",
+        "B": "Leena Nair",
+        "C": "Cristie Coventry",
+        "D": "Sohini Rajola"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 105,
+      "question": "Who is the Navy’s first woman fighter pilot?",
+      "options": {
+        "A": "Aastha Poonia",
+        "B": "Tanushka Singh",
+        "C": "Divya Sharma",
+        "D": "Yashasvi Solanki"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 106,
+      "question": "Who is the President of the Confederation of Indian Industry (CII)?",
+      "options": {
+        "A": "Rajiv Memani",
+        "B": "Anant Goenka",
+        "C": "Nirmal Kumar Midha",
+        "D": "Sudhanshu Mittal"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 107,
+      "question": "Who is the first woman ADC to the President of India?",
+      "options": {
+        "A": "Yashasvi Solanki",
+        "B": "Divya Sharma",
+        "C": "Sonali Mishra",
+        "D": "Uma Kanjilal"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 108,
+      "question": "Who is the first Chairman of the National Turmeric Board?",
+      "options": {
+        "A": "Palle Ganga Reddy",
+        "B": "Mangilal Jat",
+        "C": "Ajay Seth",
+        "D": "Deepak Bagla"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 109,
+      "question": "Where is the headquarters of the National Turmeric Board located?",
+      "options": {
+        "A": "Nizamabad, Telangana",
+        "B": "Hyderabad",
+        "C": "New Delhi",
+        "D": "Vijayawada"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 110,
+      "question": "Who is the Chairman of the Estimates Committee (2025–26)?",
+      "options": {
+        "A": "Sanjay Jaiswal",
+        "B": "Ajay Seth",
+        "C": "Rajiv Memani",
+        "D": "Anant Goenka"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 111,
+      "question": "Who is the Chief Information Commissioner (CIC) of India?",
+      "options": {
+        "A": "Raj Kumar Goel",
+        "B": "Praveen Kumar Srivastava",
+        "C": "Arvind Kumar",
+        "D": "Rahul Naveen"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 112,
+      "question": "Who is the CMD of KAL India?",
+      "options": {
+        "A": "B Sai Ram",
+        "B": "Bhupendra Gupta",
+        "C": "Arun Kumar Singh",
+        "D": "Ravindra Kumar Agarwal"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 113,
+      "question": "Who is the first woman President of the Press Club of India?",
+      "options": {
+        "A": "Sangeeta Barua Pisharoty",
+        "B": "Annalena Baerbock",
+        "C": "Leena Nair",
+        "D": "Uma Kanjilal"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 114,
+      "question": "Who is the President of the National Rifle Association of India?",
+      "options": {
+        "A": "Kalikesh Singh Deo",
+        "B": "Ajay Singh",
+        "C": "Sudhanshu Mittal",
+        "D": "Sanjog Gupta"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 115,
+      "question": "Who is the Chairman of ONGC whose tenure was extended by one year?",
+      "options": {
+        "A": "Arun Kumar Singh",
+        "B": "Bhupendra Gupta",
+        "C": "Ravindra Kumar Agarwal",
+        "D": "Vivek Chaturvedi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 116,
+      "question": "Who is the new Chairman of CBIC?",
+      "options": {
+        "A": "Vivek Chaturvedi",
+        "B": "Ravi Agarwal",
+        "C": "Rahul Naveen",
+        "D": "Arvind Srivastava"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 117,
+      "question": "Who is the President of Interpol?",
+      "options": {
+        "A": "Lucas Philippe",
+        "B": "Witold Banka",
+        "C": "Gennady Golovkin",
+        "D": "Sergio Gor"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 118,
+      "question": "Who is the new coach of the Indian Women’s Boxing Team?",
+      "options": {
+        "A": "Santiago Nieva",
+        "B": "Ajay Singh",
+        "C": "Gennady Golovkin",
+        "D": "Sudhanshu Mittal"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 119,
+      "question": "Who is the President of International IDEA for the year 2026?",
+      "options": {
+        "A": "Gyanesh Kumar",
+        "B": "Urjit Patel",
+        "C": "Rajiv Ranjan",
+        "D": "Barham Salih"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 120,
+      "question": "What does IDEA stand for?",
+      "options": {
+        "A": "Institute for Democracy and Electoral Assistance",
+        "B": "International Development and Electoral Authority",
+        "C": "Indian Democratic Electoral Association",
+        "D": "International Democracy Enhancement Agency"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 121,
+      "question": "Who is the 15th Administrator of NASA appointed in December 2025?",
+      "options": {
+        "A": "Jared Isaacman",
+        "B": "Tejpal Bhatia",
+        "C": "Ajay Kumar",
+        "D": "Elon Musk"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 122,
+      "question": "Who is the President of UNHCR?",
+      "options": {
+        "A": "Barham Salih",
+        "B": "Annalena Baerbock",
+        "C": "Zou Jiayi",
+        "D": "Lucas Philippe"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 123,
+      "question": "Who is the Executive Chairman of the National Legal Services Authority (NALSA)?",
+      "options": {
+        "A": "Justice Vikram Nath",
+        "B": "Justice Surya Kant",
+        "C": "B R Gavai",
+        "D": "Dinesh Maheshwari"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 124,
+      "question": "Who is the first President of India’s first AI Industry Association?",
+      "options": {
+        "A": "Vijay Kalantri",
+        "B": "Deepak Bagla",
+        "C": "Amitesh Kumar Sinha",
+        "D": "Ajay Bhadoo"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 125,
+      "question": "Where is the headquarters of India’s first AI Industry Association located?",
+      "options": {
+        "A": "Mumbai",
+        "B": "Bengaluru",
+        "C": "New Delhi",
+        "D": "Hyderabad"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 126,
+      "question": "Who is the new President of World Boxing?",
+      "options": {
+        "A": "Gennady Golovkin",
+        "B": "Ajay Singh",
+        "C": "Sanjog Gupta",
+        "D": "Witold Banka"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 127,
+      "question": "Who is the Director General of the Border Roads Organisation (BRO)?",
+      "options": {
+        "A": "Lt. General Harpal Singh",
+        "B": "Rakesh Agarwal",
+        "C": "Praveer Ranjan",
+        "D": "Sanjay Singhal"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 128,
+      "question": "Who is the Director General of the National Investigation Agency (NIA)?",
+      "options": {
+        "A": "Rakesh Agarwal",
+        "B": "Sadanand Daate",
+        "C": "Anurag Garg",
+        "D": "Rahul Naveen"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 129,
+      "question": "Who is the Director General of the Central Industrial Security Force (CISF)?",
+      "options": {
+        "A": "Praveer Ranjan",
+        "B": "Shatrughan Kapoor",
+        "C": "Sanjay Singhal",
+        "D": "Praveen Kumar"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 130,
+      "question": "Who is the Director General of the Indo-Tibetan Border Police (ITBP)?",
+      "options": {
+        "A": "Shatrughan Kapoor",
+        "B": "Praveer Ranjan",
+        "C": "Gyanendra Pratap Singh",
+        "D": "Alok Sharma"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 131,
+      "question": "Who is the Director General of the Sashastra Seema Bal (SSB)?",
+      "options": {
+        "A": "Sanjay Singhal",
+        "B": "Praveer Ranjan",
+        "C": "Rakesh Agarwal",
+        "D": "Anurag Garg"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 132,
+      "question": "Who is the Director General of the Border Security Force (BSF)?",
+      "options": {
+        "A": "Praveen Kumar",
+        "B": "Gyanendra Pratap Singh",
+        "C": "B Srinivasan",
+        "D": "Alok Sharma"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 133,
+      "question": "Who is the Director General of the Central Reserve Police Force (CRPF)?",
+      "options": {
+        "A": "Gyanendra Pratap Singh",
+        "B": "Praveer Ranjan",
+        "C": "Shatrughan Kapoor",
+        "D": "Praveen Kumar"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 134,
+      "question": "Who is the Director General of the National Security Guard (NSG)?",
+      "options": {
+        "A": "B Srinivasan",
+        "B": "Alok Sharma",
+        "C": "Parmesh Sivamani",
+        "D": "Virendra Vats"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 135,
+      "question": "Who is the Director General of the Special Protection Group (SPG)?",
+      "options": {
+        "A": "Alok Sharma",
+        "B": "B Srinivasan",
+        "C": "Praveer Ranjan",
+        "D": "Praveen Kumar"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 136,
+      "question": "Who is the Director General of the National Cadet Corps (NCC) from October 2025?",
+      "options": {
+        "A": "Virendra Vats",
+        "B": "Parmesh Sivamani",
+        "C": "Alok Sharma",
+        "D": "Shatrughan Kapoor"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 137,
+      "question": "Who is the Director General of the Indian Coast Guard (ICG)?",
+      "options": {
+        "A": "Parmesh Sivamani",
+        "B": "Virendra Vats",
+        "C": "B Srinivasan",
+        "D": "Alok Sharma"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 138,
+      "question": "Who is the Director General of the National Disaster Response Force (NDRF)?",
+      "options": {
+        "A": "Piyush Anand",
+        "B": "Anurag Garg",
+        "C": "Rahul Naveen",
+        "D": "Rakesh Agarwal"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 139,
+      "question": "Who is the Director General of the Railway Protection Force (RPF)?",
+      "options": {
+        "A": "Sonali Mishra",
+        "B": "Seema Agarwal",
+        "C": "Uma Kanjilal",
+        "D": "Anju Rathi Rana"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 140,
+      "question": "Who is the Director General of Home Guards?",
+      "options": {
+        "A": "SBK Singh",
+        "B": "Praveer Ranjan",
+        "C": "Praveen Kumar",
+        "D": "Alok Sharma"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 141,
+      "question": "Who is the Director General of Assam Rifles?",
+      "options": {
+        "A": "Vikas Lakhera",
+        "B": "Shatrughan Kapoor",
+        "C": "Gyanendra Pratap Singh",
+        "D": "Praveer Ranjan"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 142,
+      "question": "Who is the Air Chief Marshal of the Indian Air Force?",
+      "options": {
+        "A": "Amar Preet Singh",
+        "B": "Narmdeshwar Tiwari",
+        "C": "Upendra Dwivedi",
+        "D": "Dinesh Kumar Tripathi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 143,
+      "question": "Who is the Chief of the Indian Navy?",
+      "options": {
+        "A": "Dinesh Kumar Tripathi",
+        "B": "Amar Preet Singh",
+        "C": "Upendra Dwivedi",
+        "D": "Parmesh Sivamani"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 144,
+      "question": "Who is the Chief of the Indian Army?",
+      "options": {
+        "A": "Upendra Dwivedi",
+        "B": "Amar Preet Singh",
+        "C": "Dinesh Kumar Tripathi",
+        "D": "Gyanendra Pratap Singh"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 145,
+      "question": "On which date was the Border Roads Organisation (BRO) established?",
+      "options": {
+        "A": "7 May 1960",
+        "B": "1 April 1950",
+        "C": "15 August 1947",
+        "D": "26 January 1950"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 146,
+      "question": "Where is the headquarters of the Border Roads Organisation (BRO)?",
+      "options": {
+        "A": "New Delhi",
+        "B": "Leh",
+        "C": "Srinagar",
+        "D": "Shimla"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 147,
+      "question": "Which ministry does the Border Roads Organisation (BRO) function under?",
+      "options": {
+        "A": "Ministry of Defence",
+        "B": "Ministry of Home Affairs",
+        "C": "Ministry of Road Transport",
+        "D": "Ministry of External Affairs"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 148,
+      "question": "What is the motto of the Border Roads Organisation (BRO)?",
+      "options": {
+        "A": "Shraman Sarvam Sadhyam",
+        "B": "Satyameva Jayate",
+        "C": "Service Before Self",
+        "D": "Nation First"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 149,
+      "question": "At which pass did BRO construct the world’s highest motorable road at 19,400 ft in 2025?",
+      "options": {
+        "A": "Mig La Pass",
+        "B": "Umling La Pass",
+        "C": "Khardung La",
+        "D": "Zoji La"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 150,
+      "question": "In which year did BRO earlier set a Guinness World Record at Umling La Pass?",
+      "options": {
+        "A": "2021",
+        "B": "2020",
+        "C": "2022",
+        "D": "2019"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 151,
       "question": "Who is the CMD of the Food Corporation of India (FCI)?",
-      "options": [
-        "Ravindra Kumar Agarwal",
-        "Bhupendra Gupta",
-        "Arun Kumar Singh",
-        "Ajay Seth"
-      ],
-      "answer": "Ravindra Kumar Agarwal"
+      "options": {
+        "A": "Ravindra Kumar Agarwal",
+        "B": "Bhupendra Gupta",
+        "C": "Arun Kumar Singh",
+        "D": "Vivek Chaturvedi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 152,
+      "question": "In which year was the Food Corporation of India (FCI) established?",
+      "options": {
+        "A": "1965",
+        "B": "1955",
+        "C": "1971",
+        "D": "1980"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 153,
+      "question": "Where is the headquarters of the Food Corporation of India (FCI)?",
+      "options": {
+        "A": "New Delhi",
+        "B": "Mumbai",
+        "C": "Kolkata",
+        "D": "Chennai"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 154,
+      "question": "What is the primary function of the Food Corporation of India (FCI)?",
+      "options": {
+        "A": "Procurement, storage and distribution of food grains",
+        "B": "Export of food grains",
+        "C": "Price fixation of crops",
+        "D": "Agricultural research"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 155,
+      "question": "Who is the Director General of the Border Roads Organisation (29th DG)?",
+      "options": {
+        "A": "Lt. General Harpal Singh",
+        "B": "Rakesh Agarwal",
+        "C": "Praveer Ranjan",
+        "D": "Vikas Lakhera"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 156,
+      "question": "Which force is headed by DG Rakesh Agarwal?",
+      "options": {
+        "A": "National Investigation Agency",
+        "B": "BSF",
+        "C": "CRPF",
+        "D": "ITBP"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 157,
+      "question": "Which force is headed by DG Shatrughan Kapoor?",
+      "options": {
+        "A": "ITBP",
+        "B": "BSF",
+        "C": "CISF",
+        "D": "SSB"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 158,
+      "question": "Which force is headed by DG Praveen Kumar?",
+      "options": {
+        "A": "BSF",
+        "B": "CRPF",
+        "C": "CISF",
+        "D": "SSB"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 159,
+      "question": "Which force is headed by DG B. Srinivasan?",
+      "options": {
+        "A": "NSG",
+        "B": "SPG",
+        "C": "NDRF",
+        "D": "ICG"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 160,
+      "question": "Which force is headed by DG SBK Singh?",
+      "options": {
+        "A": "Home Guards",
+        "B": "NCC",
+        "C": "SSB",
+        "D": "ITBP"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 161,
+      "question": "Which force is headed by DG Virendra Vats?",
+      "options": {
+        "A": "NCC",
+        "B": "NSG",
+        "C": "ICG",
+        "D": "SPG"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 162,
+      "question": "Which force is headed by DG Parmesh Sivamani?",
+      "options": {
+        "A": "Indian Coast Guard",
+        "B": "NDRF",
+        "C": "SPG",
+        "D": "NSG"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 163,
+      "question": "Who is the Chief of the Central Bureau of Investigation (CBI)?",
+      "options": {
+        "A": "Praveen Mudd",
+        "B": "Rahul Naveen",
+        "C": "Tapan Kumar Deka",
+        "D": "Sadanand Daate"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 164,
+      "question": "Who is the Vigilance Commissioner of India?",
+      "options": {
+        "A": "Arvind Kumar",
+        "B": "Praveen Kumar Srivastava",
+        "C": "Rahul Naveen",
+        "D": "Anurag Garg"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 165,
+      "question": "Who is the second Vigilance Commissioner of India?",
+      "options": {
+        "A": "A M Gajeev",
+        "B": "Arvind Kumar",
+        "C": "Praveen Kumar Srivastava",
+        "D": "Raj Kumar Goel"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 166,
+      "question": "Who is the Director General of Intelligence Bureau (IB)?",
+      "options": {
+        "A": "Tapan Kumar Deka",
+        "B": "Parag Jain",
+        "C": "Praveen Mudd",
+        "D": "Alok Joshi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 167,
+      "question": "Who is the Director General of Enforcement Directorate (ED)?",
+      "options": {
+        "A": "Rahul Naveen",
+        "B": "Ravi Agarwal",
+        "C": "Vivek Chaturvedi",
+        "D": "Anurag Garg"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 168,
+      "question": "Who is the Director General of Narcotics Control Bureau (NCB)?",
+      "options": {
+        "A": "Anurag Garg",
+        "B": "Sanjay Singhal",
+        "C": "Praveer Ranjan",
+        "D": "Shatrughan Kapoor"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 169,
+      "question": "Who is the Director General of the Bureau of Indian Standards (BIS)?",
+      "options": {
+        "A": "Sanjay Garg",
+        "B": "Vivek Chaturvedi",
+        "C": "Rajit Punhani",
+        "D": "Ajay Seth"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 170,
+      "question": "Which city hosts the headquarters of BIS?",
+      "options": {
+        "A": "New Delhi",
+        "B": "Mumbai",
+        "C": "Kolkata",
+        "D": "Chandigarh"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 171,
+      "question": "Who is the Director General of the CISF?",
+      "options": {
+        "A": "Praveer Ranjan",
+        "B": "Praveen Kumar",
+        "C": "Sanjay Singhal",
+        "D": "Shatrughan Kapoor"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 172,
+      "question": "Who is the CEO of FSSAI?",
+      "options": {
+        "A": "Rajit Punhani",
+        "B": "Ajay Seth",
+        "C": "Dilip Asbe",
+        "D": "Sunil Kadam"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 173,
+      "question": "Who is the President of the Indian Boxing Federation?",
+      "options": {
+        "A": "Ajay Singh",
+        "B": "Sanjog Gupta",
+        "C": "Sudhanshu Mittal",
+        "D": "Mohsin Naqvi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 174,
+      "question": "Who is the President of CII?",
+      "options": {
+        "A": "Rajiv Memani",
+        "B": "Anant Goenka",
+        "C": "Nirmal Kumar Midha",
+        "D": "Srinivasan Swamy"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 175,
+      "question": "Who is the President of ASSOCHAM?",
+      "options": {
+        "A": "Nirmal Kumar Midha",
+        "B": "Rajiv Memani",
+        "C": "Anant Goenka",
+        "D": "Gaurav Banerjee"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 176,
+      "question": "Who is the Chairman of FICCI?",
+      "options": {
+        "A": "Anant Goenka",
+        "B": "Rajiv Memani",
+        "C": "Nirmal Kumar Midha",
+        "D": "Srinivasan Swamy"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 177,
+      "question": "Who is the President of the National Rifle Association of India?",
+      "options": {
+        "A": "Kalikesh Singh Deo",
+        "B": "Ajay Singh",
+        "C": "Sudhanshu Mittal",
+        "D": "Sanjog Gupta"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 178,
+      "question": "Who is the President of the Indian Kho Kho Federation?",
+      "options": {
+        "A": "Sudhanshu Mittal",
+        "B": "Ajay Singh",
+        "C": "Mohsin Naqvi",
+        "D": "Sanjog Gupta"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 179,
+      "question": "Who is the CEO of ICC?",
+      "options": {
+        "A": "Sanjog Gupta",
+        "B": "Mohsin Naqvi",
+        "C": "Ajay Singh",
+        "D": "Sudhanshu Mittal"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 180,
+      "question": "Who is the US Ambassador to India?",
+      "options": {
+        "A": "Sergio Gor",
+        "B": "Eric Garcetti",
+        "C": "Lucas Philippe",
+        "D": "Barham Salih"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 181,
+      "question": "Who is the Deputy NSA to the Prime Minister of India?",
+      "options": {
+        "A": "Anish Dayal Singh",
+        "B": "Ajit Doval",
+        "C": "Alok Joshi",
+        "D": "Parag Jain"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 182,
+      "question": "Who is the President of World Anti-Doping Agency?",
+      "options": {
+        "A": "Witold Banka",
+        "B": "Lucas Philippe",
+        "C": "Gennady Golovkin",
+        "D": "Cristie Coventry"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 183,
+      "question": "Where is the headquarters of World Anti-Doping Agency?",
+      "options": {
+        "A": "Montreal, Canada",
+        "B": "Paris, France",
+        "C": "Geneva, Switzerland",
+        "D": "New York, USA"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 184,
+      "question": "Who is the President of the 80th UN General Assembly?",
+      "options": {
+        "A": "Annalena Baerbock",
+        "B": "Philemon Yang",
+        "C": "Zou Jiayi",
+        "D": "Barham Salih"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 185,
+      "question": "Who is the Executive Director of IMF from India?",
+      "options": {
+        "A": "Urjit Patel",
+        "B": "Raghuram Rajan",
+        "C": "Ajay Seth",
+        "D": "Rajiv Ranjan"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 186,
+      "question": "Who is the CMD of NHPC?",
+      "options": {
+        "A": "Bhupendra Gupta",
+        "B": "Ravindra Kumar Agarwal",
+        "C": "Arun Kumar Singh",
+        "D": "Vivek Chaturvedi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 187,
+      "question": "Who is the Secretary of the Ministry of Mines?",
+      "options": {
+        "A": "Piyush Goyal",
+        "B": "Ajay Seth",
+        "C": "Arvind Srivastava",
+        "D": "Ajay Bhadoo"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 188,
+      "question": "Who is the Vice President of India (15th)?",
+      "options": {
+        "A": "C P Radhakrishnan",
+        "B": "Ashok Gajapathi Raju",
+        "C": "Kavinder Gupta",
+        "D": "Prof. Ashim Kumar Ghosh"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 189,
+      "question": "Who is the President of Interpol?",
+      "options": {
+        "A": "Lucas Philippe",
+        "B": "Witold Banka",
+        "C": "Gennady Golovkin",
+        "D": "Sergio Gor"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 190,
+      "question": "Who is the President of International IDEA (2026)?",
+      "options": {
+        "A": "Gyanesh Kumar",
+        "B": "Urjit Patel",
+        "C": "Rajiv Ranjan",
+        "D": "Barham Salih"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 191,
+      "question": "Who is the new NASA Administrator (15th)?",
+      "options": {
+        "A": "Jared Isaacman",
+        "B": "Tejpal Bhatia",
+        "C": "Ajay Kumar",
+        "D": "Elon Musk"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 192,
+      "question": "Who is the President of UNHCR?",
+      "options": {
+        "A": "Barham Salih",
+        "B": "Annalena Baerbock",
+        "C": "Zou Jiayi",
+        "D": "Lucas Philippe"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 193,
+      "question": "Who is the Executive Chairman of NALSA?",
+      "options": {
+        "A": "Justice Vikram Nath",
+        "B": "Justice Surya Kant",
+        "C": "B R Gavai",
+        "D": "Dinesh Maheshwari"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 194,
+      "question": "Who is the President of World Boxing?",
+      "options": {
+        "A": "Gennady Golovkin",
+        "B": "Ajay Singh",
+        "C": "Sanjog Gupta",
+        "D": "Witold Banka"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 195,
+      "question": "Who is the DG of BRO?",
+      "options": {
+        "A": "Lt. General Harpal Singh",
+        "B": "Rakesh Agarwal",
+        "C": "Praveer Ranjan",
+        "D": "Vikas Lakhera"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 196,
+      "question": "BRO functions under which ministry?",
+      "options": {
+        "A": "Ministry of Defence",
+        "B": "Ministry of Home Affairs",
+        "C": "Ministry of Road Transport",
+        "D": "Ministry of External Affairs"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 197,
+      "question": "What is the motto of BRO?",
+      "options": {
+        "A": "Shraman Sarvam Sadhyam",
+        "B": "Service Before Self",
+        "C": "Satyameva Jayate",
+        "D": "Nation First"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 198,
+      "question": "Which pass hosts the world’s highest motorable road built by BRO in 2025?",
+      "options": {
+        "A": "Mig La Pass",
+        "B": "Umling La Pass",
+        "C": "Khardung La",
+        "D": "Zoji La"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 199,
+      "question": "BRO earlier set a Guinness record at Umling La in which year?",
+      "options": {
+        "A": "2021",
+        "B": "2020",
+        "C": "2022",
+        "D": "2019"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 200,
+      "question": "Who is the Air Chief Marshal of India?",
+      "options": {
+        "A": "Amar Preet Singh",
+        "B": "Upendra Dwivedi",
+        "C": "Dinesh Kumar Tripathi",
+        "D": "Narmdeshwar Tiwari"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 201,
+      "question": "Who is the Chief of Indian Navy?",
+      "options": {
+        "A": "Dinesh Kumar Tripathi",
+        "B": "Amar Preet Singh",
+        "C": "Upendra Dwivedi",
+        "D": "Parmesh Sivamani"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 202,
+      "question": "Who is the Chief of Indian Army?",
+      "options": {
+        "A": "Upendra Dwivedi",
+        "B": "Amar Preet Singh",
+        "C": "Dinesh Kumar Tripathi",
+        "D": "Gyanendra Pratap Singh"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 203,
+      "question": "Who is the first woman DG of RPF?",
+      "options": {
+        "A": "Sonali Mishra",
+        "B": "Seema Agarwal",
+        "C": "Uma Kanjilal",
+        "D": "Anju Rathi Rana"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 204,
+      "question": "Who is the first woman Law Secretary of India?",
+      "options": {
+        "A": "Anju Rathi Rana",
+        "B": "S Radha Chauhan",
+        "C": "Uma Kanjilal",
+        "D": "Priya Nair"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 205,
+      "question": "Who is the first woman President of Press Club of India?",
+      "options": {
+        "A": "Sangeeta Barua Pisharoty",
+        "B": "Leena Nair",
+        "C": "Annalena Baerbock",
+        "D": "Cristie Coventry"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 206,
+      "question": "Who is the first woman MD & CEO of HUL?",
+      "options": {
+        "A": "Priya Nair",
+        "B": "Leena Nair",
+        "C": "Sohini Rajola",
+        "D": "Uma Kanjilal"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 207,
+      "question": "Who is the first woman fighter pilot of Indian Navy?",
+      "options": {
+        "A": "Aastha Poonia",
+        "B": "Tanushka Singh",
+        "C": "Divya Sharma",
+        "D": "Yashasvi Solanki"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 208,
+      "question": "Who is the first woman ADC to the President of India?",
+      "options": {
+        "A": "Yashasvi Solanki",
+        "B": "Divya Sharma",
+        "C": "Sonali Mishra",
+        "D": "Uma Kanjilal"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 209,
+      "question": "Who is the first Chairman of the National Turmeric Board?",
+      "options": {
+        "A": "Palle Ganga Reddy",
+        "B": "Mangilal Jat",
+        "C": "Ajay Seth",
+        "D": "Deepak Bagla"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 210,
+      "question": "Where is the HQ of the National Turmeric Board?",
+      "options": {
+        "A": "Nizamabad, Telangana",
+        "B": "Hyderabad",
+        "C": "New Delhi",
+        "D": "Vijayawada"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 211,
+      "question": "Who is the CEO of India Semiconductor Mission?",
+      "options": {
+        "A": "Amitesh Kumar Sinha",
+        "B": "Ajay Seth",
+        "C": "Rajiv Ranjan",
+        "D": "Deepak Bagla"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 212,
+      "question": "Who is the MD of National Film Development Corporation?",
+      "options": {
+        "A": "Prakash Magdum",
+        "B": "Gaurav Banerjee",
+        "C": "Utpal Kumar",
+        "D": "Anant Goenka"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 213,
+      "question": "Who is the Chairman of the Estimates Committee (2025–26)?",
+      "options": {
+        "A": "Sanjay Jaiswal",
+        "B": "Ajay Seth",
+        "C": "Rajiv Memani",
+        "D": "Anant Goenka"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 214,
+      "question": "Who is the Chancellor of NIIT University?",
+      "options": {
+        "A": "Amitabh Kant",
+        "B": "Shaktikanta Das",
+        "C": "PK Mishra",
+        "D": "Ajay Seth"
+      },
+      "answer": "A"
     }
   ]
 }
