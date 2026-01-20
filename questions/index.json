@@ -1,0 +1,1766 @@
+{
+    "category": "Awards & Honours 2025",
+    "total_questions": 45,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which country ranked 4th in the Global Wind Report 2025 released by the Global Wind Energy Council?",
+            "options": [
+                "China",
+                "USA",
+                "Germany",
+                "India"
+            ],
+            "answer": "China"
+        },
+        {
+            "id": 2,
+            "question": "Which country topped the Debt-to-GDP ratio as per the IMF Fiscal Monitor Report?",
+            "options": [
+                "Sudan",
+                "India",
+                "USA",
+                "Japan"
+            ],
+            "answer": "Sudan"
+        },
+        {
+            "id": 3,
+            "question": "What is India's rank in the Debt-to-GDP ratio according to the IMF Fiscal Monitor Report?",
+            "options": [
+                "31st",
+                "21st",
+                "41st",
+                "51st"
+            ],
+            "answer": "31st"
+        },
+        {
+            "id": 4,
+            "question": "What is India’s rank in the Human Development Index 2025 (for year 2023)?",
+            "options": [
+                "130",
+                "120",
+                "140",
+                "110"
+            ],
+            "answer": "130"
+        },
+        {
+            "id": 5,
+            "question": "Which country topped the Human Development Index 2025?",
+            "options": [
+                "Iceland",
+                "Norway",
+                "Finland",
+                "Denmark"
+            ],
+            "answer": "Iceland"
+        },
+        {
+            "id": 6,
+            "question": "What is India’s rank in the Gender Inequality Index released by UNDP?",
+            "options": [
+                "102",
+                "92",
+                "112",
+                "122"
+            ],
+            "answer": "102"
+        },
+        {
+            "id": 7,
+            "question": "What is India’s rank in the Climate Change Performance Index 2026?",
+            "options": [
+                "23rd",
+                "10th",
+                "15th",
+                "30th"
+            ],
+            "answer": "23rd"
+        },
+        {
+            "id": 8,
+            "question": "Which country ranked 4th in the Climate Change Performance Index 2026?",
+            "options": [
+                "Denmark",
+                "Morocco",
+                "Netherlands",
+                "Germany"
+            ],
+            "answer": "Denmark"
+        },
+        {
+            "id": 9,
+            "question": "Which organisation releases the Climate Change Performance Index?",
+            "options": [
+                "Germanwatch",
+                "UNDP",
+                "WEF",
+                "IMF"
+            ],
+            "answer": "Germanwatch"
+        },
+        {
+            "id": 10,
+            "question": "What is India’s rank in the Global Gender Gap Index 2025?",
+            "options": [
+                "131",
+                "121",
+                "141",
+                "111"
+            ],
+            "answer": "131"
+        },
+        {
+            "id": 11,
+            "question": "Which country topped the Global Gender Gap Index 2025?",
+            "options": [
+                "Iceland",
+                "Finland",
+                "Norway",
+                "Sweden"
+            ],
+            "answer": "Iceland"
+        },
+        {
+            "id": 12,
+            "question": "What is India’s rank in the Energy Transition Index 2025?",
+            "options": [
+                "71",
+                "61",
+                "81",
+                "51"
+            ],
+            "answer": "71"
+        },
+        {
+            "id": 13,
+            "question": "Which country topped the Energy Transition Index 2025?",
+            "options": [
+                "Sweden",
+                "Denmark",
+                "Finland",
+                "Norway"
+            ],
+            "answer": "Sweden"
+        },
+        {
+            "id": 14,
+            "question": "Which city topped the Global Liveability Index released by the Economist Intelligence Unit?",
+            "options": [
+                "Copenhagen",
+                "Vienna",
+                "Zurich",
+                "Helsinki"
+            ],
+            "answer": "Copenhagen"
+        },
+        {
+            "id": 15,
+            "question": "What rank did Delhi and Mumbai receive in the Global Liveability Index?",
+            "options": [
+                "141",
+                "131",
+                "151",
+                "121"
+            ],
+            "answer": "141"
+        },
+        {
+            "id": 16,
+            "question": "What is India’s rank in the World Investment Report 2025?",
+            "options": [
+                "15th",
+                "10th",
+                "20th",
+                "25th"
+            ],
+            "answer": "15th"
+        },
+        {
+            "id": 17,
+            "question": "Which country topped the World Investment Report 2025?",
+            "options": [
+                "USA",
+                "China",
+                "Germany",
+                "UK"
+            ],
+            "answer": "USA"
+        },
+        {
+            "id": 18,
+            "question": "Which organisation publishes the World Investment Report?",
+            "options": [
+                "UNCTAD",
+                "IMF",
+                "World Bank",
+                "WEF"
+            ],
+            "answer": "UNCTAD"
+        },
+        {
+            "id": 19,
+            "question": "Which country ranked top in the UN Women in Executive Leadership Report?",
+            "options": [
+                "Nicaragua",
+                "Finland",
+                "Iceland",
+                "Norway"
+            ],
+            "answer": "Nicaragua"
+        },
+        {
+            "id": 20,
+            "question": "Which state topped the Performance Grade Index 2.0?",
+            "options": [
+                "Chandigarh",
+                "Kerala",
+                "Tamil Nadu",
+                "Gujarat"
+            ],
+            "answer": "Chandigarh"
+        },
+        {
+            "id": 21,
+            "question": "What is India’s rank in the Global Peace Index 2025?",
+            "options": [
+                "115th",
+                "105th",
+                "125th",
+                "95th"
+            ],
+            "answer": "115th"
+        },
+        {
+            "id": 22,
+            "question": "Which country topped the Global Peace Index 2025?",
+            "options": [
+                "Iceland",
+                "Finland",
+                "Norway",
+                "Denmark"
+            ],
+            "answer": "Iceland"
+        },
+        {
+            "id": 23,
+            "question": "Which organisation releases the Global Peace Index?",
+            "options": [
+                "Institute for Economics & Peace",
+                "UNDP",
+                "WEF",
+                "IMF"
+            ],
+            "answer": "Institute for Economics & Peace"
+        },
+        {
+            "id": 24,
+            "question": "What is India’s rank in the Sustainable Development Goals Index 2025?",
+            "options": [
+                "99th",
+                "89th",
+                "109th",
+                "79th"
+            ],
+            "answer": "99th"
+        },
+        {
+            "id": 25,
+            "question": "Which country topped the Sustainable Development Goals Index 2025?",
+            "options": [
+                "Finland",
+                "Sweden",
+                "Denmark",
+                "Iceland"
+            ],
+            "answer": "Finland"
+        },
+        {
+            "id": 26,
+            "question": "Which organisation releases the Sustainable Development Goals Index?",
+            "options": [
+                "UN Sustainable Development Solutions Network",
+                "UNDP",
+                "WEF",
+                "World Bank"
+            ],
+            "answer": "UN Sustainable Development Solutions Network"
+        },
+        {
+            "id": 27,
+            "question": "What is India’s global rank in coffee production?",
+            "options": [
+                "7th",
+                "5th",
+                "9th",
+                "11th"
+            ],
+            "answer": "7th"
+        },
+        {
+            "id": 28,
+            "question": "Which country is the world’s largest producer of coffee?",
+            "options": [
+                "Brazil",
+                "Vietnam",
+                "Colombia",
+                "Indonesia"
+            ],
+            "answer": "Brazil"
+        },
+        {
+            "id": 29,
+            "question": "Which Indian state is the largest producer of coffee?",
+            "options": [
+                "Karnataka",
+                "Kerala",
+                "Tamil Nadu",
+                "Andhra Pradesh"
+            ],
+            "answer": "Karnataka"
+        },
+        {
+            "id": 30,
+            "question": "What is India’s rank in the Global Firepower Index 2025?",
+            "options": [
+                "4th",
+                "3rd",
+                "5th",
+                "6th"
+            ],
+            "answer": "4th"
+        },
+        {
+            "id": 31,
+            "question": "Which country topped the Global Firepower Index 2025?",
+            "options": [
+                "USA",
+                "China",
+                "Russia",
+                "India"
+            ],
+            "answer": "USA"
+        },
+        {
+            "id": 32,
+            "question": "Which state ranked first in NITI Aayog’s first Fiscal Health Index 2025?",
+            "options": [
+                "Odisha",
+                "Chhattisgarh",
+                "Goa",
+                "Gujarat"
+            ],
+            "answer": "Odisha"
+        },
+        {
+            "id": 33,
+            "question": "Which states ranked second and third in NITI Aayog’s first Fiscal Health Index 2025?",
+            "options": [
+                "Chhattisgarh and Goa",
+                "Goa and Kerala",
+                "Gujarat and Tamil Nadu",
+                "Punjab and Haryana"
+            ],
+            "answer": "Chhattisgarh and Goa"
+        },
+        {
+            "id": 34,
+            "question": "India ranked first globally in which aviation-related ranking by IATA?",
+            "options": [
+                "Domestic flight load",
+                "International passengers",
+                "Cargo movement",
+                "Airport connectivity"
+            ],
+            "answer": "Domestic flight load"
+        },
+        {
+            "id": 35,
+            "question": "What is India’s rank in the Global LEED Green Building Ranking 2024?",
+            "options": [
+                "3rd",
+                "2nd",
+                "4th",
+                "5th"
+            ],
+            "answer": "3rd"
+        },
+        {
+            "id": 36,
+            "question": "Which country topped the Global LEED Green Building Ranking 2024?",
+            "options": [
+                "China",
+                "USA",
+                "Germany",
+                "India"
+            ],
+            "answer": "China"
+        },
+        {
+            "id": 37,
+            "question": "Which organisation releases the Global LEED Green Building Ranking?",
+            "options": [
+                "US Green Building Council",
+                "UNDP",
+                "WEF",
+                "IMF"
+            ],
+            "answer": "US Green Building Council"
+        },
+        {
+            "id": 38,
+            "question": "What is India’s rank in the Corruption Perceptions Index 2024?",
+            "options": [
+                "96",
+                "86",
+                "106",
+                "76"
+            ],
+            "answer": "96"
+        },
+        {
+            "id": 39,
+            "question": "Which country topped the Corruption Perceptions Index 2024?",
+            "options": [
+                "Denmark",
+                "Finland",
+                "New Zealand",
+                "Norway"
+            ],
+            "answer": "Denmark"
+        },
+        {
+            "id": 40,
+            "question": "Which organisation publishes the Corruption Perceptions Index?",
+            "options": [
+                "Transparency International",
+                "UNDP",
+                "WEF",
+                "World Bank"
+            ],
+            "answer": "Transparency International"
+        },
+        {
+            "id": 41,
+            "question": "Which state ranked first in the Panchayat Devolution Index 2024?",
+            "options": [
+                "Karnataka",
+                "Kerala",
+                "Tamil Nadu",
+                "Gujarat"
+            ],
+            "answer": "Karnataka"
+        },
+        {
+            "id": 42,
+            "question": "Which states ranked second and third in the Panchayat Devolution Index 2024?",
+            "options": [
+                "Kerala and Tamil Nadu",
+                "Tamil Nadu and Gujarat",
+                "Gujarat and Maharashtra",
+                "Odisha and Kerala"
+            ],
+            "answer": "Kerala and Tamil Nadu"
+        },
+        {
+            "id": 43,
+            "question": "Which ministry released the Panchayat Devolution Index 2024?",
+            "options": [
+                "Union Ministry of Panchayati Raj",
+                "Ministry of Rural Development",
+                "NITI Aayog",
+                "Ministry of Home Affairs"
+            ],
+            "answer": "Union Ministry of Panchayati Raj"
+        },
+        {
+            "id": 44,
+            "question": "What is India’s rank in the Global Terrorism Index 2025?",
+            "options": [
+                "14th",
+                "10th",
+                "18th",
+                "20th"
+            ],
+            "answer": "14th"
+        },
+        {
+            "id": 45,
+            "question": "Which country topped the Global Terrorism Index 2025?",
+            "options": [
+                "Burkina Faso",
+                "Afghanistan",
+                "Iraq",
+                "Nigeria"
+            ],
+            "answer": "Burkina Faso"
+        },
+        {
+            "id": 46,
+            "question": "Which organisation releases the Global Terrorism Index?",
+            "options": [
+                "Institute for Economics & Peace",
+                "UNDP",
+                "WEF",
+                "IMF"
+            ],
+            "answer": "Institute for Economics & Peace"
+        },
+        {
+            "id": 47,
+            "question": "What is India’s rank in the World Happiness Index 2025?",
+            "options": [
+                "118th",
+                "108th",
+                "128th",
+                "98th"
+            ],
+            "answer": "118th"
+        },
+        {
+            "id": 48,
+            "question": "Which country topped the World Happiness Index 2025?",
+            "options": [
+                "Finland",
+                "Denmark",
+                "Iceland",
+                "Sweden"
+            ],
+            "answer": "Finland"
+        },
+        {
+            "id": 49,
+            "question": "Which organisation releases the World Happiness Index?",
+            "options": [
+                "UN Sustainable Development Solutions Network",
+                "UNDP",
+                "WEF",
+                "World Bank"
+            ],
+            "answer": "UN Sustainable Development Solutions Network"
+        },
+        {
+            "id": 50,
+            "question": "Which state ranked first in the Front Runner A category of the Panchayat Advancement Index 2022–23?",
+            "options": [
+                "Gujarat",
+                "Karnataka",
+                "Kerala",
+                "Tamil Nadu"
+            ],
+            "answer": "Gujarat"
+        },
+        {
+            "id": 51,
+            "question": "What is India’s rank in the World Press Freedom Index 2025?",
+            "options": [
+                "151st",
+                "141st",
+                "161st",
+                "131st"
+            ],
+            "answer": "151st"
+        },
+        {
+            "id": 52,
+            "question": "Which country topped the World Press Freedom Index 2025?",
+            "options": [
+                "Norway",
+                "Finland",
+                "Denmark",
+                "Sweden"
+            ],
+            "answer": "Norway"
+        },
+        {
+            "id": 53,
+            "question": "Which organisation publishes the World Press Freedom Index?",
+            "options": [
+                "Reporters Without Borders",
+                "UNDP",
+                "WEF",
+                "Freedom House"
+            ],
+            "answer": "Reporters Without Borders"
+        },
+        {
+            "id": 54,
+            "question": "Which institution released the District Flood Severity Index for the first time?",
+            "options": [
+                "IIT Delhi and IIT Gandhinagar",
+                "NITI Aayog",
+                "IMD",
+                "NDMA"
+            ],
+            "answer": "IIT Delhi and IIT Gandhinagar"
+        },
+        {
+            "id": 55,
+            "question": "Which district was identified as the worst affected by floods in the District Flood Severity Index?",
+            "options": [
+                "Patna",
+                "Dibrugarh",
+                "Guwahati",
+                "Bhagalpur"
+            ],
+            "answer": "Patna"
+        },
+        {
+            "id": 56,
+            "question": "What is India’s rank in the World Competitiveness Ranking 2025?",
+            "options": [
+                "41st",
+                "31st",
+                "51st",
+                "21st"
+            ],
+            "answer": "41st"
+        },
+        {
+            "id": 57,
+            "question": "Which country topped the World Competitiveness Ranking 2025?",
+            "options": [
+                "Switzerland",
+                "USA",
+                "Singapore",
+                "Germany"
+            ],
+            "answer": "Switzerland"
+        },
+        {
+            "id": 58,
+            "question": "Which country topped the Global AI City Index 2025?",
+            "options": [
+                "Singapore",
+                "USA",
+                "China",
+                "UK"
+            ],
+            "answer": "Singapore"
+        },
+        {
+            "id": 59,
+            "question": "Which Indian city ranked top in India in the Global AI City Index 2025?",
+            "options": [
+                "Bengaluru",
+                "Hyderabad",
+                "Pune",
+                "Delhi"
+            ],
+            "answer": "Bengaluru"
+        },
+        {
+            "id": 60,
+            "question": "What is the global rank of Bengaluru in the Global AI City Index 2025?",
+            "options": [
+                "26th",
+                "21st",
+                "31st",
+                "36th"
+            ],
+            "answer": "26th"
+        },
+        {
+            "id": 61,
+            "question": "Which organisation releases the Smart City Index?",
+            "options": [
+                "Institute for Management Development",
+                "WEF",
+                "UNDP",
+                "World Bank"
+            ],
+            "answer": "Institute for Management Development"
+        },
+        {
+            "id": 62,
+            "question": "Which city topped the Smart City Index 2025?",
+            "options": [
+                "Zurich",
+                "Copenhagen",
+                "Singapore",
+                "Helsinki"
+            ],
+            "answer": "Zurich"
+        },
+        {
+            "id": 63,
+            "question": "What is Delhi’s rank in the Smart City Index 2025?",
+            "options": [
+                "104",
+                "94",
+                "114",
+                "84"
+            ],
+            "answer": "104"
+        },
+        {
+            "id": 64,
+            "question": "Which country topped the Global Peace Index 2025?",
+            "options": [
+                "Iceland",
+                "Finland",
+                "Norway",
+                "Denmark"
+            ],
+            "answer": "Iceland"
+        },
+        {
+            "id": 65,
+            "question": "What is India’s rank in the Global Peace Index 2025?",
+            "options": [
+                "115",
+                "105",
+                "125",
+                "95"
+            ],
+            "answer": "115"
+        },
+        {
+            "id": 66,
+            "question": "Which institution releases the Global Peace Index?",
+            "options": [
+                "Institute for Economics & Peace",
+                "UNDP",
+                "WEF",
+                "IMF"
+            ],
+            "answer": "Institute for Economics & Peace"
+        },
+        {
+            "id": 67,
+            "question": "Which institute topped the NIRF 2025 Overall Ranking?",
+            "options": [
+                "IIT Madras",
+                "IIT Delhi",
+                "IISc Bengaluru",
+                "IIT Bombay"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "id": 68,
+            "question": "Which institute also topped the Engineering category in NIRF 2025?",
+            "options": [
+                "IIT Madras",
+                "IIT Bombay",
+                "IIT Delhi",
+                "IIT Kanpur"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "id": 69,
+            "question": "What is India’s rank in the World Talent Ranking 2025?",
+            "options": [
+                "63",
+                "53",
+                "73",
+                "43"
+            ],
+            "answer": "63"
+        },
+        {
+            "id": 70,
+            "question": "Which country topped the World Talent Ranking 2025?",
+            "options": [
+                "Switzerland",
+                "USA",
+                "Singapore",
+                "Germany"
+            ],
+            "answer": "Switzerland"
+        },
+        {
+            "id": 71,
+            "question": "Which organisation releases the World Talent Ranking?",
+            "options": [
+                "IMD",
+                "WEF",
+                "UNDP",
+                "OECD"
+            ],
+            "answer": "IMD"
+        },
+        {
+            "id": 72,
+            "question": "What is India’s score in the Human Development Index 2025?",
+            "options": [
+                "0.685",
+                "0.705",
+                "0.655",
+                "0.725"
+            ],
+            "answer": "0.685"
+        },
+        {
+            "id": 73,
+            "question": "What is India’s rank in the Human Development Index 2025?",
+            "options": [
+                "130",
+                "120",
+                "140",
+                "110"
+            ],
+            "answer": "130"
+        },
+        {
+            "id": 74,
+            "question": "Which country topped the Human Development Index 2025?",
+            "options": [
+                "Iceland",
+                "Norway",
+                "Finland",
+                "Denmark"
+            ],
+            "answer": "Iceland"
+        },
+        {
+            "id": 75,
+            "question": "What is India’s rank in the Global Innovation Index 2025?",
+            "options": [
+                "38th",
+                "48th",
+                "28th",
+                "58th"
+            ],
+            "answer": "38th"
+        },
+        {
+            "id": 76,
+            "question": "Which country topped the Global Innovation Index 2025?",
+            "options": [
+                "Switzerland",
+                "USA",
+                "Germany",
+                "Japan"
+            ],
+            "answer": "Switzerland"
+        },
+        {
+            "id": 77,
+            "question": "Which organisation releases the Global Innovation Index?",
+            "options": [
+                "World Intellectual Property Organization",
+                "WEF",
+                "UNDP",
+                "OECD"
+            ],
+            "answer": "World Intellectual Property Organization"
+        },
+        {
+            "id": 78,
+            "question": "What is India’s rank in the Global Hunger Index 2025?",
+            "options": [
+                "102",
+                "92",
+                "112",
+                "82"
+            ],
+            "answer": "102"
+        },
+        {
+            "id": 79,
+            "question": "What is India’s score in the Global Hunger Index 2025?",
+            "options": [
+                "25.8",
+                "24.6",
+                "26.4",
+                "23.1"
+            ],
+            "answer": "25.8"
+        },
+        {
+            "id": 80,
+            "question": "Which country topped the Global AI Vibrancy Index 2024?",
+            "options": [
+                "USA",
+                "China",
+                "UK",
+                "Germany"
+            ],
+            "answer": "USA"
+        },
+        {
+            "id": 81,
+            "question": "What is the rank of the USA in the Global AI Vibrancy Index 2024?",
+            "options": [
+                "3rd",
+                "1st",
+                "2nd",
+                "4th"
+            ],
+            "answer": "3rd"
+        },
+        {
+            "id": 82,
+            "question": "Which institution releases the Global AI Vibrancy Index?",
+            "options": [
+                "Stanford University",
+                "MIT",
+                "WEF",
+                "OECD"
+            ],
+            "answer": "Stanford University"
+        },
+        {
+            "id": 83,
+            "question": "What is the rank of the USA in the Asia Power Index 2025?",
+            "options": [
+                "3rd",
+                "1st",
+                "2nd",
+                "4th"
+            ],
+            "answer": "3rd"
+        },
+        {
+            "id": 84,
+            "question": "Which organisation releases the Asia Power Index?",
+            "options": [
+                "Lowy Institute",
+                "WEF",
+                "UNDP",
+                "OECD"
+            ],
+            "answer": "Lowy Institute"
+        },
+        {
+            "id": 85,
+            "question": "What is India’s rank in the Global Firepower Index 2025?",
+            "options": [
+                "4th",
+                "5th",
+                "3rd",
+                "6th"
+            ],
+            "answer": "4th"
+        },
+        {
+            "id": 86,
+            "question": "Which country topped the Global Firepower Index 2025?",
+            "options": [
+                "USA",
+                "China",
+                "Russia",
+                "India"
+            ],
+            "answer": "USA"
+        },
+        {
+            "id": 87,
+            "question": "What is India’s rank in the Global Terrorism Index 2025?",
+            "options": [
+                "14th",
+                "10th",
+                "18th",
+                "20th"
+            ],
+            "answer": "14th"
+        },
+        {
+            "id": 88,
+            "question": "Which country topped the Global Terrorism Index 2025?",
+            "options": [
+                "Burkina Faso",
+                "Afghanistan",
+                "Nigeria",
+                "Iraq"
+            ],
+            "answer": "Burkina Faso"
+        },
+        {
+            "id": 89,
+            "question": "What is India’s rank in the Climate Change Performance Index 2026?",
+            "options": [
+                "23rd",
+                "13th",
+                "33rd",
+                "10th"
+            ],
+            "answer": "23rd"
+        },
+        {
+            "id": 90,
+            "question": "Which country ranked 4th in the Climate Change Performance Index 2026?",
+            "options": [
+                "Denmark",
+                "Morocco",
+                "Netherlands",
+                "Germany"
+            ],
+            "answer": "Denmark"
+        },
+        {
+            "id": 91,
+            "question": "What is India’s rank in the Global Gender Gap Index 2025?",
+            "options": [
+                "131",
+                "121",
+                "141",
+                "111"
+            ],
+            "answer": "131"
+        },
+        {
+            "id": 92,
+            "question": "Which country topped the Global Gender Gap Index 2025?",
+            "options": [
+                "Iceland",
+                "Finland",
+                "Norway",
+                "Sweden"
+            ],
+            "answer": "Iceland"
+        },
+        {
+            "id": 93,
+            "question": "What is India’s rank in the Energy Transition Index 2025?",
+            "options": [
+                "71",
+                "61",
+                "81",
+                "51"
+            ],
+            "answer": "71"
+        },
+        {
+            "id": 94,
+            "question": "Which country topped the Energy Transition Index 2025?",
+            "options": [
+                "Sweden",
+                "Denmark",
+                "Finland",
+                "Norway"
+            ],
+            "answer": "Sweden"
+        },
+        {
+            "id": 95,
+            "question": "What is India’s rank in the Corruption Perceptions Index 2024?",
+            "options": [
+                "96",
+                "86",
+                "106",
+                "76"
+            ],
+            "answer": "96"
+        },
+        {
+            "id": 96,
+            "question": "Which country topped the Corruption Perceptions Index 2024?",
+            "options": [
+                "Denmark",
+                "Finland",
+                "Norway",
+                "New Zealand"
+            ],
+            "answer": "Denmark"
+        },
+        {
+            "id": 97,
+            "question": "What is India’s rank in the World Happiness Index 2025?",
+            "options": [
+                "118th",
+                "108th",
+                "128th",
+                "98th"
+            ],
+            "answer": "118th"
+        },
+        {
+            "id": 98,
+            "question": "Which country topped the World Happiness Index 2025?",
+            "options": [
+                "Finland",
+                "Denmark",
+                "Iceland",
+                "Sweden"
+            ],
+            "answer": "Finland"
+        },
+        {
+            "id": 99,
+            "question": "What is India’s rank in the World Press Freedom Index 2025?",
+            "options": [
+                "151st",
+                "141st",
+                "161st",
+                "131st"
+            ],
+            "answer": "151st"
+        },
+        {
+            "id": 100,
+            "question": "Which country topped the World Press Freedom Index 2025?",
+            "options": [
+                "Norway",
+                "Finland",
+                "Denmark",
+                "Sweden"
+            ],
+            "answer": "Norway"
+        },
+        {
+            "id": 101,
+            "question": "Which organisation releases the World Competitiveness Ranking?",
+            "options": [
+                "Institute for Management Development",
+                "WEF",
+                "UNDP",
+                "World Bank"
+            ],
+            "answer": "Institute for Management Development"
+        },
+        {
+            "id": 102,
+            "question": "What is India’s rank in the World Competitiveness Ranking 2025?",
+            "options": [
+                "41st",
+                "31st",
+                "51st",
+                "21st"
+            ],
+            "answer": "41st"
+        },
+        {
+            "id": 103,
+            "question": "Which country topped the World Competitiveness Ranking 2025?",
+            "options": [
+                "Switzerland",
+                "USA",
+                "Singapore",
+                "Germany"
+            ],
+            "answer": "Switzerland"
+        },
+        {
+            "id": 104,
+            "question": "Which district topped NITI Aayog's North Eastern Region Sustainable Development Goals Index 2023–24?",
+            "options": [
+                "Hnahthial",
+                "Aizawl",
+                "Kohima",
+                "Imphal"
+            ],
+            "answer": "Hnahthial"
+        },
+        {
+            "id": 105,
+            "question": "Hnahthial district is located in which state?",
+            "options": [
+                "Mizoram",
+                "Manipur",
+                "Nagaland",
+                "Tripura"
+            ],
+            "answer": "Mizoram"
+        },
+        {
+            "id": 106,
+            "question": "Which country topped the Global AI City Index 2025?",
+            "options": [
+                "Singapore",
+                "USA",
+                "China",
+                "UK"
+            ],
+            "answer": "Singapore"
+        },
+        {
+            "id": 107,
+            "question": "Which Indian city ranked highest in the Global AI City Index 2025?",
+            "options": [
+                "Bengaluru",
+                "Hyderabad",
+                "Pune",
+                "Delhi"
+            ],
+            "answer": "Bengaluru"
+        },
+        {
+            "id": 108,
+            "question": "What is the global rank of Bengaluru in the Global AI City Index 2025?",
+            "options": [
+                "26th",
+                "21st",
+                "31st",
+                "36th"
+            ],
+            "answer": "26th"
+        },
+        {
+            "id": 109,
+            "question": "Which organisation releases the Smart City Index?",
+            "options": [
+                "Institute for Management Development",
+                "WEF",
+                "UNDP",
+                "OECD"
+            ],
+            "answer": "Institute for Management Development"
+        },
+        {
+            "id": 110,
+            "question": "Which city topped the Smart City Index 2025?",
+            "options": [
+                "Zurich",
+                "Copenhagen",
+                "Singapore",
+                "Helsinki"
+            ],
+            "answer": "Zurich"
+        },
+        {
+            "id": 111,
+            "question": "What is Delhi’s rank in the Smart City Index 2025?",
+            "options": [
+                "104",
+                "94",
+                "114",
+                "84"
+            ],
+            "answer": "104"
+        },
+        {
+            "id": 112,
+            "question": "Which institute topped the NIRF 2025 Overall Ranking?",
+            "options": [
+                "IIT Madras",
+                "IIT Delhi",
+                "IISc Bengaluru",
+                "IIT Bombay"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "id": 113,
+            "question": "Which institute also topped the Engineering category in NIRF 2025?",
+            "options": [
+                "IIT Madras",
+                "IIT Bombay",
+                "IIT Delhi",
+                "IIT Kanpur"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "id": 114,
+            "question": "What is India’s rank in the World Talent Ranking 2025?",
+            "options": [
+                "63",
+                "53",
+                "73",
+                "43"
+            ],
+            "answer": "63"
+        },
+        {
+            "id": 115,
+            "question": "Which country topped the World Talent Ranking 2025?",
+            "options": [
+                "Switzerland",
+                "USA",
+                "Singapore",
+                "Germany"
+            ],
+            "answer": "Switzerland"
+        },
+        {
+            "id": 116,
+            "question": "Which organisation releases the World Talent Ranking?",
+            "options": [
+                "IMD",
+                "WEF",
+                "UNDP",
+                "OECD"
+            ],
+            "answer": "IMD"
+        },
+        {
+            "id": 117,
+            "question": "What is India’s rank in the Global Innovation Index 2025?",
+            "options": [
+                "38th",
+                "48th",
+                "28th",
+                "58th"
+            ],
+            "answer": "38th"
+        },
+        {
+            "id": 118,
+            "question": "Which country topped the Global Innovation Index 2025?",
+            "options": [
+                "Switzerland",
+                "USA",
+                "Germany",
+                "Japan"
+            ],
+            "answer": "Switzerland"
+        },
+        {
+            "id": 119,
+            "question": "Which organisation releases the Global Innovation Index?",
+            "options": [
+                "World Intellectual Property Organization",
+                "WEF",
+                "UNDP",
+                "OECD"
+            ],
+            "answer": "World Intellectual Property Organization"
+        },
+        {
+            "id": 120,
+            "question": "What is India’s rank in the Global Hunger Index 2025?",
+            "options": [
+                "102",
+                "92",
+                "112",
+                "82"
+            ],
+            "answer": "102"
+        },
+        {
+            "id": 121,
+            "question": "What is India’s score in the Global Hunger Index 2025?",
+            "options": [
+                "25.8",
+                "24.6",
+                "26.4",
+                "23.1"
+            ],
+            "answer": "25.8"
+        },
+        {
+            "id": 122,
+            "question": "What is India’s rank in the World Happiness Index 2025?",
+            "options": [
+                "118th",
+                "108th",
+                "128th",
+                "98th"
+            ],
+            "answer": "118th"
+        },
+        {
+            "id": 123,
+            "question": "Which country topped the World Happiness Index 2025?",
+            "options": [
+                "Finland",
+                "Denmark",
+                "Iceland",
+                "Sweden"
+            ],
+            "answer": "Finland"
+        },
+        {
+            "id": 124,
+            "question": "What is India’s rank in the Global Peace Index 2025?",
+            "options": [
+                "115th",
+                "105th",
+                "125th",
+                "95th"
+            ],
+            "answer": "115th"
+        },
+        {
+            "id": 125,
+            "question": "Which country topped the Global Peace Index 2025?",
+            "options": [
+                "Iceland",
+                "Finland",
+                "Norway",
+                "Denmark"
+            ],
+            "answer": "Iceland"
+        },
+        {
+            "id": 126,
+            "question": "What is India’s rank in the Climate Change Performance Index 2026?",
+            "options": [
+                "23rd",
+                "13th",
+                "33rd",
+                "10th"
+            ],
+            "answer": "23rd"
+        },
+        {
+            "id": 127,
+            "question": "Which country ranked 5th in the Climate Change Performance Index 2026?",
+            "options": [
+                "Morocco",
+                "Netherlands",
+                "Germany",
+                "Spain"
+            ],
+            "answer": "Morocco"
+        },
+        {
+            "id": 128,
+            "question": "Which organisation releases the Climate Change Performance Index?",
+            "options": [
+                "Germanwatch",
+                "UNDP",
+                "WEF",
+                "IMF"
+            ],
+            "answer": "Germanwatch"
+        },
+        {
+            "id": 129,
+            "question": "What is India’s rank in the Global Gender Gap Index 2025?",
+            "options": [
+                "131",
+                "121",
+                "141",
+                "111"
+            ],
+            "answer": "131"
+        },
+        {
+            "id": 130,
+            "question": "Which country topped the Global Gender Gap Index 2025?",
+            "options": [
+                "Iceland",
+                "Finland",
+                "Norway",
+                "Sweden"
+            ],
+            "answer": "Iceland"
+        },
+        {
+            "id": 131,
+            "question": "What is India’s rank in the Energy Transition Index 2025?",
+            "options": [
+                "71",
+                "61",
+                "81",
+                "51"
+            ],
+            "answer": "71"
+        },
+        {
+            "id": 132,
+            "question": "Which country topped the Energy Transition Index 2025?",
+            "options": [
+                "Sweden",
+                "Denmark",
+                "Finland",
+                "Norway"
+            ],
+            "answer": "Sweden"
+        },
+        {
+            "id": 133,
+            "question": "Which organisation releases the Energy Transition Index?",
+            "options": [
+                "World Economic Forum",
+                "UNDP",
+                "IMF",
+                "OECD"
+            ],
+            "answer": "World Economic Forum"
+        },
+        {
+            "id": 134,
+            "question": "Which edition of the Export Preparedness Index was released in 2026?",
+            "options": [
+                "4th",
+                "3rd",
+                "5th",
+                "2nd"
+            ],
+            "answer": "4th"
+        },
+        {
+            "id": 135,
+            "question": "Which organisation released the 4th Export Preparedness Index?",
+            "options": [
+                "NITI Aayog",
+                "Ministry of Commerce",
+                "IMF",
+                "World Bank"
+            ],
+            "answer": "NITI Aayog"
+        },
+        {
+            "id": 136,
+            "question": "Which state topped the Large States category in the Export Preparedness Index 2024?",
+            "options": [
+                "Maharashtra",
+                "Tamil Nadu",
+                "Gujarat",
+                "Karnataka"
+            ],
+            "answer": "Maharashtra"
+        },
+        {
+            "id": 137,
+            "question": "Which state ranked second in the Large States category of the Export Preparedness Index 2024?",
+            "options": [
+                "Tamil Nadu",
+                "Gujarat",
+                "Karnataka",
+                "Kerala"
+            ],
+            "answer": "Tamil Nadu"
+        },
+        {
+            "id": 138,
+            "question": "Which state ranked third in the Large States category of the Export Preparedness Index 2024?",
+            "options": [
+                "Gujarat",
+                "Maharashtra",
+                "Kerala",
+                "Punjab"
+            ],
+            "answer": "Gujarat"
+        },
+        {
+            "id": 139,
+            "question": "Which state topped the Small States category in the Export Preparedness Index 2024?",
+            "options": [
+                "Uttarakhand",
+                "Goa",
+                "Sikkim",
+                "Himachal Pradesh"
+            ],
+            "answer": "Uttarakhand"
+        },
+        {
+            "id": 140,
+            "question": "Which North-Eastern state topped the Export Preparedness Index 2024?",
+            "options": [
+                "Nagaland",
+                "Assam",
+                "Meghalaya",
+                "Tripura"
+            ],
+            "answer": "Nagaland"
+        },
+        {
+            "id": 141,
+            "question": "Which Union Territory topped the Export Preparedness Index 2024?",
+            "options": [
+                "Dadra and Nagar Haveli",
+                "Delhi",
+                "Chandigarh",
+                "Puducherry"
+            ],
+            "answer": "Dadra and Nagar Haveli"
+        },
+        {
+            "id": 142,
+            "question": "Which year’s Export Preparedness Index was released in 2026?",
+            "options": [
+                "2024",
+                "2023",
+                "2025",
+                "2022"
+            ],
+            "answer": "2024"
+        },
+        {
+            "id": 143,
+            "question": "Which organisation publishes the Human Development Index?",
+            "options": [
+                "UNDP",
+                "WEF",
+                "IMF",
+                "World Bank"
+            ],
+            "answer": "UNDP"
+        },
+        {
+            "id": 144,
+            "question": "Which organisation publishes the Gender Inequality Index?",
+            "options": [
+                "UNDP",
+                "WEF",
+                "OECD",
+                "IMF"
+            ],
+            "answer": "UNDP"
+        },
+        {
+            "id": 145,
+            "question": "Which organisation publishes the Global Gender Gap Index?",
+            "options": [
+                "World Economic Forum",
+                "UNDP",
+                "IMF",
+                "OECD"
+            ],
+            "answer": "World Economic Forum"
+        },
+        {
+            "id": 146,
+            "question": "Which organisation publishes the Energy Transition Index?",
+            "options": [
+                "World Economic Forum",
+                "UNDP",
+                "IMF",
+                "OECD"
+            ],
+            "answer": "World Economic Forum"
+        },
+        {
+            "id": 147,
+            "question": "Which organisation publishes the Global Hunger Index?",
+            "options": [
+                "Concern Worldwide and Welthungerhilfe",
+                "UNDP",
+                "FAO",
+                "World Bank"
+            ],
+            "answer": "Concern Worldwide and Welthungerhilfe"
+        },
+        {
+            "id": 148,
+            "question": "Which organisation publishes the Global Firepower Index?",
+            "options": [
+                "Global Firepower",
+                "SIPRI",
+                "WEF",
+                "IMF"
+            ],
+            "answer": "Global Firepower"
+        },
+        {
+            "id": 149,
+            "question": "Which organisation publishes the Asia Power Index?",
+            "options": [
+                "Lowy Institute",
+                "WEF",
+                "UNDP",
+                "OECD"
+            ],
+            "answer": "Lowy Institute"
+        },
+        {
+            "id": 150,
+            "question": "Which organisation publishes the Global Terrorism Index?",
+            "options": [
+                "Institute for Economics & Peace",
+                "UNDP",
+                "WEF",
+                "IMF"
+            ],
+            "answer": "Institute for Economics & Peace"
+        },
+        {
+            "id": 151,
+            "question": "Which organisation publishes the World Happiness Index?",
+            "options": [
+                "UN Sustainable Development Solutions Network",
+                "UNDP",
+                "WEF",
+                "World Bank"
+            ],
+            "answer": "UN Sustainable Development Solutions Network"
+        },
+        {
+            "id": 152,
+            "question": "Which organisation publishes the World Press Freedom Index?",
+            "options": [
+                "Reporters Without Borders",
+                "Freedom House",
+                "UNDP",
+                "WEF"
+            ],
+            "answer": "Reporters Without Borders"
+        },
+        {
+            "id": 153,
+            "question": "Which organisation publishes the World Competitiveness Ranking?",
+            "options": [
+                "Institute for Management Development",
+                "WEF",
+                "OECD",
+                "World Bank"
+            ],
+            "answer": "Institute for Management Development"
+        },
+        {
+            "id": 154,
+            "question": "Which organisation publishes the Smart City Index?",
+            "options": [
+                "Institute for Management Development",
+                "WEF",
+                "UNDP",
+                "OECD"
+            ],
+            "answer": "Institute for Management Development"
+        },
+        {
+            "id": 155,
+            "question": "Which organisation publishes the Global Innovation Index?",
+            "options": [
+                "World Intellectual Property Organization",
+                "WEF",
+                "UNDP",
+                "OECD"
+            ],
+            "answer": "World Intellectual Property Organization"
+        },
+        {
+            "id": 156,
+            "question": "Which organisation publishes the World Investment Report?",
+            "options": [
+                "UNCTAD",
+                "IMF",
+                "World Bank",
+                "WEF"
+            ],
+            "answer": "UNCTAD"
+        },
+        {
+            "id": 157,
+            "question": "Which organisation publishes the Fiscal Monitor Report?",
+            "options": [
+                "IMF",
+                "World Bank",
+                "WEF",
+                "UNDP"
+            ],
+            "answer": "IMF"
+        },
+        {
+            "id": 158,
+            "question": "Which organisation publishes the Global Wind Report?",
+            "options": [
+                "Global Wind Energy Council",
+                "IEA",
+                "UNDP",
+                "WEF"
+            ],
+            "answer": "Global Wind Energy Council"
+        },
+        {
+            "id": 159,
+            "question": "Which organisation publishes the Performance Grading Index?",
+            "options": [
+                "Ministry of Education",
+                "NITI Aayog",
+                "UNDP",
+                "WEF"
+            ],
+            "answer": "Ministry of Education"
+        },
+        {
+            "id": 160,
+            "question": "Which organisation publishes the Panchayat Advancement Index?",
+            "options": [
+                "Ministry of Panchayati Raj",
+                "NITI Aayog",
+                "Ministry of Rural Development",
+                "UNDP"
+            ],
+            "answer": "Ministry of Panchayati Raj"
+        }
+    ]
+}
