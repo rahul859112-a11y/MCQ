@@ -1,0 +1,204 @@
+{
+    "category": "Summits, Conferences & Meetings (Sequential)",
+    "total_questions": 113,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Where is India’s first Digital Science Park located?",
+            "options": [
+                "Kochi, Kerala",
+                "Thiruvananthapuram, Kerala",
+                "Bengaluru, Karnataka",
+                "Hyderabad, Telangana"
+            ],
+            "answer": "Kochi, Kerala"
+        },
+        {
+            "id": 2,
+            "question": "India’s first Geological Park is being built in which city?",
+            "options": [
+                "Jabalpur, Madhya Pradesh",
+                "Bhopal, Madhya Pradesh",
+                "Ujjain, Madhya Pradesh",
+                "Indore, Madhya Pradesh"
+            ],
+            "answer": "Jabalpur, Madhya Pradesh"
+        },
+        {
+            "id": 3,
+            "question": "Where has India’s first AI and Robotics Technology Park been established?",
+            "options": [
+                "Bengaluru, Karnataka",
+                "Hyderabad, Telangana",
+                "Pune, Maharashtra",
+                "Chennai, Tamil Nadu"
+            ],
+            "answer": "Bengaluru, Karnataka"
+        },
+        {
+            "id": 4,
+            "question": "The country’s first fully women-owned FLO Industrial Park is located in which city?",
+            "options": [
+                "Hyderabad",
+                "Bengaluru",
+                "Chennai",
+                "Pune"
+            ],
+            "answer": "Hyderabad"
+        },
+        {
+            "id": 5,
+            "question": "Where is India’s first e-waste recycling park located?",
+            "options": [
+                "Delhi",
+                "Mumbai",
+                "Gurugram",
+                "Noida"
+            ],
+            "answer": "Delhi"
+        },
+        {
+            "id": 6,
+            "question": "The country’s first Gender Park is located in which city?",
+            "options": [
+                "Kozhikode, Kerala",
+                "Kochi, Kerala",
+                "Thiruvananthapuram, Kerala",
+                "Alappuzha, Kerala"
+            ],
+            "answer": "Kozhikode, Kerala"
+        },
+        {
+            "id": 7,
+            "question": "India’s first Night Safari Park is to be built in which city?",
+            "options": [
+                "Lucknow",
+                "Kanpur",
+                "Bhopal",
+                "Jaipur"
+            ],
+            "answer": "Lucknow"
+        },
+        {
+            "id": 8,
+            "question": "Which national park became the first in India to be equipped with satellite phones?",
+            "options": [
+                "Kaziranga National Park",
+                "Jim Corbett National Park",
+                "Ranthambore National Park",
+                "Gir National Park"
+            ],
+            "answer": "Kaziranga National Park"
+        },
+        {
+            "id": 9,
+            "question": "Which tiger reserve became India’s first Dark Sky Park?",
+            "options": [
+                "Pench Tiger Reserve",
+                "Kanha Tiger Reserve",
+                "Bandhavgarh Tiger Reserve",
+                "Tadoba Tiger Reserve"
+            ],
+            "answer": "Pench Tiger Reserve"
+        },
+        {
+            "id": 10,
+            "question": "India’s first Defence Industrial Park is being built in which state?",
+            "options": [
+                "Kerala",
+                "Tamil Nadu",
+                "Uttar Pradesh",
+                "Karnataka"
+            ],
+            "answer": "Kerala"
+        },
+        {
+            "id": 11,
+            "question": "The country’s first Cycad Garden was started in which city?",
+            "options": [
+                "Haldwani, Uttarakhand",
+                "Dehradun, Uttarakhand",
+                "Nainital, Uttarakhand",
+                "Rishikesh, Uttarakhand"
+            ],
+            "answer": "Haldwani, Uttarakhand"
+        },
+        {
+            "id": 12,
+            "question": "The world’s first Ceramic Waste Park ‘Anokhi Duniya’ is located in which city?",
+            "options": [
+                "Khurja, Uttar Pradesh",
+                "Moradabad, Uttar Pradesh",
+                "Aligarh, Uttar Pradesh",
+                "Meerut, Uttar Pradesh"
+            ],
+            "answer": "Khurja, Uttar Pradesh"
+        },
+        {
+            "id": 13,
+            "question": "Which state has become India’s first to establish a Vedic Theme Park named ‘Ved Van Park’?",
+            "options": [
+                "Uttar Pradesh",
+                "Madhya Pradesh",
+                "Rajasthan",
+                "Uttarakhand"
+            ],
+            "answer": "Uttar Pradesh"
+        },
+        {
+            "id": 14,
+            "question": "Where was India’s first Tyre Park established?",
+            "options": [
+                "Kolkata",
+                "Chennai",
+                "Pune",
+                "Ahmedabad"
+            ],
+            "answer": "Kolkata"
+        },
+        {
+            "id": 15,
+            "question": "Where is India’s first Divyang Park located?",
+            "options": [
+                "Hoshangabad, Madhya Pradesh",
+                "Indore, Madhya Pradesh",
+                "Bhopal, Madhya Pradesh",
+                "Jabalpur, Madhya Pradesh"
+            ],
+            "answer": "Hoshangabad, Madhya Pradesh"
+        },
+        {
+            "id": 16,
+            "question": "Where is the Oxygen Bird Park (Amrit Mahotsav Park) located?",
+            "options": [
+                "Nagpur–Hyderabad NH-44",
+                "Nagpur–Mumbai Expressway",
+                "Hyderabad–Bengaluru NH-48",
+                "Pune–Nashik Highway"
+            ],
+            "answer": "Nagpur–Hyderabad NH-44"
+        },
+        {
+            "id": 17,
+            "question": "The country’s first ‘Satarak Park’ dedicated to military intelligence martyrs was inaugurated in which city?",
+            "options": [
+                "Pune",
+                "Delhi",
+                "Chandigarh",
+                "Dehradun"
+            ],
+            "answer": "Pune"
+        },
+        {
+            "id": 18,
+            "question": "Where was the foundation stone of the country’s first AI-based data center park laid?",
+            "options": [
+                "Navan Raipur, Chhattisgarh",
+                "Naya Raipur, Chhattisgarh",
+                "Raipur, Chhattisgarh",
+                "Bilaspur, Chhattisgarh"
+            ],
+            "answer": "Navan Raipur, Chhattisgarh"
+        }
+    ]
+}
