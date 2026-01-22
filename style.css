@@ -14,12 +14,14 @@ body {
   display: flex;
   gap: 10px;
   overflow-x: auto;
+  overflow-y: hidden;
   margin-bottom: 20px;
   scrollbar-width: none;
 }
 
 #categoryBox::-webkit-scrollbar {
   display: none;
+  
 }
 
 #categoryBox button {

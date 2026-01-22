@@ -12,6 +12,14 @@ document.querySelectorAll("#categoryBox button").forEach(btn => {
     loadCategory(btn.dataset.category);
   };
 });
+const box = document.getElementById("categoryBox");
+
+box.addEventListener("wheel", (e) => {
+  if (e.deltaY !== 0) {
+    e.preventDefault();
+    box.scrollLeft += e.deltaY;
+  }
+}, { passive: false });
 
 document.getElementById("actionBtn").onclick = handleButton;
 
@@ -54,8 +62,8 @@ function loadQuestions() {
 
         <div class="options">
           ${q.options.map(opt =>
-            `<div class="option" data-q="${i}" data-val="${opt}">${opt}</div>`
-          ).join("")}
+      `<div class="option" data-q="${i}" data-val="${opt}">${opt}</div>`
+    ).join("")}
         </div>
 
         <button class="show-answer-btn" data-q="${i}">Show Answer</button>
@@ -140,16 +148,15 @@ function showReport(a, c, w, u, t) {
     <p>Attempted: <b>${a}</b></p>
     <p>Correct: <b>${c}</b></p>
     <p>Wrong: <b>${w}</b></p>
-    <p>Score: <b>${Math.round((c/t)*100)}%</b></p>
-    ${
-      w
-        ? wrongQuestions.map(q =>
-            `<button class="jump-btn"
+    <p>Score: <b>${Math.round((c / t) * 100)}%</b></p>
+    ${w
+      ? wrongQuestions.map(q =>
+        `<button class="jump-btn"
               onclick="jumpToQuestion(${q}); switchToReportBtn();">
               Q${q}
             </button>`
-          ).join("")
-        : "<p>🎉 Perfect Score!</p>"
+      ).join("")
+      : "<p>🎉 Perfect Score!</p>"
     }
   `;
   document.getElementById("reportModal").style.display = "block";
@@ -184,6 +191,7 @@ function handleButton() {
     loadCategory(currentCategory);
   }
 }
+
 
 /* START */
 loadCategory("award");
