@@ -3,191 +3,192 @@
     "total_questions": 17,
     "questions": [
         {
-            "id": 1,
-            "question": "Who has become the new Prime Minister of the Czech Republic?",
-            "options": [
-                "Andrej Babiš",
-                "Petr Fiala",
-                "Miloš Zeman",
-                "Vaclav Klaus"
-            ],
-            "answer": "Andrej Babiš"
-        },
-        {
-            "id": 2,
-            "question": "Who has been named as the new President of China?",
-            "options": [
-                "Jose Antonio Kast",
-                "Xi Jinping",
-                "Li Qiang",
-                "Wang Yi"
-            ],
-            "answer": "Jose Antonio Kast"
-        },
-        {
-            "id": 3,
-            "question": "Who became Japan’s first female Prime Minister?",
-            "options": [
-                "Sanae Takaichi",
-                "Yuriko Koike",
-                "Fumio Kishida",
-                "Seiko Noda"
-            ],
-            "answer": "Sanae Takaichi"
-        },
-        {
-            "id": 4,
-            "question": "Who is the President of Seychelles?",
-            "options": [
-                "Patrick Herminy",
-                "Wavel Ramkalawan",
-                "Danny Faure",
-                "James Michel"
-            ],
-            "answer": "Patrick Herminy"
-        },
-        {
-            "id": 5,
-            "question": "Who became the first woman interim Prime Minister of Nepal?",
-            "options": [
-                "Sushila Karki",
-                "Bidhya Devi Bhandari",
-                "Onsari Gharti",
-                "Sujata Koirala"
-            ],
-            "answer": "Sushila Karki"
-        },
-        {
-            "id": 6,
-            "question": "Who has been re-elected as the Prime Minister of Norway?",
-            "options": [
-                "Jonas Gahr Støre",
-                "Erna Solberg",
-                "Jens Stoltenberg",
-                "Trygve Slagsvold Vedum"
-            ],
-            "answer": "Jonas Gahr Støre"
-        },
-        {
-            "id": 7,
-            "question": "Who has been appointed as the new Prime Minister of France?",
-            "options": [
-                "Sébastien Lecornu",
-                "Emmanuel Macron",
-                "Gabriel Attal",
-                "Bruno Le Maire"
-            ],
-            "answer": "Sébastien Lecornu"
-        },
-        {
-            "id": 8,
-            "question": "Who is the President of Guyana?",
-            "options": [
-                "Irfaan Ali",
-                "David Granger",
-                "Bharrat Jagdeo",
-                "Mark Phillips"
-            ],
-            "answer": "Irfaan Ali"
-        },
-        {
-            "id": 9,
-            "question": "Who has become the new Prime Minister of Thailand?",
-            "options": [
-                "Anutin Charnvirakul",
-                "Prayut Chan-o-cha",
-                "Srettha Thavisin",
-                "Paetongtarn Shinawatra"
-            ],
-            "answer": "Anutin Charnvirakul"
-        },
-        {
-            "id": 10,
-            "question": "Who is the new Prime Minister of Jamaica?",
-            "options": [
-                "Andrew Holness",
-                "Portia Simpson-Miller",
-                "Mark Golding",
-                "Bruce Golding"
-            ],
-            "answer": "Andrew Holness"
-        },
-        {
-            "id": 11,
-            "question": "Who has become the new Prime Minister of Niue?",
-            "options": [
-                "Inga Ruginien",
-                "Dalton Tagelagi",
-                "Sir Toke Talagi",
-                "Billy Talagi"
-            ],
-            "answer": "Inga Ruginien"
-        },
-        {
-            "id": 12,
-            "question": "Who became the first female President of Suriname?",
-            "options": [
-                "Jennifer Geerlings-Simons",
-                "Desi Bouterse",
-                "Chan Santokhi",
-                "Ruth Wijdenbosch"
-            ],
-            "answer": "Jennifer Geerlings-Simons"
-        },
-        {
-            "id": 13,
-            "question": "Who has become the new President of Romania?",
-            "options": [
-                "Nicușor Dan",
-                "Klaus Iohannis",
-                "Victor Ponta",
-                "Marcel Ciolacu"
-            ],
-            "answer": "Nicușor Dan"
-        },
-        {
-            "id": 14,
-            "question": "Who is the Prime Minister of Sudan?",
-            "options": [
-                "Kamil Idris",
-                "Abdalla Hamdok",
-                "Abdel Fattah al-Burhan",
-                "Mohamed Hamdan Dagalo"
-            ],
-            "answer": "Kamil Idris"
-        },
-        {
-            "id": 15,
-            "question": "Who has become the 14th President of South Korea?",
-            "options": [
-                "Lee Jae-myung",
-                "Yoon Suk Yeol",
-                "Moon Jae-in",
-                "Park Geun-hye"
-            ],
-            "answer": "Lee Jae-myung"
-        },
-        {
-            "id": 16,
-            "question": "Who is the Prime Minister of Portugal?",
-            "options": [
-                "Luís Montenegro",
-                "António Costa",
-                "Marcelo Rebelo de Sousa",
-                "Rui Rio"
-            ],
-            "answer": "Luís Montenegro"
-        },
-        {
-            "id": 17,
-            "question": "Who is the President of Poland?",
-            "options": [
-                "Karol Nawrocki",
-                "Andrzej Duda",
-                "Mateusz Morawiecki",
-                "Donald Tusk"
-            ],
-            "answer": "Karol Nawrocki"
-        }
-    ]
-}
+            {
+                "id": 1,
+                "question": "Who is the new Prime Minister of the Czech Republic?",
+                "options": [
+                    "Andrej Babiš",
+                    "Petr Fiala",
+                    "Miloš Zeman",
+                    "Ivan Bartoš"
+                ],
+                "answer": "Andrej Babiš"
+            },
+            {
+                "id": 2,
+                "question": "Who is the new President of Chile?",
+                "options": [
+                    "José Antonio Kast",
+                    "Gabriel Boric",
+                    "Sebastián Piñera",
+                    "Michelle Bachelet"
+                ],
+                "answer": "José Antonio Kast"
+            },
+            {
+                "id": 3,
+                "question": "Who became Japan’s first female Prime Minister?",
+                "options": [
+                    "Sanae Takaichi",
+                    "Yuriko Koike",
+                    "Seiko Hashimoto",
+                    "Fumio Kishida"
+                ],
+                "answer": "Sanae Takaichi"
+            },
+            {
+                "id": 4,
+                "question": "Who is the President of Seychelles?",
+                "options": [
+                    "Patrick Herminy",
+                    "Wavel Ramkalawan",
+                    "Danny Faure",
+                    "James Michel"
+                ],
+                "answer": "Patrick Herminy"
+            },
+            {
+                "id": 5,
+                "question": "Who was the first woman interim Prime Minister of Nepal?",
+                "options": [
+                    "Sushila Karki",
+                    "Bidya Devi Bhandari",
+                    "Onsari Gharti Magar",
+                    "Hisila Yami"
+                ],
+                "answer": "Sushila Karki"
+            },
+            {
+                "id": 6,
+                "question": "Who was re-elected as the Prime Minister of Norway?",
+                "options": [
+                    "Jonas Gahr Støre",
+                    "Erna Solberg",
+                    "Trygve Slagsvold Vedum",
+                    "Ine Eriksen Søreide"
+                ],
+                "answer": "Jonas Gahr Støre"
+            },
+            {
+                "id": 7,
+                "question": "Who is the new Prime Minister of France?",
+                "options": [
+                    "Sébastien Lecornu",
+                    "Élisabeth Borne",
+                    "Emmanuel Macron",
+                    "Bruno Le Maire"
+                ],
+                "answer": "Sébastien Lecornu"
+            },
+            {
+                "id": 8,
+                "question": "Who is the President of Guyana?",
+                "options": [
+                    "Irfaan Ali",
+                    "David Granger",
+                    "Mark Phillips",
+                    "Bharrat Jagdeo"
+                ],
+                "answer": "Irfaan Ali"
+            },
+            {
+                "id": 9,
+                "question": "Who became the new Prime Minister of Thailand?",
+                "options": [
+                    "Anutin Charnvirakul",
+                    "Prayut Chan-o-cha",
+                    "Srettha Thavisin",
+                    "Pita Limjaroenrat"
+                ],
+                "answer": "Anutin Charnvirakul"
+            },
+            {
+                "id": 10,
+                "question": "Who is the new Prime Minister of Jamaica?",
+                "options": [
+                    "Andrew Holness",
+                    "Portia Simpson-Miller",
+                    "Bruce Golding",
+                    "Mark Golding"
+                ],
+                "answer": "Andrew Holness"
+            },
+            {
+                "id": 11,
+                "question": "Who became the new Prime Minister of Lithuania?",
+                "options": [
+                    "Inga Ruginienė",
+                    "Ingrida Šimonytė",
+                    "Gitanas Nausėda",
+                    "Saulius Skvernelis"
+                ],
+                "answer": "Inga Ruginienė"
+            },
+            {
+                "id": 12,
+                "question": "Who became the first female President of Suriname?",
+                "options": [
+                    "Jennifer Geerlings-Simons",
+                    "Chan Santokhi",
+                    "Desi Bouterse",
+                    "Ruth Wijdenbosch"
+                ],
+                "answer": "Jennifer Geerlings-Simons"
+            },
+            {
+                "id": 13,
+                "question": "Who is the new President of Romania?",
+                "options": [
+                    "Nicușor Dan",
+                    "Klaus Iohannis",
+                    "Marcel Ciolacu",
+                    "Victor Ponta"
+                ],
+                "answer": "Nicușor Dan"
+            },
+            {
+                "id": 14,
+                "question": "Who is the Prime Minister of Sudan?",
+                "options": [
+                    "Kamil Idris",
+                    "Abdalla Hamdok",
+                    "Abdel Fattah al-Burhan",
+                    "Mohamed Hamdan Dagalo"
+                ],
+                "answer": "Kamil Idris"
+            },
+            {
+                "id": 15,
+                "question": "Who became the 14th President of South Korea?",
+                "options": [
+                    "Lee Jae-myung",
+                    "Yoon Suk Yeol",
+                    "Moon Jae-in",
+                    "Park Geun-hye"
+                ],
+                "answer": "Lee Jae-myung"
+            },
+            {
+                "id": 16,
+                "question": "Who is the Prime Minister of Portugal?",
+                "options": [
+                    "Luís Montenegro",
+                    "António Costa",
+                    "Marcelo Rebelo de Sousa",
+                    "Rui Rio"
+                ],
+                "answer": "Luís Montenegro"
+            },
+            {
+                "id": 17,
+                "question": "Who is the President of Poland?",
+                "options": [
+                    "Karol Nawrocki",
+                    "Andrzej Duda",
+                    "Donald Tusk",
+                    "Mateusz Morawiecki"
+                ],
+                "answer": "Karol Nawrocki"
+            }
+        ]
+    }
