@@ -1,0 +1,270 @@
+{
+    "category": "Plant",
+    "total_questions": 214,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Where was India’s first supercapacitor plant unveiled?",
+            "options": [
+                "Kannur, Kerala",
+                "Kochi, Kerala",
+                "Thiruvananthapuram, Kerala",
+                "Kozhikode, Kerala"
+            ],
+            "answer": "Kannur, Kerala"
+        },
+        {
+            "id": 2,
+            "question": "India’s first oil palm processing plant was opened in which state?",
+            "options": [
+                "Arunachal Pradesh",
+                "Assam",
+                "Nagaland",
+                "Tripura"
+            ],
+            "answer": "Arunachal Pradesh"
+        },
+        {
+            "id": 3,
+            "question": "Where was the first nuclear power plant of North India opened?",
+            "options": [
+                "Haryana",
+                "Punjab",
+                "Uttar Pradesh",
+                "Rajasthan"
+            ],
+            "answer": "Haryana"
+        },
+        {
+            "id": 4,
+            "question": "India’s first modern cow shelter with Bio-CNG plant ‘Lal Tipra Gaushala’ was inaugurated in which city?",
+            "options": [
+                "Gwalior",
+                "Indore",
+                "Bhopal",
+                "Ujjain"
+            ],
+            "answer": "Gwalior"
+        },
+        {
+            "id": 5,
+            "question": "Which G7 nation decided to close its last coal power plant?",
+            "options": [
+                "England",
+                "Germany",
+                "France",
+                "Italy"
+            ],
+            "answer": "England"
+        },
+        {
+            "id": 6,
+            "question": "Where will India’s first CO₂-to-manure pilot plant be built?",
+            "options": [
+                "Pune",
+                "Mumbai",
+                "Nagpur",
+                "Nashik"
+            ],
+            "answer": "Pune"
+        },
+        {
+            "id": 7,
+            "question": "North India’s first green hydrogen plant will be built at Dabhota in which state?",
+            "options": [
+                "Himachal Pradesh",
+                "Uttarakhand",
+                "Punjab",
+                "Haryana"
+            ],
+            "answer": "Himachal Pradesh"
+        },
+        {
+            "id": 8,
+            "question": "The country’s first automated biomedical waste treatment plant ‘Srijanam’ was started at which place?",
+            "options": [
+                "AIIMS Delhi",
+                "AIIMS Bhopal",
+                "AIIMS Jodhpur",
+                "AIIMS Rishikesh"
+            ],
+            "answer": "AIIMS Delhi"
+        },
+        {
+            "id": 9,
+            "question": "India’s first PPP green waste processing plant will be set up in which city?",
+            "options": [
+                "Indore",
+                "Bhopal",
+                "Ahmedabad",
+                "Surat"
+            ],
+            "answer": "Indore"
+        },
+        {
+            "id": 10,
+            "question": "India’s first gallium nitride–based semiconductor plant will be built in which state?",
+            "options": [
+                "Chhattisgarh",
+                "Odisha",
+                "Tamil Nadu",
+                "Gujarat"
+            ],
+            "answer": "Chhattisgarh"
+        },
+        {
+            "id": 11,
+            "question": "Which company will manufacture semiconductors at India’s first gallium nitride plant?",
+            "options": [
+                "Polymatech Electronics",
+                "Tata Electronics",
+                "Vedanta",
+                "Foxconn"
+            ],
+            "answer": "Polymatech Electronics"
+        },
+        {
+            "id": 12,
+            "question": "India’s first Made-in-India H125 helicopter assembly plant has been set up in which district?",
+            "options": [
+                "Kolar, Karnataka",
+                "Tumakuru, Karnataka",
+                "Bengaluru Urban",
+                "Chitradurga"
+            ],
+            "answer": "Kolar, Karnataka"
+        },
+        {
+            "id": 13,
+            "question": "Which two companies jointly set up India’s first H125 helicopter assembly plant?",
+            "options": [
+                "Tata Group and Airbus",
+                "HAL and Airbus",
+                "Tata Group and Boeing",
+                "HAL and Boeing"
+            ],
+            "answer": "Tata Group and Airbus"
+        },
+        {
+            "id": 14,
+            "question": "Where will the country’s first fully indigenously developed 50 KW geothermal power plant be set up?",
+            "options": [
+                "Tawang district, Arunachal Pradesh",
+                "Leh district, Ladakh",
+                "Pithoragarh, Uttarakhand",
+                "Lahaul-Spiti, Himachal Pradesh"
+            ],
+            "answer": "Tawang district, Arunachal Pradesh"
+        },
+        {
+            "id": 15,
+            "question": "Where was the first green hydrogen plant of Uttar Pradesh established?",
+            "options": [
+                "Gorakhpur",
+                "Lucknow",
+                "Kanpur",
+                "Varanasi"
+            ],
+            "answer": "Gorakhpur"
+        },
+        {
+            "id": 16,
+            "question": "India’s first mobile tempered glass factory was inaugurated in which city?",
+            "options": [
+                "Noida",
+                "Greater Noida",
+                "Ghaziabad",
+                "Gurugram"
+            ],
+            "answer": "Noida"
+        },
+        {
+            "id": 17,
+            "question": "Which company inaugurated India’s first mobile tempered glass factory?",
+            "options": [
+                "Optimus InfraCom",
+                "Corning India",
+                "Reliance Industries",
+                "Dixon Technologies"
+            ],
+            "answer": "Optimus InfraCom"
+        },
+        {
+            "id": 18,
+            "question": "The technology used in India’s first mobile tempered glass factory is sourced from which company?",
+            "options": [
+                "Corning",
+                "Samsung",
+                "LG",
+                "Sony"
+            ],
+            "answer": "Corning"
+        },
+        {
+            "id": 19,
+            "question": "Which Japanese company inaugurated a Li-ion battery plant in Sohna, Haryana?",
+            "options": [
+                "TDK Corporation",
+                "Panasonic",
+                "Hitachi",
+                "Toshiba"
+            ],
+            "answer": "TDK Corporation"
+        },
+        {
+            "id": 20,
+            "question": "India’s first bamboo-based biorefinery is being built in which location?",
+            "options": [
+                "Numaligarh, Assam",
+                "Digboi, Assam",
+                "Silchar, Assam",
+                "Tezpur, Assam"
+            ],
+            "answer": "Numaligarh, Assam"
+        },
+        {
+            "id": 21,
+            "question": "The world’s first solar thermal power plant was started in the Gobi Desert by which country?",
+            "options": [
+                "China",
+                "Mongolia",
+                "Japan",
+                "South Korea"
+            ],
+            "answer": "China"
+        },
+        {
+            "id": 22,
+            "question": "Which company became the 27th Navaratna company in December 2025?",
+            "options": [
+                "Numaligarh Refinery Limited",
+                "ONGC",
+                "GAIL",
+                "Indian Oil Corporation"
+            ],
+            "answer": "Numaligarh Refinery Limited"
+        },
+        {
+            "id": 23,
+            "question": "Numaligarh Refinery Limited is located in which state?",
+            "options": [
+                "Assam",
+                "West Bengal",
+                "Odisha",
+                "Bihar"
+            ],
+            "answer": "Assam"
+        },
+        {
+            "id": 24,
+            "question": "India’s first Hydrokinetic Power Plant was commissioned in which location?",
+            "options": [
+                "Nangal Canal, Punjab",
+                "Bhakra Canal, Punjab",
+                "Indira Gandhi Canal, Rajasthan",
+                "Upper Bari Doab Canal, Punjab"
+            ],
+            "answer": "Nangal Canal, Punjab"
+        }
+    ]
+}
