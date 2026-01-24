@@ -1,0 +1,457 @@
+{
+    "category": "IIT",
+    "total_questions": 41,
+    "questions": [
+        {
+            "id": 1,
+            "question": "DRDO signed an MoU with which IIT to develop the lightweight bulletproof jacket 'ABHED'?",
+            "options": [
+                "IIT Delhi",
+                "IIT Kanpur",
+                "IIT Madras",
+                "IIT Bombay"
+            ],
+            "answer": "IIT Delhi"
+        },
+        {
+            "id": 2,
+            "question": "IIT Madras announced the opening of its first international research centre in which city?",
+            "options": [
+                "Dubai",
+                "Abu Dhabi",
+                "Singapore",
+                "London"
+            ],
+            "answer": "Dubai"
+        },
+        {
+            "id": 3,
+            "question": "Where was the research centre for AMOLED display technology started?",
+            "options": [
+                "IIT Madras",
+                "IIT Bombay",
+                "IIT Delhi",
+                "IIT Hyderabad"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "id": 4,
+            "question": "Which IIT developed a needle-less shock syringe for painless injections?",
+            "options": [
+                "IIT Bombay",
+                "IIT Madras",
+                "IIT Kanpur",
+                "IIT Delhi"
+            ],
+            "answer": "IIT Bombay"
+        },
+        {
+            "id": 5,
+            "question": "Which IIT launched 'Project VISTAAR' to bring a digital revolution in Indian agriculture?",
+            "options": [
+                "IIT Madras",
+                "IIT Kharagpur",
+                "IIT Guwahati",
+                "IIT Indore"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "id": 6,
+            "question": "Which IIT, in collaboration with DRDO, unveiled India’s largest metal 3D printing machine?",
+            "options": [
+                "IIT Hyderabad",
+                "IIT Bombay",
+                "IIT Kanpur",
+                "IIT Madras"
+            ],
+            "answer": "IIT Hyderabad"
+        },
+        {
+            "id": 7,
+            "question": "IIT Indore launched Centre of Excellence 'Agrihub' in collaboration with which ministry?",
+            "options": [
+                "MeitY",
+                "Ministry of Agriculture",
+                "DST",
+                "NITI Aayog"
+            ],
+            "answer": "MeitY"
+        },
+        {
+            "id": 8,
+            "question": "Which IIT launched India’s first cancer genome atlas?",
+            "options": [
+                "IIT Madras",
+                "IIT Delhi",
+                "IIT Bombay",
+                "IIT Hyderabad"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "id": 9,
+            "question": "Which IIT tied up with the Indian Army to develop high-altitude bamboo-based bunkers?",
+            "options": [
+                "IIT Guwahati",
+                "IIT Roorkee",
+                "IIT Patna",
+                "IIT Jammu"
+            ],
+            "answer": "IIT Guwahati"
+        },
+        {
+            "id": 10,
+            "question": "India’s first 3D-printed military bunker was built in which location?",
+            "options": [
+                "Ladakh",
+                "Sikkim",
+                "Arunachal Pradesh",
+                "Himachal Pradesh"
+            ],
+            "answer": "Ladakh"
+        },
+        {
+            "id": 11,
+            "question": "Which IIT built India’s first 3D-printed military bunker?",
+            "options": [
+                "IIT Hyderabad",
+                "IIT Madras",
+                "IIT Delhi",
+                "IIT Kanpur"
+            ],
+            "answer": "IIT Hyderabad"
+        },
+        {
+            "id": 12,
+            "question": "Delhi government announced cloud seeding to reduce air pollution in collaboration with which IIT?",
+            "options": [
+                "IIT Kanpur",
+                "IIT Delhi",
+                "IIT Bombay",
+                "IIT Roorkee"
+            ],
+            "answer": "IIT Kanpur"
+        },
+        {
+            "id": 13,
+            "question": "Coal India signed an MoU to set up the Centre for Clean Coal Energy and Net Zero (CLEANZ) with which IIT?",
+            "options": [
+                "IIT Hyderabad",
+                "IIT Dhanbad",
+                "IIT Madras",
+                "IIT Kanpur"
+            ],
+            "answer": "IIT Hyderabad"
+        },
+        {
+            "id": 14,
+            "question": "ISRO will develop indigenous semiconductor chip 'IRIS' in collaboration with which IIT?",
+            "options": [
+                "IIT Madras",
+                "IIT Bombay",
+                "IIT Delhi",
+                "IIT Hyderabad"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "id": 15,
+            "question": "Techkriti 2025 was organised by which IIT?",
+            "options": [
+                "IIT Kanpur",
+                "IIT Bombay",
+                "IIT Delhi",
+                "IIT Roorkee"
+            ],
+            "answer": "IIT Kanpur"
+        },
+        {
+            "id": 16,
+            "question": "Which IIM opened its first international campus in Dubai?",
+            "options": [
+                "IIM Ahmedabad",
+                "IIM Bangalore",
+                "IIM Calcutta",
+                "IIM Lucknow"
+            ],
+            "answer": "IIM Ahmedabad"
+        },
+        {
+            "id": 17,
+            "question": "India’s first indigenous AI model 'BharatGen' was developed by which IIT?",
+            "options": [
+                "IIT Bombay",
+                "IIT Madras",
+                "IIT Delhi",
+                "IIT Hyderabad"
+            ],
+            "answer": "IIT Bombay"
+        },
+        {
+            "id": 18,
+            "question": "Which IIT developed the 'DRUM App' to help commuters choose greener routes?",
+            "options": [
+                "IIT Kharagpur",
+                "IIT Bombay",
+                "IIT Delhi",
+                "IIT Madras"
+            ],
+            "answer": "IIT Kharagpur"
+        },
+        {
+            "id": 19,
+            "question": "Which IIT developed wastewater treatment technology 'Bhima' using mushroom waste?",
+            "options": [
+                "IIT Guwahati",
+                "IIT Madras",
+                "IIT Patna",
+                "IIT Indore"
+            ],
+            "answer": "IIT Guwahati"
+        },
+        {
+            "id": 20,
+            "question": "Which university topped the QS World University Rankings 2026 globally?",
+            "options": [
+                "MIT, USA",
+                "Oxford University",
+                "Harvard University",
+                "Stanford University"
+            ],
+            "answer": "MIT, USA"
+        },
+        {
+            "id": 21,
+            "question": "Which IIT ranked highest among Indian institutions in QS World University Rankings 2026?",
+            "options": [
+                "IIT Delhi",
+                "IIT Bombay",
+                "IIT Madras",
+                "IIT Kanpur"
+            ],
+            "answer": "IIT Delhi"
+        },
+        {
+            "id": 22,
+            "question": "Which IIT developed India’s first indigenous microprocessor 'Shakti'?",
+            "options": [
+                "IIT Madras",
+                "IIT Bombay",
+                "IIT Kanpur",
+                "IIT Delhi"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "id": 23,
+            "question": "India Post opened its first Gen Z-themed post office at which IIT?",
+            "options": [
+                "IIT Delhi",
+                "IIT Bombay",
+                "IIT Madras",
+                "IIT Kanpur"
+            ],
+            "answer": "IIT Delhi"
+        },
+        {
+            "id": 24,
+            "question": "Which IIT topped the NIRF 2025 Overall Ranking?",
+            "options": [
+                "IIT Madras",
+                "IIT Delhi",
+                "IIT Bombay",
+                "IIT Kanpur"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "id": 25,
+            "question": "Which IIT launched India’s first cancer genome atlas for early detection of breast cancer?",
+            "options": [
+                "IIT Madras",
+                "IIT Bombay",
+                "IIT Delhi",
+                "IIT Hyderabad"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "id": 26,
+            "question": "Army Chief Upendra Dwivedi established a research cell named 'Agni Shodh' at which IIT?",
+            "options": [
+                "IIT Madras",
+                "IIT Kanpur",
+                "IIT Delhi",
+                "IIT Hyderabad"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "id": 27,
+            "question": "The District Flood Severity Index was released for the first time by which institutions?",
+            "options": [
+                "IIT Delhi and IIT Gandhinagar",
+                "IIT Bombay and IIT Roorkee",
+                "IIT Madras and IIT Patna",
+                "IIT Kanpur and IIT Guwahati"
+            ],
+            "answer": "IIT Delhi and IIT Gandhinagar"
+        },
+        {
+            "id": 28,
+            "question": "Which district was identified as the most flood-affected in the District Flood Severity Index?",
+            "options": [
+                "Patna",
+                "Guwahati",
+                "Varanasi",
+                "Bhagalpur"
+            ],
+            "answer": "Patna"
+        },
+        {
+            "id": 29,
+            "question": "Which IIT launched the AI-powered learning app 'Tooties'?",
+            "options": [
+                "IIT Palakkad",
+                "IIT Madras",
+                "IIT Hyderabad",
+                "IIT Guwahati"
+            ],
+            "answer": "IIT Palakkad"
+        },
+        {
+            "id": 30,
+            "question": "Which country hosted the first overseas Atal Innovation Centre launched by India?",
+            "options": [
+                "UAE",
+                "USA",
+                "UK",
+                "Singapore"
+            ],
+            "answer": "UAE"
+        },
+        {
+            "id": 31,
+            "question": "Where is the overseas Atal Innovation Centre located?",
+            "options": [
+                "Abu Dhabi",
+                "Dubai",
+                "Sharjah",
+                "Ajman"
+            ],
+            "answer": "Abu Dhabi"
+        },
+        {
+            "id": 32,
+            "question": "Which minister approved the establishment of Namo Semiconductor Laboratory?",
+            "options": [
+                "Ashwini Vaishnaw",
+                "Piyush Goyal",
+                "Dharmendra Pradhan",
+                "Rajeev Chandrasekhar"
+            ],
+            "answer": "Ashwini Vaishnaw"
+        },
+        {
+            "id": 33,
+            "question": "Where will the Namo Semiconductor Laboratory be established?",
+            "options": [
+                "Bhubaneswar",
+                "Cuttack",
+                "Rourkela",
+                "Puri"
+            ],
+            "answer": "Bhubaneswar"
+        },
+        {
+            "id": 34,
+            "question": "UP government launched a Carbon Credit Model for farmers in collaboration with which IIT?",
+            "options": [
+                "IIT Roorkee",
+                "IIT Kanpur",
+                "IIT Delhi",
+                "IIT BHU"
+            ],
+            "answer": "IIT Roorkee"
+        },
+        {
+            "id": 35,
+            "question": "Which IIT developed a smart polymer material that acts as a smart window coating?",
+            "options": [
+                "IIT Bhilai",
+                "IIT Indore",
+                "IIT Patna",
+                "IIT Mandi"
+            ],
+            "answer": "IIT Bhilai"
+        },
+        {
+            "id": 36,
+            "question": "Which IIT started the 'Impact RISE' initiative for social change?",
+            "options": [
+                "IIT Kharagpur",
+                "IIT Madras",
+                "IIT Bombay",
+                "IIT Delhi"
+            ],
+            "answer": "IIT Kharagpur"
+        },
+        {
+            "id": 37,
+            "question": "India’s first IIT was established at which place?",
+            "options": [
+                "IIT Kharagpur",
+                "IIT Bombay",
+                "IIT Madras",
+                "IIT Kanpur"
+            ],
+            "answer": "IIT Kharagpur"
+        },
+        {
+            "id": 38,
+            "question": "Which IIT developed AILA (AI Lab Assistant)?",
+            "options": [
+                "IIT Delhi",
+                "IIT Bombay",
+                "IIT Madras",
+                "IIT Hyderabad"
+            ],
+            "answer": "IIT Delhi"
+        },
+        {
+            "id": 39,
+            "question": "Param Rudra supercomputer is installed at which IIT?",
+            "options": [
+                "IIT Patna",
+                "IIT Madras",
+                "IIT Kanpur",
+                "IIT Bombay"
+            ],
+            "answer": "IIT Patna"
+        },
+        {
+            "id": 40,
+            "question": "What is the computing capacity of the Param Rudra supercomputer?",
+            "options": [
+                "838 FLOPS",
+                "500 FLOPS",
+                "1 PetaFLOP",
+                "250 FLOPS"
+            ],
+            "answer": "838 FLOPS"
+        },
+        {
+            "id": 41,
+            "question": "Who inaugurated the initiative at IIT Madras related to international outreach?",
+            "options": [
+                "S. Jaishankar",
+                "Narendra Modi",
+                "Ashwini Vaishnaw",
+                "Dharmendra Pradhan"
+            ],
+            "answer": "S. Jaishankar"
+        }
+    ]
+}
